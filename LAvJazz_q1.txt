@@ -1,0 +1,113 @@
+GAME       200 200 200 200 200
+12:00		Jusuf Nurkic vs. Deandre Ayton (Keyonte George gains possession)	0	0
+11:36		Keyonte George misses 24-foot three point step back jumpshot	0	0
+11:33		Deandre Ayton defensive rebound	0	0
+11:19		LeBron James bad pass (Ace Bailey steals)	0	0
+11:09		Svi Mykhailiuk makes 27-foot three pointer (Jusuf Nurkic assists)	3	0
+10:51		Rui Hachimura makes 12-foot jumper (Luka Doncic assists)	3	2
+10:35		Jusuf Nurkic bad pass (Luka Doncic steals)	3	2
+10:33		Luka Doncic traveling	3	2
+10:22		Ace Bailey misses 26-foot three point jumper	3	2
+10:20		Deandre Ayton defensive rebound	3	2
+10:13		Rui Hachimura misses layup	3	2
+10:10		Rui Hachimura offensive rebound	3	2
+10:07		Austin Reaves misses 25-foot three point step back jumpshot	3	2
+10:04		Lauri Markkanen defensive rebound	3	2
+9:54		Svi Mykhailiuk makes 24-foot three point jumper (Keyonte George assists)	6	2
+9:39		Luka Doncic misses 10-foot two point shot	6	2
+9:36		Jusuf Nurkic defensive rebound	6	2
+9:28		Lauri Markkanen misses 26-foot three point jumper	6	2
+9:24		Jusuf Nurkic offensive rebound	6	2
+9:21		Keyonte George makes 27-foot three point jumper (Jusuf Nurkic assists)	9	2
+9:02		Luka Doncic misses 26-foot three point jumper	9	2
+9:00		Jusuf Nurkic defensive rebound	9	2
+8:41		Ace Bailey makes 3-foot driving dunk (Keyonte George assists)	11	2
+8:28		Deandre Ayton makes 15-foot jumper (LeBron James assists)	11	4
+8:23		Lauri Markkanen makes alley oop layup (Keyonte George assists)	13	4
+8:07		Deandre Ayton misses 13-foot jumper	13	4
+8:04		Keyonte George defensive rebound	13	4
+7:51		Keyonte George misses driving floating jump shot	13	4
+7:49		Deandre Ayton defensive rebound	13	4
+7:43		LeBron James misses running pullup jump shot	13	4
+7:40		Svi Mykhailiuk defensive rebound	13	4
+7:36		Lauri Markkanen misses 23-foot three point shot	13	4
+7:33		Deandre Ayton defensive rebound	13	4
+7:24		Luka Doncic makes 12-foot two point shot	13	6
+7:01		Keyonte George makes 25-foot three point jumper (Jusuf Nurkic assists)	16	6
+6:45		Luka Doncic misses 24-foot three point step back jumpshot	16	6
+6:42		Keyonte George defensive rebound	16	6
+6:36		Svi Mykhailiuk bad pass (Luka Doncic steals)	16	6
+6:34		Keyonte George shooting foul	16	6
+6:34		Marcus Smart enters the game for LeBron James	16	6
+6:34		Kevin Love enters the game for Jusuf Nurkic	16	6
+6:34		Kyle Anderson enters the game for Ace Bailey	16	6
+6:34		Luka Doncic makes free throw 1 of 2	16	7
+6:34		Luka Doncic makes free throw 2 of 2	16	8
+6:34		Lakers Full timeout	16	8
+6:21		Keyonte George misses 25-foot three point pullup jump shot	16	8
+6:19		Lauri Markkanen offensive rebound	16	8
+6:19		Austin Reaves personal foul	16	8
+6:13		Lauri Markkanen makes 11-foot pullup jump shot (Keyonte George assists)	18	8
+5:54		Luka Doncic makes 9-foot driving floating jump shot	18	10
+5:44		Marcus Smart personal foul	18	10
+5:44		Brice Sensabaugh enters the game for Svi Mykhailiuk	18	10
+5:44		Isaiah Collier enters the game for Lauri Markkanen	18	10
+5:30		Keyonte George makes 24-foot three point jumper (Isaiah Collier assists)	21	10
+5:17		Austin Reaves misses 26-foot three point pullup jump shot	21	10
+5:14		Kevin Love defensive rebound	21	10
+5:06		Kevin Love misses 27-foot three point pullup jump shot	21	10
+5:02		Austin Reaves defensive rebound	21	10
+4:49		Brice Sensabaugh shooting foul	21	10
+4:49		Austin Reaves makes free throw 1 of 3	21	11
+4:49		Jaxson Hayes enters the game for Deandre Ayton	21	11
+4:49		Austin Reaves makes free throw 2 of 3	21	12
+4:49		Austin Reaves makes free throw 3 of 3	21	13
+4:29		Keyonte George makes 10-foot pullup jump shot	23	13
+4:19		Jaxson Hayes makes 2-foot alley oop dunk shot (Luka Doncic assists)	23	15
+4:19		Jazz Full timeout	23	15
+4:19		Jake LaRavia enters the game for Austin Reaves	23	15
+4:08		Isaiah Collier misses 14-foot pullup jump shot	23	15
+4:08		Marcus Smart defensive rebound	23	15
+3:54		Jake LaRavia makes 3-foot dunk (Luka Doncic assists)	23	17
+3:42		Keyonte George makes 16-foot pullup jump shot	25	17
+3:27		Luka Doncic makes driving layup	25	19
+3:13		Keyonte George misses 27-foot three point jumper	25	19
+3:09		Rui Hachimura defensive rebound	25	19
+3:05		Luka Doncic misses running pullup jump shot	25	19
+3:02		Keyonte George defensive rebound	25	19
+2:52		Brice Sensabaugh offensive foul	25	19
+2:52		Brice Sensabaugh turnover	25	19
+2:52		Lauri Markkanen enters the game for Keyonte George	25	19
+2:41		Kyle Anderson shooting foul	25	19
+2:41		Luka Doncic misses free throw 1 of 2	25	19
+2:41		Lakers offensive team rebound	25	19
+2:41		Luka Doncic makes free throw 2 of 2	25	20
+2:32		Isaiah Collier offensive foul	25	20
+2:32		Isaiah Collier turnover	25	20
+2:32		Cody Williams enters the game for Kyle Anderson	25	20
+2:21		Rui Hachimura misses layup	25	20
+2:19		Rui Hachimura offensive rebound	25	20
+2:18		Rui Hachimura makes two point shot	25	22
+1:58		LeBron James enters the game for Rui Hachimura	25	22
+1:58		Gabe Vincent enters the game for Marcus Smart	25	22
+1:58		Jusuf Nurkic enters the game for Kevin Love	25	22
+1:55		Brice Sensabaugh misses 25-foot three point pullup jump shot	25	22
+1:52		Jusuf Nurkic offensive rebound	25	22
+1:51		Jusuf Nurkic makes two point shot	27	22
+1:43		Jake LaRavia makes 23-foot three point jumper (LeBron James assists)	27	25
+1:28		Lauri Markkanen makes 18-foot pullup jump shot (Isaiah Collier assists)	29	25
+1:16		Luka Doncic bad pass (Brice Sensabaugh steals)	29	25
+1:12		Lauri Markkanen misses layup	29	25
+1:09		LeBron James defensive rebound	29	25
+1:08		Luka Doncic offensive foul	29	25
+1:08		Luka Doncic turnover	29	25
+53.4		Lauri Markkanen makes 26-foot three point jumper (Brice Sensabaugh assists)	32	25
+37.9		Jusuf Nurkic kicked ball violation	32	25
+28.9		Luka Doncic bad pass (Cody Williams steals)	32	25
+25.4		Isaiah Collier makes two point shot (Lauri Markkanen assists)	34	25
+3.2		Jake LaRavia makes 11-foot two point shot (Luka Doncic assists)	34	27
+0.5		Gabe Vincent shooting foul	34	27
+0.5		Isaiah Collier makes free throw 1 of 2	35	27
+0.5		Isaiah Collier makes free throw 2 of 2	36	27
+0.2		Jake LaRavia misses heave jump shot	36	27
+0.2		Lakers offensive team rebound	36	27
