@@ -1,0 +1,2854 @@
+GAME        23.4 80.3 225 124.8 120.2 4       Jazz vs Lakers  11/23
+12:00		Jusuf Nurkic vs. Deandre Ayton (Keyonte George gains possession)	0	0
+11:36		Keyonte George misses 24-foot three point step back jumpshot	0	0
+11:33		Deandre Ayton defensive rebound	0	0
+11:19		LeBron James bad pass (Ace Bailey steals)	0	0
+11:09		Svi Mykhailiuk makes 27-foot three pointer (Jusuf Nurkic assists)	3	0
+10:51		Rui Hachimura makes 12-foot jumper (Luka Doncic assists)	3	2
+10:35		Jusuf Nurkic bad pass (Luka Doncic steals)	3	2
+10:33		Luka Doncic traveling	3	2
+10:22		Ace Bailey misses 26-foot three point jumper	3	2
+10:20		Deandre Ayton defensive rebound	3	2
+10:13		Rui Hachimura misses layup	3	2
+10:10		Rui Hachimura offensive rebound	3	2
+10:07		Austin Reaves misses 25-foot three point step back jumpshot	3	2
+10:04		Lauri Markkanen defensive rebound	3	2
+9:54		Svi Mykhailiuk makes 24-foot three point jumper (Keyonte George assists)	6	2
+9:39		Luka Doncic misses 10-foot two point shot	6	2
+9:36		Jusuf Nurkic defensive rebound	6	2
+9:28		Lauri Markkanen misses 26-foot three point jumper	6	2
+9:24		Jusuf Nurkic offensive rebound	6	2
+9:21		Keyonte George makes 27-foot three point jumper (Jusuf Nurkic assists)	9	2
+9:02		Luka Doncic misses 26-foot three point jumper	9	2
+9:00		Jusuf Nurkic defensive rebound	9	2
+8:41		Ace Bailey makes 3-foot driving dunk (Keyonte George assists)	11	2
+8:28		Deandre Ayton makes 15-foot jumper (LeBron James assists)	11	4
+8:23		Lauri Markkanen makes alley oop layup (Keyonte George assists)	13	4
+8:07		Deandre Ayton misses 13-foot jumper	13	4
+8:04		Keyonte George defensive rebound	13	4
+7:51		Keyonte George misses driving floating jump shot	13	4
+7:49		Deandre Ayton defensive rebound	13	4
+7:43		LeBron James misses running pullup jump shot	13	4
+7:40		Svi Mykhailiuk defensive rebound	13	4
+7:36		Lauri Markkanen misses 23-foot three point shot	13	4
+7:33		Deandre Ayton defensive rebound	13	4
+7:24		Luka Doncic makes 12-foot two point shot	13	6
+7:01		Keyonte George makes 25-foot three point jumper (Jusuf Nurkic assists)	16	6
+6:45		Luka Doncic misses 24-foot three point step back jumpshot	16	6
+6:42		Keyonte George defensive rebound	16	6
+6:36		Svi Mykhailiuk bad pass (Luka Doncic steals)	16	6
+6:34		Keyonte George shooting foul	16	6
+6:34		Marcus Smart enters the game for LeBron James	16	6
+6:34		Kevin Love enters the game for Jusuf Nurkic	16	6
+6:34		Kyle Anderson enters the game for Ace Bailey	16	6
+6:34		Luka Doncic makes free throw 1 of 2	16	7
+6:34		Luka Doncic makes free throw 2 of 2	16	8
+6:34		Lakers Full timeout	16	8
+6:21		Keyonte George misses 25-foot three point pullup jump shot	16	8
+6:19		Lauri Markkanen offensive rebound	16	8
+6:19		Austin Reaves personal foul	16	8
+6:13		Lauri Markkanen makes 11-foot pullup jump shot (Keyonte George assists)	18	8
+5:54		Luka Doncic makes 9-foot driving floating jump shot	18	10
+5:44		Marcus Smart personal foul	18	10
+5:44		Brice Sensabaugh enters the game for Svi Mykhailiuk	18	10
+5:44		Isaiah Collier enters the game for Lauri Markkanen	18	10
+5:30		Keyonte George makes 24-foot three point jumper (Isaiah Collier assists)	21	10
+5:17		Austin Reaves misses 26-foot three point pullup jump shot	21	10
+5:14		Kevin Love defensive rebound	21	10
+5:06		Kevin Love misses 27-foot three point pullup jump shot	21	10
+5:02		Austin Reaves defensive rebound	21	10
+4:49		Brice Sensabaugh shooting foul	21	10
+4:49		Austin Reaves makes free throw 1 of 3	21	11
+4:49		Jaxson Hayes enters the game for Deandre Ayton	21	11
+4:49		Austin Reaves makes free throw 2 of 3	21	12
+4:49		Austin Reaves makes free throw 3 of 3	21	13
+4:29		Keyonte George makes 10-foot pullup jump shot	23	13
+4:19		Jaxson Hayes makes 2-foot alley oop dunk shot (Luka Doncic assists)	23	15
+4:19		Jazz Full timeout	23	15
+4:19		Jake LaRavia enters the game for Austin Reaves	23	15
+4:08		Isaiah Collier misses 14-foot pullup jump shot	23	15
+4:08		Marcus Smart defensive rebound	23	15
+3:54		Jake LaRavia makes 3-foot dunk (Luka Doncic assists)	23	17
+3:42		Keyonte George makes 16-foot pullup jump shot	25	17
+3:27		Luka Doncic makes driving layup	25	19
+3:13		Keyonte George misses 27-foot three point jumper	25	19
+3:09		Rui Hachimura defensive rebound	25	19
+3:05		Luka Doncic misses running pullup jump shot	25	19
+3:02		Keyonte George defensive rebound	25	19
+2:52		Brice Sensabaugh offensive foul	25	19
+2:52		Brice Sensabaugh turnover	25	19
+2:52		Lauri Markkanen enters the game for Keyonte George	25	19
+2:41		Kyle Anderson shooting foul	25	19
+2:41		Luka Doncic misses free throw 1 of 2	25	19
+2:41		Lakers offensive team rebound	25	19
+2:41		Luka Doncic makes free throw 2 of 2	25	20
+2:32		Isaiah Collier offensive foul	25	20
+2:32		Isaiah Collier turnover	25	20
+2:32		Cody Williams enters the game for Kyle Anderson	25	20
+2:21		Rui Hachimura misses layup	25	20
+2:19		Rui Hachimura offensive rebound	25	20
+2:18		Rui Hachimura makes two point shot	25	22
+1:58		LeBron James enters the game for Rui Hachimura	25	22
+1:58		Gabe Vincent enters the game for Marcus Smart	25	22
+1:58		Jusuf Nurkic enters the game for Kevin Love	25	22
+1:55		Brice Sensabaugh misses 25-foot three point pullup jump shot	25	22
+1:52		Jusuf Nurkic offensive rebound	25	22
+1:51		Jusuf Nurkic makes two point shot	27	22
+1:43		Jake LaRavia makes 23-foot three point jumper (LeBron James assists)	27	25
+1:28		Lauri Markkanen makes 18-foot pullup jump shot (Isaiah Collier assists)	29	25
+1:16		Luka Doncic bad pass (Brice Sensabaugh steals)	29	25
+1:12		Lauri Markkanen misses layup	29	25
+1:09		LeBron James defensive rebound	29	25
+1:08		Luka Doncic offensive foul	29	25
+1:08		Luka Doncic turnover	29	25
+53.4		Lauri Markkanen makes 26-foot three point jumper (Brice Sensabaugh assists)	32	25
+37.9		Jusuf Nurkic kicked ball violation	32	25
+28.9		Luka Doncic bad pass (Cody Williams steals)	32	25
+25.4		Isaiah Collier makes two point shot (Lauri Markkanen assists)	34	25
+3.2		Jake LaRavia makes 11-foot two point shot (Luka Doncic assists)	34	27
+0.5		Gabe Vincent shooting foul	34	27
+0.5		Isaiah Collier makes free throw 1 of 2	35	27
+0.5		Isaiah Collier makes free throw 2 of 2	36	27
+0.2		Jake LaRavia misses heave jump shot	36	27
+0.2		Lakers offensive team rebound	36	27
+12:00		Brice Sensabaugh enters the game for Keyonte George	32	30
+12:00		Ace Bailey enters the game for Kyle Filipowski	32	30
+12:00		Jusuf Nurkic enters the game for Kevin Love	32	30
+12:00		Lauri Markkanen enters the game for Taylor Hendricks	32	30
+12:00		Gabe Vincent enters the game for Jaxson Hayes	32	30
+12:00		Austin Reaves enters the game for Marcus Smart	32	30
+12:00		Deandre Ayton enters the game for Luka Doncic	32	30
+11:51		Brice Sensabaugh misses 25-foot three point pullup jump shot	32	30
+11:48		Jusuf Nurkic offensive rebound	32	30
+11:35		Isaiah Collier misses 27-foot three point pullup jump shot	32	30
+11:31		Lauri Markkanen offensive rebound	32	30
+11:31		Lauri Markkanen makes two point shot	32	32
+11:12		Deandre Ayton makes alley oop layup (LeBron James assists)	34	32
+10:47		Brice Sensabaugh makes 25-foot three point jumper (Jusuf Nurkic assists)	34	35
+10:32		LeBron James misses driving layup	34	35
+10:30		Lauri Markkanen defensive rebound	34	35
+10:24		Lauri Markkanen misses 29-foot three point jumper	34	35
+10:20		Jazz offensive team rebound	34	35
+10:07		Jusuf Nurkic lost ball turnover (Deandre Ayton steals)	34	35
+10:00		Austin Reaves misses 5-foot two point shot	34	35
+9:58		Brice Sensabaugh defensive rebound	34	35
+9:55		Austin Reaves shooting foul	34	35
+9:55		Brice Sensabaugh makes free throw 1 of 2	34	36
+9:55		Kyle Filipowski enters the game for Lauri Markkanen	34	36
+9:55		Brice Sensabaugh makes free throw 2 of 2	34	37
+9:40		Austin Reaves makes 28-foot three point jumper (LeBron James assists)	37	37
+9:29		Isaiah Collier makes driving layup	37	39
+9:29		Austin Reaves shooting foul	37	39
+9:29		Isaiah Collier makes free throw 1 of 1	37	40
+9:17		Jake LaRavia makes 23-foot three point jumper (LeBron James assists)	40	40
+9:00		Ace Bailey makes 22-foot three point shot (Isaiah Collier assists)	40	43
+8:45		Jake LaRavia makes 7-foot two point shot (LeBron James assists)	42	43
+8:43		Jazz Full timeout	42	43
+8:23		Jusuf Nurkic makes 11-foot two point shot (Ace Bailey assists)	42	45
+8:03		LeBron James bad pass (Jusuf Nurkic steals)	42	45
+7:57		Brice Sensabaugh misses 8-foot two point shot	42	45
+7:54		Kyle Filipowski offensive rebound	42	45
+7:51		Isaiah Collier misses 23-foot three point jumper	42	45
+7:49		Brice Sensabaugh offensive rebound	42	45
+7:43		Isaiah Collier misses two point shot	42	45
+7:42		LeBron James defensive rebound	42	45
+7:29		LeBron James bad pass (Isaiah Collier steals)	42	45
+7:24		Brice Sensabaugh misses 22-foot three point shot	42	45
+7:21		Jake LaRavia defensive rebound	42	45
+7:18		LeBron James misses 24-foot three point shot	42	45
+7:14		Lakers offensive team rebound	42	45
+7:14		Keyonte George enters the game for Isaiah Collier	42	45
+7:14		Luka Doncic enters the game for Jake LaRavia	42	45
+7:12		LeBron James misses 24-foot three point jumper	42	45
+7:08		Brice Sensabaugh defensive rebound	42	45
+6:54		Kyle Filipowski bad pass (Gabe Vincent steals)	42	45
+6:50		LeBron James misses dunk	42	45
+6:47		Jusuf Nurkic defensive rebound	42	45
+6:42		Brice Sensabaugh misses two point shot	42	45
+6:40		Gabe Vincent defensive rebound	42	45
+6:38		LeBron James makes 2-foot dunk (Luka Doncic assists)	44	45
+6:25		Keyonte George makes 12-foot pullup jump shot	44	47
+6:01		LeBron James makes 8-foot two point shot	46	47
+5:47		Ace Bailey misses 25-foot three point jumper	46	47
+5:46		LeBron James defensive rebound	46	47
+5:42		LeBron James makes two point shot	48	47
+5:25		Deandre Ayton shooting foul	48	47
+5:25		Jusuf Nurkic misses free throw 1 of 2	48	47
+5:25		Jazz offensive team rebound	48	47
+5:25		Svi Mykhailiuk enters the game for Ace Bailey	48	47
+5:25		Lauri Markkanen enters the game for Kyle Filipowski	48	47
+5:25		Jaxson Hayes enters the game for Deandre Ayton	48	47
+5:25		Marcus Smart enters the game for LeBron James	48	47
+5:25		Jusuf Nurkic misses free throw 2 of 2	48	47
+5:22		Austin Reaves defensive rebound	48	47
+5:09		Luka Doncic makes 11-foot pullup jump shot	50	47
+4:53		Kevin Love enters the game for Jusuf Nurkic	50	47
+4:53		Rui Hachimura enters the game for Austin Reaves	50	47
+4:46		Kevin Love bad pass (Luka Doncic steals)	50	47
+4:42		Jaxson Hayes makes 4-foot dunk (Luka Doncic assists)	52	47
+4:21		Brice Sensabaugh misses two point shot	52	47
+4:20		Lakers defensive team rebound	52	47
+4:20		Brice Sensabaugh loose ball foul	52	47
+4:20		Isaiah Collier enters the game for Brice Sensabaugh	52	47
+4:03		Luka Doncic misses 12-foot step back jumpshot	52	47
+4:01		Jazz defensive team rebound	52	47
+3:53		Gabe Vincent personal foul	52	47
+3:40		Rui Hachimura shooting foul	52	47
+3:40		Keyonte George makes free throw 1 of 2	52	48
+3:40		LeBron James enters the game for Gabe Vincent	52	48
+3:40		Keyonte George makes free throw 2 of 2	52	49
+3:26		Marcus Smart misses 25-foot three point jumper	52	49
+3:23		Kevin Love defensive rebound	52	49
+3:14		Keyonte George offensive charge	52	49
+3:14		Keyonte George turnover	52	49
+2:54		Marcus Smart makes 25-foot three point jumper (Luka Doncic assists)	55	49
+2:40		Svi Mykhailiuk misses 22-foot three point jumper	55	49
+2:36		Kevin Love offensive rebound	55	49
+2:36		Kevin Love makes two point shot	55	51
+2:30		Luka Doncic out of bounds bad pass turnover	55	51
+2:30		Lakers Full timeout	55	51
+2:30		Jusuf Nurkic enters the game for Kevin Love	55	51
+2:30		Austin Reaves enters the game for Jaxson Hayes	55	51
+2:10		Keyonte George misses two point shot	55	51
+2:10		LeBron James defensive rebound	55	51
+2:04		Luka Doncic misses running pullup jump shot	55	51
+2:01		Jusuf Nurkic defensive rebound	55	51
+1:55		Lauri Markkanen makes two point shot (Svi Mykhailiuk assists)	55	53
+1:34		LeBron James makes 4-foot driving dunk	57	53
+1:19		Keyonte George bad pass	57	53
+1:19		Jusuf Nurkic loose ball foul	57	53
+1:08		Luka Doncic misses driving floating jump shot	57	53
+1:05		Keyonte George defensive rebound	57	53
+1:00		Keyonte George misses 25-foot three point jumper	57	53
+58.2		LeBron James defensive rebound	57	53
+53.8		Austin Reaves makes two point shot (LeBron James assists)	59	53
+34.7		Jusuf Nurkic makes driving layup (Keyonte George assists)	59	55
+34.7		Luka Doncic shooting foul	59	55
+34.7		Jusuf Nurkic misses free throw 1 of 1	59	55
+33.3		Austin Reaves defensive rebound	59	55
+27.9		Rui Hachimura makes 25-foot three point shot (Luka Doncic assists)	62	55
+3.4		Isaiah Collier lost ball turnover (Luka Doncic steals)	62	55
+0.0		Austin Reaves misses 9-foot two point shot	62	55
+0.0		Lakers offensive team rebound	62	55
+12:00		Ace Bailey enters the game for Isaiah Collier	62	55
+12:00		Jaxson Hayes enters the game for Marcus Smart	62	55
+11:46		Keyonte George makes 28-foot three point jumper (Jusuf Nurkic assists)	62	58
+11:27		Jaxson Hayes makes 2-foot dunk (Luka Doncic assists)	64	58
+11:27		Keyonte George shooting foul	64	58
+11:27		Jaxson Hayes makes free throw 1 of 1	65	58
+11:15		Lauri Markkanen misses 14-foot pullup jump shot	65	58
+11:12		Rui Hachimura defensive rebound	65	58
+11:07		Luka Doncic makes 17-foot step back jumpshot	67	58
+10:44		Keyonte George makes 25-foot three point step back jumpshot	67	61
+10:25		LeBron James misses 22-foot three point jumper	67	61
+10:22		Jusuf Nurkic defensive rebound	67	61
+10:18		Luka Doncic personal foul	67	61
+10:11		Ace Bailey misses 25-foot three point jumper	67	61
+10:09		Luka Doncic defensive rebound	67	61
+9:53		Ace Bailey shooting foul	67	61
+9:53		Rui Hachimura misses free throw 1 of 2	67	61
+9:53		Lakers offensive team rebound	67	61
+9:53		Rui Hachimura makes free throw 2 of 2	68	61
+9:42		Svi Mykhailiuk misses 23-foot three point jumper	68	61
+9:38		Jusuf Nurkic offensive rebound	68	61
+9:30		Lauri Markkanen misses 23-foot three point jumper	68	61
+9:28		Austin Reaves defensive rebound	68	61
+9:20		Rui Hachimura misses 23-foot three point jumper	68	61
+9:15		Lauri Markkanen defensive rebound	68	61
+9:07		Keyonte George makes 9-foot two point shot	68	63
+8:54		Luka Doncic misses 19-foot two point shot	68	63
+8:53		Keyonte George defensive rebound	68	63
+8:48		Svi Mykhailiuk makes 29-foot three point shot (Keyonte George assists)	68	66
+8:27		Austin Reaves misses 22-foot three point jumper	68	66
+8:24		Jusuf Nurkic defensive rebound	68	66
+8:16		Jusuf Nurkic makes 3-foot layup (Lauri Markkanen assists)	68	68
+7:55		Luka Doncic misses 25-foot three point pullup jump shot	68	68
+7:52		Jazz defensive team rebound	68	68
+7:52		Jaxson Hayes loose ball foul	68	68
+7:36		Keyonte George misses driving layup	68	68
+7:36		Jazz offensive team rebound	68	68
+7:36		LeBron James loose ball foul	68	68
+7:24		Keyonte George misses 26-foot three point step back jumpshot	68	68
+7:20		Ace Bailey offensive rebound	68	68
+7:20		Ace Bailey makes dunk	68	70
+7:05		Austin Reaves misses 27-foot three point jumper	68	70
+7:02		Lauri Markkanen defensive rebound	68	70
+6:59		Keyonte George makes two point shot (Lauri Markkanen assists)	68	72
+6:59		Lakers Full timeout	68	72
+6:59		Maxi Kleber enters the game for Jaxson Hayes	68	72
+6:46		Keyonte George shooting foul	68	72
+6:46		Luka Doncic misses free throw 1 of 2	68	72
+6:46		Lakers offensive team rebound	68	72
+6:46		Kevin Love enters the game for Jusuf Nurkic	68	72
+6:46		Luka Doncic makes free throw 2 of 2	69	72
+6:26		Svi Mykhailiuk misses driving layup	69	72
+6:23		Kevin Love offensive rebound	69	72
+6:23		Kevin Love makes tip shot	69	74
+6:09		Austin Reaves makes 7-foot two point shot (LeBron James assists)	71	74
+5:53		Lauri Markkanen makes driving layup (Keyonte George assists)	71	76
+5:37		Luka Doncic misses 25-foot three point jumper	71	76
+5:34		Jazz defensive team rebound	71	76
+5:34		Marcus Smart enters the game for LeBron James	71	76
+5:20		Keyonte George misses 20-foot pullup jump shot	71	76
+5:18		Rui Hachimura defensive rebound	71	76
+5:15		Maxi Kleber offensive foul	71	76
+5:15		Jake LaRavia enters the game for Rui Hachimura	71	76
+5:15		Jazz Full timeout	71	76
+5:15		(05:15) [Jazz] COACH'S CHALLENGE (CALL OVERTURNED) [Jazz] retain their timeout	71	76
+5:15		Maxi Kleber turnover	71	76
+5:15		Kyle Filipowski enters the game for Ace Bailey	71	76
+5:15		Brice Sensabaugh enters the game for Lauri Markkanen	71	76
+5:03		Brice Sensabaugh misses 25-foot three point step back jumpshot	71	76
+5:01		Luka Doncic defensive rebound	71	76
+4:59		Isaiah Collier enters the game for Svi Mykhailiuk	71	76
+4:50		Luka Doncic bad pass (Kevin Love steals)	71	76
+4:43		Isaiah Collier out of bounds bad pass turnover	71	76
+4:29		Marcus Smart misses 26-foot three point jumper	71	76
+4:27		Kevin Love defensive rebound	71	76
+4:16		Keyonte George makes 3-foot layup (Kevin Love assists)	71	78
+3:58		Austin Reaves makes driving layup (Jake LaRavia assists)	73	78
+3:58		Kevin Love shooting foul	73	78
+3:58		Austin Reaves makes free throw 1 of 1	74	78
+3:40		Jake LaRavia blocks Isaiah Collier 's 11-foot pullup jump shot	74	78
+3:38		Austin Reaves defensive rebound	74	78
+3:32		Jake LaRavia misses two point shot	74	78
+3:30		Kyle Filipowski defensive rebound	74	78
+3:07		Maxi Kleber blocks Keyonte George 's 5-foot two point shot	74	78
+3:05		Austin Reaves defensive rebound	74	78
+3:01		Luka Doncic makes 25-foot three point shot (Austin Reaves assists)	77	78
+2:40		Kyle Filipowski misses 9-foot two point shot	77	78
+2:39		Kevin Love offensive rebound	77	78
+2:38		Kevin Love misses two point shot	77	78
+2:37		Jazz offensive team rebound	77	78
+2:34		Marcus Smart blocks Keyonte George 's 2-foot layup	77	78
+2:31		Maxi Kleber defensive rebound	77	78
+2:29		Kyle Filipowski blocks Jake LaRavia 's 5-foot layup	77	78
+2:29		Lakers offensive team rebound	77	78
+2:29		LeBron James enters the game for Austin Reaves	77	78
+2:29		Lauri Markkanen enters the game for Kevin Love	77	78
+2:26		Isaiah Collier personal foul	77	78
+2:26		Luka Doncic makes free throw 1 of 2	78	78
+2:26		Luka Doncic makes free throw 2 of 2	79	78
+2:13		Lauri Markkanen misses two point shot	79	78
+2:11		LeBron James defensive rebound	79	78
+1:56		Luka Doncic misses 25-foot three point pullup jump shot	79	78
+1:53		Maxi Kleber offensive rebound	79	78
+1:47		Jake LaRavia misses driving layup	79	78
+1:46		Keyonte George defensive rebound	79	78
+1:43		Keyonte George misses 26-foot three point shot	79	78
+1:39		Luka Doncic defensive rebound	79	78
+1:36		LeBron James makes 4-foot dunk (Luka Doncic assists)	81	78
+1:19		Maxi Kleber shooting foul	81	78
+1:19		Keyonte George misses free throw 1 of 2	81	78
+1:19		Jazz offensive team rebound	81	78
+1:19		Ace Bailey enters the game for Isaiah Collier	81	78
+1:19		Keyonte George makes free throw 2 of 2	81	79
+1:10		Maxi Kleber misses 26-foot three point jumper	81	79
+1:06		Keyonte George defensive rebound	81	79
+53.4		Brice Sensabaugh steps out of bounds turnover	81	79
+38.0		Kyle Filipowski shooting foul	81	79
+38.0		LeBron James makes free throw 1 of 2	82	79
+38.0		LeBron James misses free throw 2 of 2	82	79
+36.3		Ace Bailey defensive rebound	82	79
+27.0		Kyle Filipowski makes 4-foot dunk (Ace Bailey assists)	82	81
+11.7		Ace Bailey shooting foul	82	81
+11.7		Luka Doncic makes free throw 1 of 2	83	81
+11.7		(00:11.7) [Lakers] COACH'S CHALLENGE (CALL REPLAYCENTER)	83	81
+11.7		Luka Doncic makes free throw 2 of 2	84	81
+0.0		Kyle Filipowski misses 19-foot hook shot	84	81
+0.0		Jazz offensive team rebound	84	81
+12:00		Isaiah Collier enters the game for Keyonte George	84	81
+12:00		Jusuf Nurkic enters the game for Kyle Filipowski	84	81
+12:00		Jaxson Hayes enters the game for Jake LaRavia	84	81
+12:00		Rui Hachimura enters the game for Maxi Kleber	84	81
+12:00		Gabe Vincent enters the game for Marcus Smart	84	81
+12:00		Austin Reaves enters the game for Luka Doncic	84	81
+11:44		LeBron James misses 13-foot two point shot	84	81
+11:40		Ace Bailey defensive rebound	84	81
+11:26		Lauri Markkanen out of bounds lost ball turnover	84	81
+11:03		Austin Reaves misses 26-foot three point pullup jump shot	84	81
+11:00		Ace Bailey defensive rebound	84	81
+10:51		Gabe Vincent personal foul	84	81
+10:41		Brice Sensabaugh misses 13-foot pullup jump shot	84	81
+10:38		LeBron James defensive rebound	84	81
+10:24		LeBron James misses 13-foot two point shot	84	81
+10:22		Jaxson Hayes offensive rebound	84	81
+10:21		Brice Sensabaugh shooting foul	84	81
+10:21		Austin Reaves misses free throw 1 of 2	84	81
+10:21		Lakers offensive team rebound	84	81
+10:21		Austin Reaves makes free throw 2 of 2	85	81
+10:03		Jaxson Hayes shooting foul	85	81
+10:03		Isaiah Collier makes free throw 1 of 2	85	82
+10:03		Kyle Filipowski enters the game for Lauri Markkanen	85	82
+10:03		Svi Mykhailiuk enters the game for Brice Sensabaugh	85	82
+10:03		Isaiah Collier misses free throw 2 of 2	85	82
+10:01		Rui Hachimura defensive rebound	85	82
+9:51		Jaxson Hayes offensive foul	85	82
+9:51		Jaxson Hayes turnover	85	82
+9:36		Kyle Filipowski bad pass (Austin Reaves steals)	85	82
+9:32		LeBron James makes two point shot (Austin Reaves assists)	87	82
+9:21		LeBron James personal foul	87	82
+9:15		Svi Mykhailiuk out of bounds lost ball turnover	87	82
+9:03		Austin Reaves misses 27-foot three point jumper	87	82
+9:01		Isaiah Collier defensive rebound	87	82
+8:56		Luka Doncic enters the game for LeBron James	87	82
+8:54		Ace Bailey makes 25-foot three point jumper (Isaiah Collier assists)	87	85
+8:34		Rui Hachimura misses 6-foot two point shot	87	85
+8:31		Kyle Filipowski defensive rebound	87	85
+8:24		Ace Bailey misses 26-foot three point jumper	87	85
+8:22		Luka Doncic defensive rebound	87	85
+8:18		Ace Bailey shooting foul	87	85
+8:18		Rui Hachimura makes free throw 1 of 2	88	85
+8:18		Rui Hachimura makes free throw 2 of 2	89	85
+8:02		Isaiah Collier misses 8-foot two point shot	89	85
+8:00		Jaxson Hayes defensive rebound	89	85
+7:49		Kyle Filipowski shooting foul	89	85
+7:49		Luka Doncic makes free throw 1 of 2	90	85
+7:49		Lauri Markkanen enters the game for Isaiah Collier	90	85
+7:49		Keyonte George enters the game for Jusuf Nurkic	90	85
+7:49		Luka Doncic makes free throw 2 of 2	91	85
+7:32		Lauri Markkanen misses 18-foot step back jumpshot	91	85
+7:29		Luka Doncic defensive rebound	91	85
+7:15		Luka Doncic makes 10-foot two point shot	93	85
+7:04		Lauri Markkanen misses 26-foot three point jumper	93	85
+7:02		Austin Reaves defensive rebound	93	85
+6:55		Lauri Markkanen blocks Austin Reaves 's 4-foot two point shot	93	85
+6:55		Lakers offensive team rebound	93	85
+6:55		Jazz Full timeout	93	85
+6:55		Maxi Kleber enters the game for Jaxson Hayes	93	85
+6:46		Luka Doncic misses 13-foot two point shot	93	85
+6:44		Maxi Kleber offensive rebound	93	85
+6:36		Kyle Filipowski shooting foul	93	85
+6:36		Austin Reaves makes free throw 1 of 2	94	85
+6:36		Austin Reaves makes free throw 2 of 2	95	85
+6:21		Keyonte George misses driving floating jump shot	95	85
+6:18		Luka Doncic defensive rebound	95	85
+6:06		Luka Doncic makes 25-foot three point step back jumpshot	98	85
+5:51		Maxi Kleber shooting foul	98	85
+5:51		Kyle Filipowski makes free throw 1 of 2	98	86
+5:51		LeBron James enters the game for Rui Hachimura	98	86
+5:51		Jusuf Nurkic enters the game for Ace Bailey	98	86
+5:51		Kyle Filipowski makes free throw 2 of 2	98	87
+5:34		Luka Doncic out of bounds bad pass turnover	98	87
+5:24		Maxi Kleber shooting foul	98	87
+5:24		Lauri Markkanen makes free throw 1 of 2	98	88
+5:24		Lauri Markkanen makes free throw 2 of 2	98	89
+5:06		LeBron James makes driving layup	100	89
+4:52		Jusuf Nurkic misses driving floating jump shot	100	89
+4:49		Luka Doncic defensive rebound	100	89
+4:41		Kyle Filipowski personal foul	100	89
+4:41		Austin Reaves makes free throw 1 of 2	101	89
+4:41		Ace Bailey enters the game for Kyle Filipowski	101	89
+4:41		Austin Reaves makes free throw 2 of 2	102	89
+4:31		Keyonte George makes 24-foot three pointer	102	92
+4:31		Lakers Full timeout	102	92
+4:09		Luka Doncic misses 29-foot three point step back jumpshot	102	92
+4:07		Jazz defensive team rebound	102	92
+4:00		Lauri Markkanen makes 3-foot alley oop dunk shot (Keyonte George assists)	102	94
+3:33		Gabe Vincent makes 25-foot three point jumper (Luka Doncic assists)	105	94
+3:18		Keyonte George misses 24-foot three point pullup jump shot	105	94
+3:13		Luka Doncic defensive rebound	105	94
+3:08		Gabe Vincent steps out of bounds turnover	105	94
+3:08		Lakers Full timeout	105	94
+2:52		Svi Mykhailiuk makes 1-foot two point shot (Keyonte George assists)	105	96
+2:28		Austin Reaves misses 25-foot three point jumper	105	96
+2:25		Svi Mykhailiuk defensive rebound	105	96
+2:15		Lauri Markkanen makes 28-foot three pointer (Svi Mykhailiuk assists)	105	99
+1:47		Luka Doncic lost ball turnover (Ace Bailey steals)	105	99
+1:42		Lauri Markkanen makes two point shot (Svi Mykhailiuk assists)	105	101
+1:21		Maxi Kleber makes 3-foot driving dunk (LeBron James assists)	107	101
+1:08		Ace Bailey misses driving layup	107	101
+1:08		Jazz offensive team rebound	107	101
+1:07		Svi Mykhailiuk makes 1-foot two point shot (Keyonte George assists)	107	103
+46.1		LeBron James misses 26-foot three point jumper	107	103
+43.5		Ace Bailey defensive rebound	107	103
+41.3		Lauri Markkanen makes 24-foot three point shot (Ace Bailey assists)	107	106
+20.4		Austin Reaves misses 30-foot three point pullup jump shot	107	106
+17.4		Lauri Markkanen defensive rebound	107	106
+11.4		Lauri Markkanen misses 17-foot two point shot	107	106
+7.4		Luka Doncic defensive rebound	107	106
+5.8		Svi Mykhailiuk personal take foul	107	106
+5.8		Luka Doncic misses free throw 1 of 2	107	106
+5.8		Lakers offensive team rebound	107	106
+5.8		Luka Doncic makes free throw 2 of 2	108	106
+5.8		Jazz Full timeout	108	106
+5.8		Marcus Smart enters the game for Gabe Vincent	108	106
+1.7		Keyonte George misses 22-foot three point jumper	108	106
+1.7		Jazz offensive team rebound	108	106
+0.0		End of the 4th Quarter	108	106
+
+GAME 25 79 213 116 114.124 4          grizzlies vs Lakers  10/31
+12:00		Deandre Ayton vs. Jaren Jackson Jr. (Rui Hachimura gains possession)	0	0
+11:45		Luka Doncic misses 26-foot three point jumper	0	0
+11:40		Kentavious Caldwell-Pope defensive rebound	0	0
+11:21		Marcus Smart shooting foul	0	0
+11:21		Jaren Jackson Jr. misses free throw 1 of 2	0	0
+11:21		Grizzlies offensive team rebound	0	0
+11:21		Jaren Jackson Jr. makes free throw 2 of 2	0	1
+11:03		Austin Reaves misses 25-foot three point jumper	0	1
+11:00		Jaren Jackson Jr. defensive rebound	0	1
+10:51		Jock Landale makes 8-foot two point shot (Ja Morant assists)	0	3
+10:38		Luka Doncic lost ball turnover (Ja Morant steals)	0	3
+10:34		Jaylen Wells makes layup (Ja Morant assists)	0	5
+10:30		Marcus Smart bad pass	0	5
+10:30		Luka Doncic loose ball foul	0	5
+10:19		Kentavious Caldwell-Pope bad pass (Marcus Smart steals)	0	5
+10:14		Marcus Smart makes two point shot	2	5
+10:05		Jaren Jackson Jr. makes 24-foot three pointer (Ja Morant assists)	2	8
+9:53		Deandre Ayton makes 1-foot alley oop dunk shot (Marcus Smart assists)	4	8
+9:31		Ja Morant makes 13-foot pullup jump shot	4	10
+9:18		Austin Reaves makes two point shot	6	10
+9:01		Ja Morant misses 26-foot three point jumper	6	10
+8:59		Jaylen Wells offensive rebound	6	10
+8:57		Ja Morant misses 23-foot three point jumper	6	10
+8:53		Luka Doncic defensive rebound	6	10
+8:44		Luka Doncic misses 14-foot step back jumpshot	6	10
+8:43		Luka Doncic offensive rebound	6	10
+8:42		Luka Doncic makes two point shot	8	10
+8:27		Jaren Jackson Jr. makes 22-foot three point jumper (Kentavious Caldwell-Pope assists)	8	13
+8:04		Deandre Ayton misses 14-foot jumper	8	13
+8:02		Jaylen Wells defensive rebound	8	13
+7:49		Ja Morant bad pass (Austin Reaves steals)	8	13
+7:44		Luka Doncic makes two point shot (Austin Reaves assists)	10	13
+7:21		Ja Morant makes layup (Kentavious Caldwell-Pope assists)	10	15
+6:58		Luka Doncic makes 24-foot three point step back jumpshot (Rui Hachimura assists)	13	15
+6:57		Grizzlies Full timeout	13	15
+6:57		Santi Aldama enters the game for Kentavious Caldwell-Pope	13	15
+6:57		Cedric Coward enters the game for Jaren Jackson Jr.	13	15
+6:57		Jake LaRavia enters the game for Marcus Smart	13	15
+6:44		Cedric Coward makes two point shot (Jock Landale assists)	13	17
+6:29		Jake LaRavia makes 23-foot three point jumper (Luka Doncic assists)	16	17
+6:18		Jock Landale misses 10-foot jumper	16	17
+6:15		Rui Hachimura defensive rebound	16	17
+6:06		Luka Doncic bad pass (Santi Aldama steals)	16	17
+5:57		Santi Aldama misses 20-foot jumper	16	17
+5:55		Luka Doncic defensive rebound	16	17
+5:45		Austin Reaves misses 14-foot two point shot	16	17
+5:41		Santi Aldama defensive rebound	16	17
+5:34		Cedric Coward misses 24-foot three point jumper	16	17
+5:30		Jake LaRavia defensive rebound	16	17
+5:20		Austin Reaves misses 25-foot three point jumper	16	17
+5:16		Cedric Coward defensive rebound	16	17
+5:08		Rui Hachimura shooting foul	16	17
+5:08		Ja Morant makes free throw 1 of 2	16	18
+5:08		Jaren Jackson Jr. enters the game for Jaylen Wells	16	18
+5:08		Cam Spencer enters the game for Jock Landale	16	18
+5:08		Ja Morant makes free throw 2 of 2	16	19
+4:59		Cedric Coward shooting foul	16	19
+4:59		Luka Doncic misses free throw 1 of 2	16	19
+4:59		Lakers offensive team rebound	16	19
+4:59		Vince Williams Jr. enters the game for Ja Morant	16	19
+4:59		Luka Doncic misses free throw 2 of 2	16	19
+4:57		Cedric Coward defensive rebound	16	19
+4:43		Santi Aldama misses 26-foot three point jumper	16	19
+4:41		Luka Doncic defensive rebound	16	19
+4:31		Rui Hachimura misses 23-foot three point jumper	16	19
+4:28		Vince Williams Jr. defensive rebound	16	19
+4:23		Cam Spencer misses running pullup jump shot	16	19
+4:19		Austin Reaves defensive rebound	16	19
+4:05		Vince Williams Jr. shooting foul	16	19
+4:05		Luka Doncic makes free throw 1 of 3	17	19
+4:05		Luka Doncic makes free throw 2 of 3	18	19
+4:05		Jaxson Hayes enters the game for Deandre Ayton	18	19
+4:05		Dalton Knecht enters the game for Austin Reaves	18	19
+4:05		Luka Doncic makes free throw 3 of 3	19	19
+3:52		Vince Williams Jr. bad pass (Dalton Knecht steals)	19	19
+3:48		Luka Doncic bad pass (Vince Williams Jr. steals)	19	19
+3:42		Cam Spencer makes 25-foot three point shot (Vince Williams Jr. assists)	19	22
+3:23		Jake LaRavia makes 1-foot two point shot (Jaxson Hayes assists)	21	22
+3:11		Jaren Jackson Jr. makes 11-foot two point shot (Vince Williams Jr. assists)	21	24
+3:03		Cam Spencer shooting foul	21	24
+3:03		Rui Hachimura makes free throw 1 of 2	22	24
+3:03		Kentavious Caldwell-Pope enters the game for Cam Spencer	22	24
+3:03		Rui Hachimura makes free throw 2 of 2	23	24
+2:54		Cedric Coward misses layup	23	24
+2:53		Cedric Coward offensive rebound	23	24
+2:47		Santi Aldama misses two point shot	23	24
+2:46		Jake LaRavia defensive rebound	23	24
+2:36		Luka Doncic makes 26-foot three point step back jumpshot (Jaxson Hayes assists)	26	24
+2:19		Santi Aldama lost ball turnover (Jake LaRavia steals)	26	24
+2:05		Luka Doncic misses 24-foot three point jumper	26	24
+2:04		Grizzlies defensive team rebound	26	24
+2:04		Lakers Full timeout	26	24
+2:04		Jock Landale enters the game for Jaren Jackson Jr.	26	24
+2:04		Jarred Vanderbilt enters the game for Rui Hachimura	26	24
+2:04		Austin Reaves enters the game for Luka Doncic	26	24
+1:56		Vince Williams Jr. bad pass (Jake LaRavia steals)	26	24
+1:43		Jarred Vanderbilt misses 23-foot three point jumper	26	24
+1:39		Cedric Coward defensive rebound	26	24
+1:34		Cedric Coward misses running pullup jump shot	26	24
+1:28		Jarred Vanderbilt defensive rebound	26	24
+1:12		Dalton Knecht misses 15-foot step back jumpshot	26	24
+1:10		Jock Landale defensive rebound	26	24
+1:05		Vince Williams Jr. misses two point shot	26	24
+1:05		Grizzlies offensive team rebound	26	24
+1:05		Ja Morant enters the game for Vince Williams Jr.	26	24
+1:05		Marcus Smart enters the game for Jake LaRavia	26	24
+1:02		Cedric Coward makes 10-foot pullup jump shot (Ja Morant assists)	26	26
+46.4		Austin Reaves makes 11-foot driving floating jump shot (Jarred Vanderbilt assists)	28	26
+46.4		Santi Aldama shooting foul	28	26
+46.4		Austin Reaves makes free throw 1 of 1	29	26
+29.4		Santi Aldama misses 25-foot three point jumper	29	26
+26.2		Cedric Coward offensive rebound	29	26
+25.6		Dalton Knecht shooting foul	29	26
+25.6		Cedric Coward misses free throw 1 of 2	29	26
+25.6		Grizzlies offensive team rebound	29	26
+25.6		Cedric Coward makes free throw 2 of 2	29	27
+16.3		Cedric Coward personal foul	29	27
+16.3		Austin Reaves makes free throw 1 of 2	30	27
+16.3		Austin Reaves makes free throw 2 of 2	31	27
+3.0		Cedric Coward misses 25-foot three point jumper	31	27
+3.0		Jaxson Hayes defensive rebound	31	27
+0.0		End of the 1st Quarter	31	27
+12:00		Jaylen Wells enters the game for Santi Aldama	31	27
+12:00		John Konchar enters the game for Cedric Coward	31	27
+11:44		Austin Reaves shooting foul	31	27
+11:44		Kentavious Caldwell-Pope makes free throw 1 of 2	31	28
+11:44		Kentavious Caldwell-Pope makes free throw 2 of 2	31	29
+11:29		Ja Morant personal foul	31	29
+11:20		Dalton Knecht misses 26-foot three point jumper	31	29
+11:16		Kentavious Caldwell-Pope defensive rebound	31	29
+11:11		Jock Landale makes 25-foot three point shot (Kentavious Caldwell-Pope assists)	31	32
+10:55		Dalton Knecht makes 23-foot three point jumper (Jaxson Hayes assists)	34	32
+10:46		Ja Morant misses 9-foot two point shot	34	32
+10:43		Jarred Vanderbilt defensive rebound	34	32
+10:37		Austin Reaves kicked ball turnover	34	32
+10:37		Jake LaRavia enters the game for Dalton Knecht	34	32
+10:30		Jaylen Wells misses 24-foot three point pullup jump shot	34	32
+10:26		Jaylen Wells offensive rebound	34	32
+10:24		Jaylen Wells misses 24-foot three point jumper	34	32
+10:20		Marcus Smart defensive rebound	34	32
+10:17		Jake LaRavia makes 1-foot dunk (Marcus Smart assists)	36	32
+10:02		Jaren Jackson Jr. enters the game for Kentavious Caldwell-Pope	36	32
+10:02		Cam Spencer enters the game for Jock Landale	36	32
+9:55		Jaren Jackson Jr. makes 12-foot driving floating jump shot (Cam Spencer assists)	36	34
+9:43		Marcus Smart makes 13-foot two point shot	38	34
+9:43		Cam Spencer shooting foul	38	34
+9:43		Marcus Smart makes free throw 1 of 1	39	34
+9:33		Ja Morant makes 10-foot driving floating jump shot	39	36
+9:24		Marcus Smart bad pass (Cam Spencer steals)	39	36
+9:14		Ja Morant misses 18-foot pullup jump shot	39	36
+9:10		Austin Reaves defensive rebound	39	36
+9:06		Austin Reaves misses two point shot	39	36
+9:06		John Konchar defensive rebound	39	36
+8:48		Jaren Jackson Jr. offensive foul	39	36
+8:48		Jaren Jackson Jr. turnover	39	36
+8:48		Vince Williams Jr. enters the game for Jaylen Wells	39	36
+8:48		Cedric Coward enters the game for Ja Morant	39	36
+8:48		Deandre Ayton enters the game for Jaxson Hayes	39	36
+8:32		Deandre Ayton makes 9-foot two point shot (Jake LaRavia assists)	41	36
+8:32		Vince Williams Jr. shooting foul	41	36
+8:32		Santi Aldama enters the game for John Konchar	41	36
+8:32		Luka Doncic enters the game for Jarred Vanderbilt	41	36
+8:32		Deandre Ayton makes free throw 1 of 1	42	36
+8:14		Jaren Jackson Jr. bad pass (Marcus Smart steals)	42	36
+8:04		Deandre Ayton makes 9-foot two point shot (Marcus Smart assists)	44	36
+8:04		Grizzlies Full timeout	44	36
+7:53		Jaren Jackson Jr. makes driving layup	44	38
+7:27		Deandre Ayton makes alley oop layup (Luka Doncic assists)	46	38
+7:16		Cam Spencer misses 25-foot three point pullup jump shot	46	38
+7:13		Luka Doncic defensive rebound	46	38
+7:04		Jake LaRavia misses 24-foot three point jumper	46	38
+7:02		Jaren Jackson Jr. defensive rebound	46	38
+6:56		Santi Aldama makes 24-foot three point shot (Jaren Jackson Jr. assists)	46	41
+6:35		Deandre Ayton bad pass (Cam Spencer steals)	46	41
+6:28		Luka Doncic shooting foul	46	41
+6:28		Cedric Coward makes free throw 1 of 2	46	42
+6:28		John Konchar enters the game for Jaren Jackson Jr.	46	42
+6:28		Jock Landale enters the game for Santi Aldama	46	42
+6:28		Dalton Knecht enters the game for Austin Reaves	46	42
+6:28		Rui Hachimura enters the game for Marcus Smart	46	42
+6:28		Cedric Coward makes free throw 2 of 2	46	43
+6:17		Luka Doncic makes 10-foot driving floating jump shot	48	43
+6:05		Vince Williams Jr. makes 25-foot three pointer	48	46
+5:51		Luka Doncic makes driving layup	50	46
+5:31		Jock Landale makes 12-foot jumper (John Konchar assists)	50	48
+5:16		Luka Doncic bad pass (Jock Landale steals)	50	48
+5:12		Vince Williams Jr. makes two point shot (Cedric Coward assists)	50	50
+5:04		Jake LaRavia misses driving layup	50	50
+5:01		Cedric Coward defensive rebound	50	50
+4:55		Vince Williams Jr. misses 22-foot three point shot	50	50
+4:53		Cedric Coward offensive rebound	50	50
+4:48		Jock Landale makes 3-foot two point shot (Cam Spencer assists)	50	52
+4:48		Lakers Full timeout	50	52
+4:28		Rui Hachimura offensive foul	50	52
+4:28		Rui Hachimura turnover	50	52
+4:07		Vince Williams Jr. makes 11-foot two point shot	50	54
+3:51		Luka Doncic misses 27-foot three point step back jumpshot	50	54
+3:49		Jock Landale defensive rebound	50	54
+3:34		John Konchar makes 22-foot three point jumper (Cam Spencer assists)	50	57
+3:29		Vince Williams Jr. personal take foul	50	57
+3:29		Kentavious Caldwell-Pope enters the game for Vince Williams Jr.	50	57
+3:29		Jaren Jackson Jr. enters the game for Cam Spencer	50	57
+3:29		Ja Morant enters the game for John Konchar	50	57
+3:29		Santi Aldama enters the game for Jock Landale	50	57
+3:29		Austin Reaves enters the game for Dalton Knecht	50	57
+3:16		Deandre Ayton misses 10-foot two point shot	50	57
+3:13		Santi Aldama defensive rebound	50	57
+3:06		Kentavious Caldwell-Pope makes 24-foot three point jumper (Santi Aldama assists)	50	60
+3:04		Lakers Full timeout	50	60
+3:04		Jaylen Wells enters the game for Cedric Coward	50	60
+3:04		Marcus Smart enters the game for Jake LaRavia	50	60
+2:46		Luka Doncic misses 13-foot two point shot	50	60
+2:45		Grizzlies defensive team rebound	50	60
+2:27		Jaylen Wells makes 22-foot three point jumper (Santi Aldama assists)	50	63
+2:04		Austin Reaves misses driving floating jump shot	50	63
+2:01		Jaylen Wells defensive rebound	50	63
+1:55		Jaylen Wells misses running pullup jump shot	50	63
+1:55		Grizzlies offensive team rebound	50	63
+1:55		Luka Doncic loose ball foul	50	63
+1:40		Jaylen Wells makes 1-foot two point shot	50	65
+1:29		Marcus Smart makes 25-foot three point jumper (Luka Doncic assists)	53	65
+1:17		Kentavious Caldwell-Pope misses 24-foot three point pullup jump shot	53	65
+1:13		Austin Reaves defensive rebound	53	65
+1:01		Luka Doncic makes 11-foot two point shot	55	65
+46.8		Rui Hachimura blocks Kentavious Caldwell-Pope 's 13-foot driving floating jump shot	55	65
+46.8		Santi Aldama offensive rebound	55	65
+44.4		Santi Aldama misses layup	55	65
+41.8		Santi Aldama offensive rebound	55	65
+41.8		Santi Aldama misses tip shot	55	65
+41.8		Santi Aldama offensive rebound	55	65
+41.8		Santi Aldama makes two point shot	55	67
+33.6		Austin Reaves misses 26-foot three point jumper	55	67
+30.3		Santi Aldama defensive rebound	55	67
+24.5		Kentavious Caldwell-Pope makes two point shot	55	69
+2.7		Austin Reaves misses 25-foot three point jumper	55	69
+2.7		Santi Aldama defensive rebound	55	69
+0.0		Santi Aldama misses heave jump shot	55	69
+0.0		Grizzlies offensive team rebound	55	69
+0.0		End of the 2nd Quarter	55	69
+12:00		Jock Landale enters the game for Santi Aldama	55	69
+12:00		Jaxson Hayes enters the game for Deandre Ayton	55	69
+11:47		Ja Morant misses 25-foot three point step back jumpshot	55	69
+11:44		Jaxson Hayes defensive rebound	55	69
+11:30		Austin Reaves out of bounds bad pass turnover	55	69
+11:21		Jaylen Wells misses 25-foot three point jumper	55	69
+11:19		Jock Landale offensive rebound	55	69
+11:14		Jaxson Hayes blocks Jaylen Wells 's 6-foot two point shot	55	69
+11:11		Jaxson Hayes defensive rebound	55	69
+11:07		Luka Doncic makes 25-foot three point jumper (Jaxson Hayes assists)	58	69
+10:49		Ja Morant misses 25-foot three point pullup jump shot	58	69
+10:44		Jaxson Hayes defensive rebound	58	69
+10:33		Austin Reaves makes 24-foot three point jumper (Jaxson Hayes assists)	61	69
+10:12		Kentavious Caldwell-Pope makes 4-foot two point shot (Ja Morant assists)	61	71
+9:47		Marcus Smart misses 23-foot three point jumper	61	71
+9:47		Lakers offensive team rebound	61	71
+9:47		shot clock turnover	61	71
+9:32		Jock Landale makes 25-foot three point jumper (Kentavious Caldwell-Pope assists)	61	74
+9:18		Jock Landale shooting foul	61	74
+9:18		Austin Reaves makes free throw 1 of 2	62	74
+9:18		Austin Reaves makes free throw 2 of 2	63	74
+9:04		Jaylen Wells misses 22-foot three point jumper	63	74
+9:01		Luka Doncic defensive rebound	63	74
+8:58		Jock Landale personal foul	63	74
+8:58		Cedric Coward enters the game for Kentavious Caldwell-Pope	63	74
+8:58		Santi Aldama enters the game for Jaren Jackson Jr.	63	74
+8:50		Rui Hachimura makes 22-foot three point jumper (Luka Doncic assists)	66	74
+8:30		Santi Aldama misses driving floating jump shot	66	74
+8:25		Cedric Coward offensive rebound	66	74
+8:24		Cedric Coward lost ball turnover (Rui Hachimura steals)	66	74
+8:13		Santi Aldama personal foul	66	74
+8:07		Jock Landale shooting foul	66	74
+8:07		Austin Reaves makes free throw 1 of 2	67	74
+8:07		Austin Reaves makes free throw 2 of 2	68	74
+7:55		Ja Morant misses 25-foot three point step back jumpshot	68	74
+7:51		Marcus Smart defensive rebound	68	74
+7:42		Jock Landale shooting foul	68	74
+7:42		Grizzlies Full timeout	68	74
+7:42		Jaren Jackson Jr. enters the game for Jock Landale	68	74
+7:42		Luka Doncic makes free throw 1 of 2	69	74
+7:42		Luka Doncic makes free throw 2 of 2	70	74
+7:22		Jaren Jackson Jr. misses 12-foot two point shot	70	74
+7:18		Marcus Smart defensive rebound	70	74
+7:06		Luka Doncic makes 25-foot three point step back jumpshot	73	74
+6:52		Austin Reaves personal foul	73	74
+6:52		Cam Spencer enters the game for Jaylen Wells	73	74
+6:52		Vince Williams Jr. enters the game for Ja Morant	73	74
+6:36		Vince Williams Jr. misses 24-foot three point jumper	73	74
+6:34		Luka Doncic defensive rebound	73	74
+6:19		Luka Doncic misses driving floating jump shot	73	74
+6:15		Santi Aldama defensive rebound	73	74
+6:10		Marcus Smart shooting foul	73	74
+6:10		Cedric Coward makes free throw 1 of 2	73	75
+6:10		Jake LaRavia enters the game for Marcus Smart	73	75
+6:10		Cedric Coward makes free throw 2 of 2	73	76
+5:57		Luka Doncic makes 26-foot three point jumper (Austin Reaves assists)	76	76
+5:43		Jaren Jackson Jr. misses driving floating jump shot	76	76
+5:38		Jake LaRavia defensive rebound	76	76
+5:37		Luka Doncic misses 26-foot three point shot	76	76
+5:33		Jake LaRavia offensive rebound	76	76
+5:24		Jaxson Hayes makes alley oop dunk shot (Luka Doncic assists)	78	76
+5:10		Cam Spencer makes 25-foot three point jumper (Cedric Coward assists)	78	79
+4:52		Jaxson Hayes misses alley oop layup	78	79
+4:50		Jaren Jackson Jr. defensive rebound	78	79
+4:35		Cedric Coward lost ball turnover (Jaxson Hayes steals)	78	79
+4:31		Vince Williams Jr. shooting foul	78	79
+4:31		Jake LaRavia makes free throw 1 of 2	79	79
+4:31		Dalton Knecht enters the game for Austin Reaves	79	79
+4:31		Jake LaRavia makes free throw 2 of 2	80	79
+4:09		Jaxson Hayes shooting foul	80	79
+4:09		Cam Spencer makes free throw 1 of 2	80	80
+4:09		Cam Spencer makes free throw 2 of 2	80	81
+3:57		Luka Doncic misses 24-foot three point step back jumpshot	80	81
+3:53		Dalton Knecht offensive rebound	80	81
+3:50		Jake LaRavia lost ball turnover (Cedric Coward steals)	80	81
+3:46		Vince Williams Jr. misses 26-foot three point shot	80	81
+3:45		Lakers defensive team rebound	80	81
+3:29		Luka Doncic makes 12-foot two point shot	82	81
+3:13		Vince Williams Jr. misses 25-foot three point jumper	82	81
+3:10		Luka Doncic defensive rebound	82	81
+3:04		Luka Doncic bad pass (Cedric Coward steals)	82	81
+2:54		Santi Aldama makes 4-foot two point shot (Cedric Coward assists)	82	83
+2:38		Vince Williams Jr. personal foul	82	83
+2:38		Lakers Full timeout	82	83
+2:38		Ja Morant enters the game for Vince Williams Jr.	82	83
+2:38		Kentavious Caldwell-Pope enters the game for Cam Spencer	82	83
+2:38		Jarred Vanderbilt enters the game for Jaxson Hayes	82	83
+2:38		Luka Doncic makes free throw 1 of 2	83	83
+2:38		Luka Doncic makes free throw 2 of 2	84	83
+2:19		Jarred Vanderbilt personal foul	84	83
+2:19		Jock Landale enters the game for Santi Aldama	84	83
+2:19		Jaylen Wells enters the game for Jaren Jackson Jr.	84	83
+2:19		John Konchar enters the game for Cedric Coward	84	83
+2:19		Marcus Smart enters the game for Rui Hachimura	84	83
+2:07		Ja Morant misses 12-foot two point shot	84	83
+2:05		Luka Doncic defensive rebound	84	83
+2:05		John Konchar personal foul	84	83
+2:05		Luka Doncic misses free throw 1 of 2	84	83
+2:05		Lakers offensive team rebound	84	83
+2:05		Luka Doncic makes free throw 2 of 2	85	83
+1:49		Kentavious Caldwell-Pope makes 25-foot three point jumper (John Konchar assists)	85	86
+1:24		Marcus Smart makes 13-foot driving floating jump shot (Jake LaRavia assists)	87	86
+1:13		Jock Landale makes alley oop dunk shot (Ja Morant assists)	87	88
+1:01		Luka Doncic misses 24-foot three point step back jumpshot	87	88
+58.5		Jock Landale defensive rebound	87	88
+46.4		John Konchar makes 23-foot three point jumper (Ja Morant assists)	87	91
+31.5		Jake LaRavia misses 23-foot three point jumper	87	91
+29.0		Ja Morant defensive rebound	87	91
+6.8		Ja Morant misses 17-foot two point shot	87	91
+1.4		Jarred Vanderbilt defensive rebound	87	91
+0.0		Dalton Knecht makes driving layup	89	91
+0.0		(00:00) [Lakers] REF-INITIATED REVIEW (REPLAY SUPPORTS CALL)	89	91
+0.0		End of the 3rd Quarter	89	91
+12:00		Austin Reaves enters the game for Dalton Knecht	89	91
+12:00		Rui Hachimura enters the game for Luka Doncic	89	91
+11:42		Austin Reaves makes 15-foot pullup jump shot	91	91
+11:22		Ja Morant misses 25-foot three point jumper	91	91
+11:18		Austin Reaves defensive rebound	91	91
+11:13		Jake LaRavia makes two point shot (Marcus Smart assists)	93	91
+10:52		Jarred Vanderbilt blocks Jock Landale 's 4-foot two point shot	93	91
+10:52		Grizzlies offensive team rebound	93	91
+10:52		Grizzlies Full timeout	93	91
+10:47		Ja Morant misses 13-foot two point shot	93	91
+10:44		Jake LaRavia defensive rebound	93	91
+10:37		Marcus Smart misses 25-foot three point jumper	93	91
+10:33		Jarred Vanderbilt offensive rebound	93	91
+10:29		Austin Reaves makes 25-foot three pointer	96	91
+10:15		Rui Hachimura shooting foul	96	91
+10:15		Jock Landale makes free throw 1 of 2	96	92
+10:15		Cedric Coward enters the game for Kentavious Caldwell-Pope	96	92
+10:15		Jaren Jackson Jr. enters the game for John Konchar	96	92
+10:15		Jock Landale makes free throw 2 of 2	96	93
+9:52		Marcus Smart misses 24-foot three point jumper	96	93
+9:51		Lakers offensive team rebound	96	93
+9:51		shot clock turnover	96	93
+9:51		Santi Aldama enters the game for Jock Landale	96	93
+9:28		Santi Aldama out of bounds bad pass turnover	96	93
+9:08		Jake LaRavia makes 1-foot two point shot	98	93
+9:08		Jaren Jackson Jr. shooting foul	98	93
+9:08		Cam Spencer enters the game for Jaylen Wells	98	93
+9:08		Vince Williams Jr. enters the game for Ja Morant	98	93
+9:08		Jake LaRavia misses free throw 1 of 1	98	93
+9:06		Cedric Coward defensive rebound	98	93
+8:49		Cedric Coward makes 1-foot layup (Vince Williams Jr. assists)	98	95
+8:30		Austin Reaves misses 25-foot three point step back jumpshot	98	95
+8:29		Lakers offensive team rebound	98	95
+8:29		Jaren Jackson Jr. loose ball foul	98	95
+8:29		Luka Doncic enters the game for Jake LaRavia	98	95
+8:18		Jarred Vanderbilt makes dunk (Luka Doncic assists)	100	95
+8:08		Cam Spencer makes 16-foot jumper	100	97
+7:48		Luka Doncic misses 15-foot two point shot	100	97
+7:46		Cedric Coward defensive rebound	100	97
+7:42		Vince Williams Jr. misses 22-foot three point shot	100	97
+7:37		Rui Hachimura defensive rebound	100	97
+7:18		Luka Doncic makes two point shot (Austin Reaves assists)	102	97
+7:03		Santi Aldama misses 25-foot three point jumper	102	97
+7:00		Rui Hachimura defensive rebound	102	97
+6:43		Rui Hachimura makes 25-foot three point jumper (Austin Reaves assists)	105	97
+6:42		Grizzlies Full timeout	105	97
+6:42		Jock Landale enters the game for Santi Aldama	105	97
+6:42		John Konchar enters the game for Jaren Jackson Jr.	105	97
+6:42		Dalton Knecht enters the game for Jarred Vanderbilt	105	97
+6:42		Jaxson Hayes enters the game for Austin Reaves	105	97
+6:30		Cedric Coward misses driving layup	105	97
+6:27		Luka Doncic defensive rebound	105	97
+6:07		Luka Doncic makes 28-foot three point jumper (Dalton Knecht assists)	108	97
+5:54		Cedric Coward misses 22-foot three point jumper	108	97
+5:52		Dalton Knecht defensive rebound	108	97
+5:41		Luka Doncic misses 27-foot three point pullup jump shot	108	97
+5:39		Vince Williams Jr. defensive rebound	108	97
+5:33		Dalton Knecht shooting foul	108	97
+5:33		Cam Spencer makes free throw 1 of 2	108	98
+5:33		Ja Morant enters the game for Vince Williams Jr.	108	98
+5:33		Cam Spencer makes free throw 2 of 2	108	99
+5:16		Dalton Knecht misses 25-foot three point jumper	108	99
+5:13		Jaxson Hayes offensive rebound	108	99
+5:11		Luka Doncic misses 23-foot three point step back jumpshot	108	99
+5:08		Jock Landale defensive rebound	108	99
+5:03		Cam Spencer misses running pullup jump shot	108	99
+4:58		Luka Doncic defensive rebound	108	99
+4:49		Marcus Smart makes 6-foot two point shot	110	99
+4:29		Cam Spencer out of bounds bad pass turnover	110	99
+4:29		Jaren Jackson Jr. enters the game for John Konchar	110	99
+4:29		Austin Reaves enters the game for Dalton Knecht	110	99
+4:18		Marcus Smart bad pass (Cedric Coward steals)	110	99
+4:14		Cedric Coward makes two point shot	110	101
+4:06		Lakers Full timeout	110	101
+4:06		Santi Aldama enters the game for Jock Landale	110	101
+3:52		Luka Doncic makes 8-foot two point shot	112	101
+3:27		Cedric Coward misses 25-foot three point step back jumpshot	112	101
+3:24		Santi Aldama offensive rebound	112	101
+3:23		Marcus Smart personal foul	112	101
+3:23		Jaylen Wells enters the game for Cedric Coward	112	101
+3:23		Kentavious Caldwell-Pope enters the game for Cam Spencer	112	101
+3:14		Kentavious Caldwell-Pope misses 24-foot three point pullup jump shot	112	101
+3:11		Grizzlies offensive team rebound	112	101
+2:56		Jaylen Wells misses driving floating jump shot	112	101
+2:54		Jaxson Hayes defensive rebound	112	101
+2:44		Jaylen Wells personal foul	112	101
+2:40		Jaylen Wells kicked ball violation	112	101
+2:34		Jaren Jackson Jr. shooting foul	112	101
+2:34		Jaxson Hayes misses free throw 1 of 2	112	101
+2:34		Lakers offensive team rebound	112	101
+2:34		Jaxson Hayes misses free throw 2 of 2	112	101
+2:31		Santi Aldama defensive rebound	112	101
+2:20		Santi Aldama misses 26-foot three point jumper	112	101
+2:16		Luka Doncic defensive rebound	112	101
+1:57		Austin Reaves misses 25-foot three point step back jumpshot	112	101
+1:57		Lakers offensive team rebound	112	101
+1:57		Jaren Jackson Jr. loose ball foul	112	101
+1:57		Rui Hachimura misses free throw 1 of 2	112	101
+1:57		Lakers offensive team rebound	112	101
+1:57		Rui Hachimura makes free throw 2 of 2	113	101
+1:49		Jaren Jackson Jr. makes 8-foot driving floating jump shot	113	103
+1:29		Rui Hachimura misses 23-foot three point jumper	113	103
+1:27		Jaren Jackson Jr. defensive rebound	113	103
+1:16		Jaylen Wells makes 9-foot driving floating jump shot (Santi Aldama assists)	113	105
+1:16		Rui Hachimura shooting foul	113	105
+1:16		Jaylen Wells misses free throw 1 of 1	113	105
+1:12		Jaxson Hayes defensive rebound	113	105
+54.0		Jaylen Wells shooting foul	113	105
+54.0		Luka Doncic makes free throw 1 of 2	114	105
+54.0		Luka Doncic makes free throw 2 of 2	115	105
+47.2		Jaylen Wells makes 26-foot three point jumper (Kentavious Caldwell-Pope assists)	115	108
+25.6		Luka Doncic misses 22-foot three point jumper	115	108
+22.7		Jaylen Wells defensive rebound	115	108
+20.6		Jaylen Wells misses running pullup jump shot	115	108
+18.2		Jaylen Wells offensive rebound	115	108
+14.1		Jaylen Wells makes 1-foot two point shot	115	110
+7.5		Jaren Jackson Jr. personal take foul	115	110
+7.5		Jock Landale enters the game for Jaren Jackson Jr.	115	110
+7.5		Austin Reaves makes free throw 1 of 2	116	110
+7.5		Jake LaRavia enters the game for Marcus Smart	116	110
+7.5		Dalton Knecht enters the game for Luka Doncic	116	110
+7.5		Austin Reaves makes free throw 2 of 2	117	110
+7.5		Grizzlies Full timeout	117	110
+7.5		Jarred Vanderbilt enters the game for Austin Reaves	117	110
+4.4		Jaylen Wells misses 23-foot three point step back jumpshot	117	110
+2.5		Jaylen Wells offensive rebound	117	110
+1.4		Jaylen Wells makes 1-foot driving dunk	117	112
+0.0		End of the 4th Quarter	117	112
+0.0		End of Game	117	112
+
+GAME  23.4 79.5 205 106.8  103.5  4     lakers vs OKC 11/12
+12:00		Deandre Ayton vs. Chet Holmgren (Rui Hachimura gains possession)	0	0
+11:44		Chet Holmgren blocks Deandre Ayton 's 3-foot layup	0	0
+11:41		Shai Gilgeous-Alexander defensive rebound	0	0
+11:37		Ajay Mitchell misses 23-foot three point shot	0	0
+11:32		Rui Hachimura defensive rebound	0	0
+11:24		Luka Doncic makes driving layup	2	0
+10:58		Chet Holmgren misses 15-foot step back jumpshot	2	0
+10:53		Marcus Smart defensive rebound	2	0
+10:42		Rui Hachimura misses 12-foot pullup jump shot	2	0
+10:39		Isaiah Hartenstein defensive rebound	2	0
+10:32		Shai Gilgeous-Alexander misses 13-foot pullup jump shot	2	0
+10:29		Luka Doncic defensive rebound	2	0
+10:22		Deandre Ayton makes 16-foot jumper (Austin Reaves assists)	4	0
+10:10		Ajay Mitchell makes 3-foot two point shot	4	2
+9:45		Rui Hachimura makes 26-foot three point jumper (Luka Doncic assists)	7	2
+9:33		Cason Wallace makes two point shot (Ajay Mitchell assists)	7	4
+9:21		Austin Reaves lost ball turnover (Isaiah Hartenstein steals)	7	4
+9:18		Ajay Mitchell makes driving dunk	7	6
+9:00		Luka Doncic makes 27-foot three point step back jumpshot	10	6
+8:48		Shai Gilgeous-Alexander makes 23-foot three point step back jumpshot	10	9
+8:42		Luka Doncic out of bounds bad pass turnover	10	9
+8:34		Shai Gilgeous-Alexander makes 17-foot step back jumpshot	10	11
+8:21		Austin Reaves misses 27-foot three point pullup jump shot	10	11
+8:19		Chet Holmgren defensive rebound	10	11
+7:56		Isaiah Hartenstein makes 7-foot driving floating jump shot (Cason Wallace assists)	10	13
+7:39		Luka Doncic misses 27-foot three point step back jumpshot	10	13
+7:36		Deandre Ayton offensive rebound	10	13
+7:31		Marcus Smart misses 25-foot three point jumper	10	13
+7:29		Thunder defensive team rebound	10	13
+7:19		Shai Gilgeous-Alexander makes 5-foot driving floating jump shot	10	15
+7:08		Luka Doncic misses driving floating jump shot	10	15
+7:05		Chet Holmgren defensive rebound	10	15
+7:03		Luka Doncic personal foul	10	15
+6:57		Cason Wallace misses driving layup	10	15
+6:57		Lakers defensive team rebound	10	15
+6:57		Thunder Full timeout	10	15
+6:48		Luka Doncic bad pass (Ajay Mitchell steals)	10	15
+6:44		Cason Wallace misses 22-foot three point shot	10	15
+6:41		Deandre Ayton defensive rebound	10	15
+6:29		Austin Reaves misses 14-foot pullup jump shot	10	15
+6:26		Shai Gilgeous-Alexander defensive rebound	10	15
+6:17		Deandre Ayton shooting foul	10	15
+6:17		Chet Holmgren makes free throw 1 of 2	10	16
+6:17		Chet Holmgren makes free throw 2 of 2	10	17
+6:06		Deandre Ayton makes 2-foot layup (Luka Doncic assists)	12	17
+6:06		Shai Gilgeous-Alexander shooting foul	12	17
+6:06		Jake LaRavia enters the game for Marcus Smart	12	17
+6:06		Deandre Ayton misses free throw 1 of 1	12	17
+5:58		Isaiah Hartenstein defensive rebound	12	17
+5:45		Ajay Mitchell makes 14-foot pullup jump shot	12	19
+5:27		Deandre Ayton lost ball turnover (Cason Wallace steals)	12	19
+5:19		Shai Gilgeous-Alexander misses 11-foot two point shot	12	19
+5:17		Luka Doncic defensive rebound	12	19
+5:01		Luka Doncic misses 20-foot step back jumpshot	12	19
+4:57		Ajay Mitchell defensive rebound	12	19
+4:49		Ajay Mitchell misses 25-foot three point pullup jump shot	12	19
+4:46		Thunder offensive team rebound	12	19
+4:46		Isaiah Joe enters the game for Ajay Mitchell	12	19
+4:46		Jaylin Williams enters the game for Isaiah Hartenstein	12	19
+4:46		Jarred Vanderbilt enters the game for Austin Reaves	12	19
+4:36		Cason Wallace misses 26-foot three point jumper	12	19
+4:32		Jake LaRavia defensive rebound	12	19
+4:24		Rui Hachimura misses 22-foot three point jumper	12	19
+4:22		Thunder defensive team rebound	12	19
+4:11		Chet Holmgren makes 25-foot three point jumper (Shai Gilgeous-Alexander assists)	12	22
+3:50		Deandre Ayton makes 6-foot hook shot (Luka Doncic assists)	14	22
+3:24		Luka Doncic kicked ball violation	14	22
+3:24		Alex Caruso enters the game for Chet Holmgren	14	22
+3:24		Jaxson Hayes enters the game for Deandre Ayton	14	22
+3:10		Alex Caruso makes 24-foot three point jumper (Shai Gilgeous-Alexander assists)	14	25
+3:01		Luka Doncic offensive foul	14	25
+3:01		Luka Doncic turnover	14	25
+2:45		Alex Caruso misses driving layup	14	25
+2:42		Rui Hachimura defensive rebound	14	25
+2:41		Luka Doncic makes 8-foot two point shot	16	25
+2:41		Cason Wallace shooting foul	16	25
+2:41		Lakers Full timeout	16	25
+2:41		Branden Carlson enters the game for Cason Wallace	16	25
+2:41		Luka Doncic misses free throw 1 of 1	16	25
+2:38		Jaylin Williams defensive rebound	16	25
+2:23		Shai Gilgeous-Alexander misses 25-foot three point step back jumpshot	16	25
+2:19		Jaxson Hayes defensive rebound	16	25
+2:02		Luka Doncic bad pass (Isaiah Joe steals)	16	25
+1:56		Alex Caruso makes 12-foot two point shot (Isaiah Joe assists)	16	27
+1:45		Luka Doncic misses 28-foot three point step back jumpshot	16	27
+1:43		Jaylin Williams defensive rebound	16	27
+1:35		Shai Gilgeous-Alexander makes 24-foot three point step back jumpshot	16	30
+1:10		Jake LaRavia misses driving floating jump shot	16	30
+1:09		Thunder defensive team rebound	16	30
+1:09		Jake LaRavia loose ball foul	16	30
+1:09		Austin Reaves enters the game for Rui Hachimura	16	30
+58.7		Isaiah Joe misses 25-foot three point jumper	16	30
+56.4		Jarred Vanderbilt defensive rebound	16	30
+39.7		Luka Doncic misses driving floating jump shot	16	30
+36.7		Branden Carlson defensive rebound	16	30
+28.9		Jaylin Williams misses 25-foot three point jumper	16	30
+28.9		Jarred Vanderbilt defensive rebound	16	30
+9.5		Austin Reaves makes driving layup (Jarred Vanderbilt assists)	18	30
+1.8		Alex Caruso bad pass (Luka Doncic steals)	18	30
+0.5		Luka Doncic misses heave jump shot	18	30
+0.1		Lakers offensive team rebound	18	30
+0.0		End of the 1st Quarter	18	30
+12:00		Isaiah Hartenstein enters the game for Shai Gilgeous-Alexander	18	30
+12:00		Chet Holmgren enters the game for Jaylin Williams	18	30
+12:00		Ajay Mitchell enters the game for Isaiah Joe	18	30
+12:00		Ousmane Dieng enters the game for Branden Carlson	18	30
+12:00		Marcus Smart enters the game for Jake LaRavia	18	30
+12:00		Dalton Knecht enters the game for Luka Doncic	18	30
+11:46		Alex Caruso misses driving layup	18	30
+11:43		Isaiah Hartenstein offensive rebound	18	30
+11:43		Ajay Mitchell misses 24-foot three point jumper	18	30
+11:43		Jarred Vanderbilt defensive rebound	18	30
+11:18		Austin Reaves misses 25-foot three point step back jumpshot	18	30
+11:15		Alex Caruso defensive rebound	18	30
+10:58		Chet Holmgren misses 12-foot jumper	18	30
+10:58		Austin Reaves defensive rebound	18	30
+10:50		Chet Holmgren blocks Austin Reaves 's 1-foot two point shot	18	30
+10:47		Alex Caruso defensive rebound	18	30
+10:44		Ajay Mitchell makes 25-foot three point shot (Alex Caruso assists)	18	33
+10:44		Marcus Smart shooting foul	18	33
+10:44		Ajay Mitchell makes free throw 1 of 1	18	34
+10:36		Chet Holmgren shooting foul	18	34
+10:36		Marcus Smart makes free throw 1 of 2	19	34
+10:36		Deandre Ayton enters the game for Jaxson Hayes	19	34
+10:36		Marcus Smart makes free throw 2 of 2	20	34
+10:19		Alex Caruso misses 25-foot three point jumper	20	34
+10:14		Jarred Vanderbilt defensive rebound	20	34
+10:09		Rui Hachimura enters the game for Jarred Vanderbilt	20	34
+10:08		Chet Holmgren shooting foul	20	34
+10:08		Rui Hachimura misses free throw 1 of 2	20	34
+10:08		Lakers offensive team rebound	20	34
+10:08		Isaiah Joe enters the game for Chet Holmgren	20	34
+10:08		Rui Hachimura makes free throw 2 of 2	21	34
+10:00		Isaiah Hartenstein makes 1-foot dunk (Alex Caruso assists)	21	36
+9:47		Marcus Smart misses 26-foot three point jumper	21	36
+9:44		Isaiah Hartenstein defensive rebound	21	36
+9:35		Ousmane Dieng makes 13-foot pullup jump shot (Isaiah Joe assists)	21	38
+9:28		Lakers Full timeout	21	38
+9:28		Jake LaRavia enters the game for Dalton Knecht	21	38
+9:20		Isaiah Hartenstein personal foul	21	38
+9:15		Jake LaRavia vs. Alex Caruso (Ajay Mitchell gains possession)	21	38
+9:15		Jake LaRavia lost ball turnover (Alex Caruso steals)	21	38
+9:05		Isaiah Hartenstein makes dunk	21	40
+8:49		Ajay Mitchell shooting foul	21	40
+8:49		Austin Reaves makes free throw 1 of 2	22	40
+8:49		Luka Doncic enters the game for Jake LaRavia	22	40
+8:49		Chet Holmgren enters the game for Ousmane Dieng	22	40
+8:49		Jaylin Williams enters the game for Isaiah Hartenstein	22	40
+8:49		Austin Reaves makes free throw 2 of 2	23	40
+8:37		Ajay Mitchell misses driving floating jump shot	23	40
+8:35		Luka Doncic defensive rebound	23	40
+8:23		Austin Reaves misses 9-foot pullup jump shot	23	40
+8:20		Alex Caruso defensive rebound	23	40
+8:08		Ajay Mitchell misses driving floating jump shot	23	40
+8:05		Austin Reaves defensive rebound	23	40
+8:03		Austin Reaves lost ball turnover (Alex Caruso steals)	23	40
+7:58		Alex Caruso makes 24-foot three point shot (Chet Holmgren assists)	23	43
+7:39		Luka Doncic misses driving floating jump shot	23	43
+7:38		Luka Doncic offensive rebound	23	43
+7:38		Ajay Mitchell shooting foul	23	43
+7:38		Luka Doncic misses free throw 1 of 2	23	43
+7:38		Lakers offensive team rebound	23	43
+7:38		Luka Doncic makes free throw 2 of 2	24	43
+7:21		Ajay Mitchell misses 18-foot step back jumpshot	24	43
+7:18		Rui Hachimura defensive rebound	24	43
+7:10		Marcus Smart misses 15-foot pullup jump shot	24	43
+7:07		Chet Holmgren defensive rebound	24	43
+7:00		Chet Holmgren makes 7-foot pullup jump shot	24	45
+6:37		Isaiah Joe shooting foul	24	45
+6:37		Austin Reaves makes free throw 1 of 2	25	45
+6:37		Cason Wallace enters the game for Alex Caruso	25	45
+6:37		Jake LaRavia enters the game for Marcus Smart	25	45
+6:37		Austin Reaves makes free throw 2 of 2	26	45
+6:23		Ajay Mitchell makes 2-foot driving floating jump shot (Jaylin Williams assists)	26	47
+6:11		Austin Reaves bad pass (Ajay Mitchell steals)	26	47
+6:06		Isaiah Joe makes two point shot (Ajay Mitchell assists)	26	49
+5:41		Luka Doncic misses 27-foot three point step back jumpshot	26	49
+5:38		Deandre Ayton offensive rebound	26	49
+5:35		Jake LaRavia misses 23-foot three point jumper	26	49
+5:32		Ajay Mitchell defensive rebound	26	49
+5:23		Deandre Ayton personal foul	26	49
+5:23		Shai Gilgeous-Alexander enters the game for Ajay Mitchell	26	49
+5:23		Marcus Smart enters the game for Austin Reaves	26	49
+5:09		Jaylin Williams misses 24-foot three point step back jumpshot	26	49
+5:06		Luka Doncic defensive rebound	26	49
+5:01		Deandre Ayton misses dunk	26	49
+4:59		Jaylin Williams defensive rebound	26	49
+4:50		Shai Gilgeous-Alexander makes 1-foot two point shot	26	51
+4:47		Marcus Smart out of bounds bad pass turnover	26	51
+4:47		Thunder Full timeout	26	51
+4:37		Chet Holmgren makes dunk (Jaylin Williams assists)	26	53
+4:15		Cason Wallace blocks Luka Doncic 's 5-foot driving layup	26	53
+4:15		Lakers offensive team rebound	26	53
+4:12		Marcus Smart makes 25-foot three pointer (Luka Doncic assists)	29	53
+3:58		Isaiah Joe makes 26-foot three point jumper (Shai Gilgeous-Alexander assists)	29	56
+3:37		Rui Hachimura misses driving layup	29	56
+3:36		Jaylin Williams defensive rebound	29	56
+3:30		Isaiah Joe misses 25-foot three point shot	29	56
+3:30		Thunder offensive team rebound	29	56
+3:28		Alex Caruso enters the game for Jaylin Williams	29	56
+3:28		Isaiah Hartenstein enters the game for Chet Holmgren	29	56
+3:28		Austin Reaves enters the game for Jake LaRavia	29	56
+3:22		Deandre Ayton shooting foul	29	56
+3:22		Isaiah Hartenstein misses free throw 1 of 2	29	56
+3:22		Thunder offensive team rebound	29	56
+3:22		Jaxson Hayes enters the game for Deandre Ayton	29	56
+3:22		Isaiah Hartenstein makes free throw 2 of 2	29	57
+3:09		Cason Wallace shooting foul	29	57
+3:09		Luka Doncic makes free throw 1 of 2	30	57
+3:09		Luka Doncic misses free throw 2 of 2	30	57
+3:07		Shai Gilgeous-Alexander defensive rebound	30	57
+2:55		Shai Gilgeous-Alexander makes 9-foot step back jumpshot	30	59
+2:41		Rui Hachimura makes driving layup	32	59
+2:27		Alex Caruso makes 3-foot two point shot (Shai Gilgeous-Alexander assists)	32	61
+2:18		Marcus Smart bad pass (Shai Gilgeous-Alexander steals)	32	61
+2:10		Isaiah Joe makes 22-foot three point jumper (Shai Gilgeous-Alexander assists)	32	64
+1:45		Austin Reaves makes driving layup	34	64
+1:35		Austin Reaves shooting foul	34	64
+1:35		Shai Gilgeous-Alexander makes free throw 1 of 2	34	65
+1:35		Ajay Mitchell enters the game for Cason Wallace	34	65
+1:35		Shai Gilgeous-Alexander makes free throw 2 of 2	34	66
+1:17		Luka Doncic makes 3-foot driving floating jump shot	36	66
+1:03		Isaiah Hartenstein makes 8-foot two point shot (Isaiah Joe assists)	36	68
+50.9		Rui Hachimura misses driving floating jump shot	36	68
+50.3		Jaxson Hayes offensive rebound	36	68
+50.3		Jaxson Hayes makes tip shot	38	68
+31.7		Shai Gilgeous-Alexander misses 25-foot three point pullup jump shot	38	68
+28.2		Rui Hachimura defensive rebound	38	68
+12.5		Luka Doncic misses 27-foot three point step back jumpshot	38	68
+9.1		Alex Caruso defensive rebound	38	68
+2.3		Marcus Smart shooting foul	38	68
+2.3		Shai Gilgeous-Alexander makes free throw 1 of 2	38	69
+2.3		Ousmane Dieng enters the game for Ajay Mitchell	38	69
+2.3		Shai Gilgeous-Alexander makes free throw 2 of 2	38	70
+0.3		Luka Doncic misses heave jump shot	38	70
+0.1		Lakers offensive team rebound	38	70
+0.0		End of the 2nd Quarter	38	70
+12:00		Cason Wallace enters the game for Alex Caruso	38	70
+12:00		Chet Holmgren enters the game for Isaiah Joe	38	70
+12:00		Ajay Mitchell enters the game for Ousmane Dieng	38	70
+12:00		Deandre Ayton enters the game for Jaxson Hayes	38	70
+11:49		Ajay Mitchell bad pass (Deandre Ayton steals)	38	70
+11:37		Chet Holmgren shooting foul	38	70
+11:37		Luka Doncic makes free throw 1 of 2	39	70
+11:37		Luka Doncic makes free throw 2 of 2	40	70
+11:16		Chet Holmgren makes 8-foot jumper (Shai Gilgeous-Alexander assists)	40	72
+10:58		Rui Hachimura misses 24-foot three point jumper	40	72
+10:55		Isaiah Hartenstein defensive rebound	40	72
+10:43		Isaiah Hartenstein lost ball turnover (Luka Doncic steals)	40	72
+10:38		Marcus Smart misses running pullup jump shot	40	72
+10:36		Isaiah Hartenstein defensive rebound	40	72
+10:27		Shai Gilgeous-Alexander bad pass (Austin Reaves steals)	40	72
+10:14		Austin Reaves makes 8-foot two point shot	42	72
+10:01		Ajay Mitchell bad pass (Rui Hachimura steals)	42	72
+9:54		Austin Reaves bad pass (Cason Wallace steals)	42	72
+9:45		Ajay Mitchell makes 7-foot driving floating jump shot (Shai Gilgeous-Alexander assists)	42	74
+9:30		Austin Reaves misses 30-foot three point jumper	42	74
+9:27		Isaiah Hartenstein defensive rebound	42	74
+9:21		Luka Doncic shooting foul	42	74
+9:21		Shai Gilgeous-Alexander makes free throw 1 of 2	42	75
+9:21		Shai Gilgeous-Alexander makes free throw 2 of 2	42	76
+9:02		Austin Reaves misses 26-foot three point step back jumpshot	42	76
+8:59		Shai Gilgeous-Alexander defensive rebound	42	76
+8:54		Austin Reaves personal foul	42	76
+8:39		Chet Holmgren misses 22-foot three point jumper	42	76
+8:35		Isaiah Hartenstein offensive rebound	42	76
+8:34		Shai Gilgeous-Alexander misses 26-foot three point jumper	42	76
+8:33		Luka Doncic defensive rebound	42	76
+8:33		Cason Wallace personal foul	42	76
+8:21		Luka Doncic misses 20-foot step back jumpshot	42	76
+8:18		Deandre Ayton offensive rebound	42	76
+8:16		Rui Hachimura makes 24-foot three point jumper (Deandre Ayton assists)	45	76
+8:04		Shai Gilgeous-Alexander misses 15-foot pullup jump shot	45	76
+8:01		Ajay Mitchell offensive rebound	45	76
+7:57		Shai Gilgeous-Alexander misses 29-foot three point jumper	45	76
+7:52		Austin Reaves defensive rebound	45	76
+7:52		Thunder Full timeout	45	76
+7:52		(07:52) [Thunder] COACH'S CHALLENGE (CALL OVERTURNED) [Thunder] retain their timeout	45	76
+7:52		Austin Reaves bad pass	45	76
+7:46		Isaiah Hartenstein bad pass (Marcus Smart steals)	45	76
+7:45		Chet Holmgren shooting foul	45	76
+7:45		Marcus Smart makes free throw 1 of 2	46	76
+7:45		Isaiah Joe enters the game for Chet Holmgren	46	76
+7:45		Marcus Smart makes free throw 2 of 2	47	76
+7:34		Isaiah Hartenstein makes 1-foot dunk (Shai Gilgeous-Alexander assists)	47	78
+7:10		Luka Doncic makes 15-foot two point shot	49	78
+7:00		Shai Gilgeous-Alexander misses 26-foot three point step back jumpshot	49	78
+7:00		Lakers defensive team rebound	49	78
+6:59		Isaiah Hartenstein loose ball foul	49	78
+6:44		Deandre Ayton lost ball turnover (Ajay Mitchell steals)	49	78
+6:35		Isaiah Hartenstein misses 6-foot two point shot	49	78
+6:32		Deandre Ayton defensive rebound	49	78
+6:25		Isaiah Joe personal foul	49	78
+6:25		Marcus Smart makes free throw 1 of 2	50	78
+6:25		Marcus Smart makes free throw 2 of 2	51	78
+6:11		Shai Gilgeous-Alexander makes 15-foot step back jumpshot	51	80
+6:04		Luka Doncic misses 24-foot three point step back jumpshot	51	80
+6:04		Thunder defensive team rebound	51	80
+5:52		Ajay Mitchell misses 23-foot three point jumper	51	80
+5:49		Austin Reaves defensive rebound	51	80
+5:43		Deandre Ayton offensive foul	51	80
+5:43		Deandre Ayton turnover	51	80
+5:43		Jaylin Williams enters the game for Isaiah Hartenstein	51	80
+5:43		Jaxson Hayes enters the game for Deandre Ayton	51	80
+5:25		Cason Wallace misses 22-foot three point jumper	51	80
+5:22		Jaylin Williams offensive rebound	51	80
+5:20		Cason Wallace makes dunk (Jaylin Williams assists)	51	82
+5:01		Jaxson Hayes bad pass (Shai Gilgeous-Alexander steals)	51	82
+5:01		Marcus Smart personal foul	51	82
+4:39		Jaxson Hayes shooting foul	51	82
+4:39		Cason Wallace makes free throw 1 of 2	51	83
+4:39		Alex Caruso enters the game for Ajay Mitchell	51	83
+4:39		Dalton Knecht enters the game for Marcus Smart	51	83
+4:39		Cason Wallace makes free throw 2 of 2	51	84
+4:26		Luka Doncic misses 17-foot pullup jump shot	51	84
+4:24		Jaylin Williams defensive rebound	51	84
+4:24		Luka Doncic technical foul	51	84
+4:24		Shai Gilgeous-Alexander misses technical free throw	51	84
+4:24		Thunder offensive team rebound	51	84
+4:20		Austin Reaves shooting foul	51	84
+4:20		Shai Gilgeous-Alexander makes free throw 1 of 2	51	85
+4:20		Shai Gilgeous-Alexander makes free throw 2 of 2	51	86
+4:05		Cason Wallace shooting foul	51	86
+4:05		Austin Reaves misses free throw 1 of 2	51	86
+4:05		Lakers offensive team rebound	51	86
+4:05		Austin Reaves makes free throw 2 of 2	52	86
+3:50		Shai Gilgeous-Alexander makes two point shot (Jaylin Williams assists)	52	88
+3:49		Lakers Full timeout	52	88
+3:49		Jake LaRavia enters the game for Austin Reaves	52	88
+3:49		Jarred Vanderbilt enters the game for Rui Hachimura	52	88
+3:28		Luka Doncic makes driving layup	54	88
+3:12		Isaiah Joe makes 26-foot three point jumper (Alex Caruso assists)	54	91
+2:58		Dalton Knecht makes 25-foot three point jumper (Luka Doncic assists)	57	91
+2:43		Isaiah Joe misses 22-foot three point jumper	57	91
+2:40		Jarred Vanderbilt defensive rebound	57	91
+2:33		Luka Doncic makes 9-foot driving floating jump shot	59	91
+2:18		Dalton Knecht personal foul	59	91
+2:18		Isaiah Joe makes free throw 1 of 2	59	92
+2:18		Branden Carlson enters the game for Cason Wallace	59	92
+2:18		Isaiah Joe makes free throw 2 of 2	59	93
+2:04		Jarred Vanderbilt makes 22-foot three point jumper (Luka Doncic assists)	62	93
+1:48		Shai Gilgeous-Alexander makes 19-foot step back jumpshot	62	95
+1:23		Luka Doncic misses 29-foot three point jumper	62	95
+1:20		Isaiah Joe defensive rebound	62	95
+1:12		Shai Gilgeous-Alexander makes 15-foot step back jumpshot	62	97
+51.8		Jarred Vanderbilt out of bounds bad pass turnover	62	97
+34.6		Branden Carlson misses 19-foot jumper	62	97
+32.0		Luka Doncic defensive rebound	62	97
+29.9		Dalton Knecht makes 1-foot dunk (Luka Doncic assists)	64	97
+20.7		Jaylin Williams misses 22-foot three point jumper	64	97
+18.1		Lakers defensive team rebound	64	97
+7.6		Jake LaRavia misses driving floating jump shot	64	97
+5.5		Shai Gilgeous-Alexander defensive rebound	64	97
+1.4		Isaiah Joe makes 23-foot three point jumper (Shai Gilgeous-Alexander assists)	64	100
+0.3		Luka Doncic misses heave jump shot	64	100
+0.1		Lakers offensive team rebound	64	100
+0.0		End of the 3rd Quarter	64	100
+12:00		Ousmane Dieng enters the game for Shai Gilgeous-Alexander	64	100
+12:00		Ajay Mitchell enters the game for Alex Caruso	64	100
+12:00		Rui Hachimura enters the game for Jarred Vanderbilt	64	100
+12:00		Deandre Ayton enters the game for Jaxson Hayes	64	100
+12:00		Marcus Smart enters the game for Jake LaRavia	64	100
+12:00		Austin Reaves enters the game for Luka Doncic	64	100
+11:42		Rui Hachimura makes 19-foot pullup jump shot	66	100
+11:18		Ousmane Dieng makes 1-foot layup (Isaiah Joe assists)	66	102
+11:12		Deandre Ayton bad pass (Isaiah Joe steals)	66	102
+11:10		Isaiah Joe misses 22-foot three point pullup jump shot	66	102
+11:08		Austin Reaves defensive rebound	66	102
+11:00		Dalton Knecht makes 25-foot three point jumper (Austin Reaves assists)	69	102
+10:40		Branden Carlson misses 22-foot three point jumper	69	102
+10:38		Branden Carlson offensive rebound	69	102
+10:26		Jaylin Williams misses two point shot	69	102
+10:24		Dalton Knecht defensive rebound	69	102
+10:18		Rui Hachimura makes two point shot (Austin Reaves assists)	71	102
+10:01		Ajay Mitchell lost ball turnover (Rui Hachimura steals)	71	102
+9:57		Austin Reaves makes two point shot (Rui Hachimura assists)	73	102
+9:57		Thunder Full timeout	73	102
+9:40		Marcus Smart vs. Isaiah Joe (Jaylin Williams gains possession)	73	102
+9:32		Jaylin Williams traveling	73	102
+9:21		Dalton Knecht misses 27-foot three point jumper	73	102
+9:17		Branden Carlson defensive rebound	73	102
+9:03		Jaylin Williams makes 25-foot three point jumper (Ajay Mitchell assists)	73	105
+8:49		Rui Hachimura misses 23-foot three point jumper	73	105
+8:46		Jaylin Williams defensive rebound	73	105
+8:40		Ousmane Dieng misses running pullup jump shot	73	105
+8:38		Rui Hachimura defensive rebound	73	105
+8:32		Austin Reaves misses running pullup jump shot	73	105
+8:30		Ousmane Dieng defensive rebound	73	105
+8:19		Jaylin Williams makes 26-foot three point jumper (Ousmane Dieng assists)	73	108
+8:18		Lakers Full timeout	73	108
+8:18		Brooks Barnhizer enters the game for Jaylin Williams	73	108
+8:18		Chris Youngblood enters the game for Ajay Mitchell	73	108
+8:18		Bronny James enters the game for Rui Hachimura	73	108
+8:18		Jake LaRavia enters the game for Deandre Ayton	73	108
+8:18		Jarred Vanderbilt enters the game for Marcus Smart	73	108
+8:18		Maxi Kleber enters the game for Austin Reaves	73	108
+8:04		Jarred Vanderbilt misses layup	73	108
+8:01		Ousmane Dieng defensive rebound	73	108
+7:55		Ousmane Dieng misses 12-foot pullup jump shot	73	108
+7:52		Jarred Vanderbilt defensive rebound	73	108
+7:38		Branden Carlson shooting foul	73	108
+7:38		Dalton Knecht misses free throw 1 of 2	73	108
+7:38		Lakers offensive team rebound	73	108
+7:38		Dalton Knecht misses free throw 2 of 2	73	108
+7:35		Jarred Vanderbilt offensive rebound	73	108
+7:25		Jarred Vanderbilt misses 23-foot three point jumper	73	108
+7:22		Brooks Barnhizer defensive rebound	73	108
+7:04		Isaiah Joe misses 29-foot three point jumper	73	108
+7:01		Chris Youngblood offensive rebound	73	108
+6:51		Ousmane Dieng makes 20-foot pullup jump shot (Branden Carlson assists)	73	110
+6:30		Jarred Vanderbilt bad pass (Branden Carlson steals)	73	110
+6:22		Isaiah Joe misses 25-foot three point jumper	73	110
+6:17		Bronny James defensive rebound	73	110
+6:11		Jake LaRavia misses 27-foot three point jumper	73	110
+6:07		Maxi Kleber offensive rebound	73	110
+6:06		Jake LaRavia misses 25-foot three point jumper	73	110
+6:04		Maxi Kleber offensive rebound	73	110
+6:03		Branden Carlson blocks Maxi Kleber 's 1-foot two point shot	73	110
+6:00		Brooks Barnhizer defensive rebound	73	110
+5:56		Branden Carlson misses 25-foot three point jumper	73	110
+5:52		Jarred Vanderbilt defensive rebound	73	110
+5:43		Bronny James misses 27-foot three point jumper	73	110
+5:41		Branden Carlson defensive rebound	73	110
+5:30		Branden Carlson misses driving layup	73	110
+5:28		Maxi Kleber defensive rebound	73	110
+5:23		Bronny James misses 23-foot three point jumper	73	110
+5:20		Branden Carlson defensive rebound	73	110
+5:05		Chris Youngblood misses 23-foot three point jumper	73	110
+5:02		Maxi Kleber defensive rebound	73	110
+4:57		Dalton Knecht makes 25-foot three point shot (Jarred Vanderbilt assists)	76	110
+4:43		Ousmane Dieng makes 4-foot two point shot	76	112
+4:20		Branden Carlson shooting foul	76	112
+4:20		Jarred Vanderbilt misses free throw 1 of 2	76	112
+4:20		Lakers offensive team rebound	76	112
+4:20		Jarred Vanderbilt makes free throw 2 of 2	77	112
+4:03		Ousmane Dieng lost ball turnover (Bronny James steals)	77	112
+3:57		Dalton Knecht makes 22-foot three point shot (Jake LaRavia assists)	80	112
+3:43		Chris Youngblood loose ball foul	80	112
+3:43		Ousmane Dieng bad pass	80	112
+3:31		Bronny James misses 15-foot pullup jump shot	80	112
+3:28		Isaiah Joe defensive rebound	80	112
+3:24		Isaiah Joe bad pass (Maxi Kleber steals)	80	112
+3:12		Jarred Vanderbilt makes 1-foot layup (Jake LaRavia assists)	82	112
+2:51		Ousmane Dieng misses 26-foot three point step back jumpshot	82	112
+2:48		Jarred Vanderbilt defensive rebound	82	112
+2:45		Jarred Vanderbilt lost ball turnover (Branden Carlson steals)	82	112
+2:45		Jarred Vanderbilt personal foul	82	112
+2:22		Brooks Barnhizer makes 3-foot two point shot (Isaiah Joe assists)	82	114
+2:07		Maxi Kleber makes 25-foot three point jumper (Bronny James assists)	85	114
+1:46		Maxi Kleber shooting foul	85	114
+1:46		Isaiah Joe makes free throw 1 of 3	85	115
+1:46		Isaiah Joe makes free throw 2 of 3	85	116
+1:46		Isaiah Joe makes free throw 3 of 3	85	117
+1:34		Bronny James misses driving layup	85	117
+1:31		Dalton Knecht offensive rebound	85	117
+1:30		Jake LaRavia makes 23-foot three point jumper (Dalton Knecht assists)	88	117
+1:14		Ousmane Dieng makes 21-foot step back jumpshot	88	119
+1:00		Dalton Knecht makes 16-foot pullup jump shot (Bronny James assists)	90	119
+39.3		Jarred Vanderbilt shooting foul	90	119
+39.3		Isaiah Joe makes free throw 1 of 2	90	120
+39.3		Isaiah Joe makes free throw 2 of 2	90	121
+20.0		Brooks Barnhizer shooting foul	90	121
+20.0		Jake LaRavia makes free throw 1 of 2	91	121
+20.0		Jake LaRavia makes free throw 2 of 2	92	121
+0.0		End of the 4th Quarter	92	121
+0.0		End of Game	92	121
+
+GAME 25.75 78.6 216 113  114.45  6       lakers vs Spurs  12/10
+12:00		Luke Kornet vs. Deandre Ayton (Luka Doncic gains possession)	0	0
+11:43		Austin Reaves misses 23-foot three point jumper	0	0
+11:42		Spurs defensive team rebound	0	0
+11:28		Devin Vassell misses driving floating jump shot	0	0
+11:25		Deandre Ayton defensive rebound	0	0
+11:11		LeBron James makes 15-foot two point shot	0	2
+10:51		LeBron James shooting foul	0	2
+10:51		Stephon Castle makes free throw 1 of 2	1	2
+10:51		Stephon Castle makes free throw 2 of 2	2	2
+10:36		Deandre Ayton makes 10-foot two point shot (LeBron James assists)	2	4
+10:26		De'Aaron Fox makes 26-foot three pointer (Stephon Castle assists)	5	4
+10:13		Luka Doncic makes 12-foot pullup jump shot	5	6
+9:57		De'Aaron Fox makes 17-foot pullup jump shot	7	6
+9:42		Deandre Ayton makes 6-foot two point shot (Austin Reaves assists)	7	8
+9:33		Harrison Barnes misses 28-foot three point jumper	7	8
+9:31		Luka Doncic defensive rebound	7	8
+9:22		Luka Doncic makes 11-foot driving floating jump shot (Deandre Ayton assists)	7	10
+9:22		Stephon Castle shooting foul	7	10
+9:22		Luka Doncic makes free throw 1 of 1	7	11
+9:01		Harrison Barnes misses 25-foot three point pullup jump shot	7	11
+8:58		Deandre Ayton defensive rebound	7	11
+8:53		LeBron James makes two point shot (Austin Reaves assists)	7	13
+8:38		Devin Vassell misses 11-foot pullup jump shot	7	13
+8:36		LeBron James defensive rebound	7	13
+8:29		Devin Vassell blocks Deandre Ayton 's 5-foot hook shot	7	13
+8:26		Luke Kornet defensive rebound	7	13
+8:20		Devin Vassell misses 28-foot three point jumper	7	13
+8:17		Luka Doncic defensive rebound	7	13
+8:04		LeBron James bad pass (Devin Vassell steals)	7	13
+7:59		Stephon Castle makes two point shot	9	13
+7:41		Deandre Ayton makes 13-foot jumper (Austin Reaves assists)	9	15
+7:25		Stephon Castle misses 25-foot three point jumper	9	15
+7:23		LeBron James defensive rebound	9	15
+7:18		LeBron James misses running pullup jump shot	9	15
+7:15		Stephon Castle defensive rebound	9	15
+7:10		Stephon Castle bad pass (Deandre Ayton steals)	9	15
+6:58		Luka Doncic misses 27-foot three point step back jumpshot	9	15
+6:55		De'Aaron Fox defensive rebound	9	15
+6:54		Stephon Castle makes two point shot (De'Aaron Fox assists)	11	15
+6:54		Luka Doncic shooting foul	11	15
+6:54		Lakers Full timeout	11	15
+6:54		Gabe Vincent enters the game for LeBron James	11	15
+6:54		Dylan Harper enters the game for De'Aaron Fox	11	15
+6:54		Stephon Castle makes free throw 1 of 1	12	15
+6:39		Rui Hachimura makes 23-foot three point jumper (Luka Doncic assists)	12	18
+6:20		Harrison Barnes makes 22-foot three point jumper (Stephon Castle assists)	15	18
+6:03		Luka Doncic misses 13-foot two point shot	15	18
+6:01		Stephon Castle defensive rebound	15	18
+5:53		Devin Vassell traveling	15	18
+5:40		Luka Doncic bad pass (Dylan Harper steals)	15	18
+5:36		Dylan Harper makes two point shot	17	18
+5:24		Dylan Harper personal foul	17	18
+5:24		Keldon Johnson enters the game for Devin Vassell	17	18
+5:24		Julian Champagnie enters the game for Harrison Barnes	17	18
+5:22		Stephon Castle personal foul	17	18
+5:22		De'Aaron Fox enters the game for Stephon Castle	17	18
+5:20		Dylan Harper shooting foul	17	18
+5:20		Luka Doncic misses free throw 1 of 2	17	18
+5:20		Lakers offensive team rebound	17	18
+5:20		Marcus Smart enters the game for Rui Hachimura	17	18
+5:20		Luka Doncic misses free throw 2 of 2	17	18
+5:17		De'Aaron Fox defensive rebound	17	18
+4:56		Keldon Johnson misses finger roll layup	17	18
+4:54		Austin Reaves defensive rebound	17	18
+4:51		Luka Doncic makes 27-foot three point shot (Austin Reaves assists)	17	21
+4:41		Gabe Vincent shooting foul	17	21
+4:41		Dylan Harper makes free throw 1 of 2	18	21
+4:41		Jaxson Hayes enters the game for Deandre Ayton	18	21
+4:41		Kelly Olynyk enters the game for Luke Kornet	18	21
+4:41		Dylan Harper misses free throw 2 of 2	18	21
+4:38		Dylan Harper offensive rebound	18	21
+4:37		Dylan Harper makes two point shot	20	21
+4:23		Luka Doncic misses 26-foot three point step back jumpshot	20	21
+4:20		Kelly Olynyk defensive rebound	20	21
+4:06		De'Aaron Fox misses 20-foot pullup jump shot	20	21
+4:03		Austin Reaves defensive rebound	20	21
+3:56		Luka Doncic makes 28-foot three point step back jumpshot (Austin Reaves assists)	20	24
+3:54		Spurs Full timeout	20	24
+3:42		Keldon Johnson makes driving layup (Kelly Olynyk assists)	22	24
+3:18		Luka Doncic misses alley oop layup	22	24
+3:16		Keldon Johnson defensive rebound	22	24
+3:11		Dylan Harper misses 23-foot three point shot	22	24
+3:06		Keldon Johnson offensive rebound	22	24
+3:06		Keldon Johnson makes tip shot	24	24
+2:57		Austin Reaves makes driving layup	24	26
+2:40		Austin Reaves personal foul	24	26
+2:40		LeBron James enters the game for Gabe Vincent	24	26
+2:40		Jake LaRavia enters the game for Austin Reaves	24	26
+2:28		Julian Champagnie misses 40-foot three point pullup jump shot	24	26
+2:24		Keldon Johnson offensive rebound	24	26
+2:23		Keldon Johnson makes 25-foot three point jumper	27	26
+2:09		Marcus Smart misses 27-foot three point jumper	27	26
+2:07		Jaxson Hayes offensive rebound	27	26
+2:02		Luka Doncic misses 7-foot two point shot	27	26
+1:59		Keldon Johnson defensive rebound	27	26
+1:54		Dylan Harper makes two point shot (De'Aaron Fox assists)	29	26
+1:44		Luka Doncic technical foul	29	26
+1:44		Julian Champagnie makes technical free throw	30	26
+1:34		LeBron James makes 2-foot layup (Marcus Smart assists)	30	28
+1:18		Dylan Harper misses 20-foot pullup jump shot	30	28
+1:15		Luka Doncic defensive rebound	30	28
+1:10		LeBron James lost ball turnover (Keldon Johnson steals)	30	28
+1:03		Keldon Johnson makes 28-foot three point shot (Kelly Olynyk assists)	33	28
+54.0		Luka Doncic misses 27-foot three point step back jumpshot	33	28
+51.4		Keldon Johnson defensive rebound	33	28
+34.5		De'Aaron Fox makes 27-foot three point jumper (Dylan Harper assists)	36	28
+26.2		Marcus Smart makes driving layup	36	30
+2.2		Keldon Johnson makes 27-foot three point jumper (Julian Champagnie assists)	39	30
+0.0		Jake LaRavia misses heave jump shot	39	30
+0.0		Lakers offensive team rebound	39	30
+0.0		End of the 1st Quarter	39	30
+12:00		Austin Reaves enters the game for Jaxson Hayes	39	30
+12:00		Gabe Vincent enters the game for Marcus Smart	39	30
+12:00		Deandre Ayton enters the game for Luka Doncic	39	30
+12:00		Luke Kornet enters the game for Dylan Harper	39	30
+12:00		Stephon Castle enters the game for Kelly Olynyk	39	30
+11:46		Stephon Castle misses 7-foot two point shot	39	30
+11:43		LeBron James defensive rebound	39	30
+11:36		LeBron James misses 14-foot two point shot	39	30
+11:33		Luke Kornet defensive rebound	39	30
+11:25		Gabe Vincent kicked ball violation	39	30
+11:25		Harrison Barnes enters the game for Keldon Johnson	39	30
+11:14		De'Aaron Fox misses 27-foot three point jumper	39	30
+11:11		LeBron James defensive rebound	39	30
+10:59		Austin Reaves misses 26-foot three point jumper	39	30
+10:56		Julian Champagnie defensive rebound	39	30
+10:49		Julian Champagnie makes 26-foot three point jumper (Stephon Castle assists)	42	30
+10:42		Austin Reaves lost ball turnover (De'Aaron Fox steals)	42	30
+10:38		LeBron James blocks De'Aaron Fox's two point shot	42	30
+10:37		Harrison Barnes offensive rebound	42	30
+10:34		Harrison Barnes bad pass (Jake LaRavia steals)	42	30
+10:26		Gabe Vincent misses 24-foot three point jumper	42	30
+10:21		Stephon Castle defensive rebound	42	30
+10:14		Gabe Vincent shooting foul	42	30
+10:14		Luke Kornet makes free throw 1 of 2	43	30
+10:14		Devin Vassell enters the game for De'Aaron Fox	43	30
+10:14		Luke Kornet makes free throw 2 of 2	44	30
+9:53		Julian Champagnie blocks Deandre Ayton 's 5-foot layup	44	30
+9:52		LeBron James offensive rebound	44	30
+9:51		LeBron James misses tip shot	44	30
+9:50		Luke Kornet defensive rebound	44	30
+9:41		Harrison Barnes misses two point shot	44	30
+9:39		LeBron James defensive rebound	44	30
+9:39		Stephon Castle personal foul	44	30
+9:23		Jake LaRavia misses 23-foot three point jumper	44	30
+9:21		Julian Champagnie defensive rebound	44	30
+9:14		Julian Champagnie makes 26-foot three point shot (Stephon Castle assists)	47	30
+9:12		Lakers Full timeout	47	30
+9:12		Rui Hachimura enters the game for Jake LaRavia	47	30
+8:56		LeBron James makes 15-foot pullup jump shot	47	32
+8:43		Deandre Ayton shooting foul	47	32
+8:43		Stephon Castle makes free throw 1 of 2	48	32
+8:43		Stephon Castle misses free throw 2 of 2	48	32
+8:40		LeBron James defensive rebound	48	32
+8:25		LeBron James misses driving layup	48	32
+8:21		Deandre Ayton offensive rebound	48	32
+8:21		Deandre Ayton makes tip shot	48	34
+8:13		Gabe Vincent personal foul	48	34
+8:13		Luka Doncic enters the game for Gabe Vincent	48	34
+8:05		Rui Hachimura shooting foul	48	34
+8:05		Lakers Full timeout	48	34
+8:05		(08:05) [Lakers] COACH'S CHALLENGE (CALL STANDS) [Lakers] charged with a timeout	48	34
+8:05		JJ Redick technical foul	48	34
+8:05		Devin Vassell makes technical free throw	49	34
+8:05		Devin Vassell makes free throw 1 of 2	50	34
+8:05		Devin Vassell makes free throw 2 of 2	51	34
+7:52		Luka Doncic misses 15-foot pullup jump shot	51	34
+7:50		Stephon Castle defensive rebound	51	34
+7:45		Deandre Ayton shooting foul	51	34
+7:45		Stephon Castle makes free throw 1 of 2	52	34
+7:45		Stephon Castle misses free throw 2 of 2	52	34
+7:40		LeBron James defensive rebound	52	34
+7:29		LeBron James makes driving layup	52	36
+7:17		Devin Vassell makes 14-foot pullup jump shot (Luke Kornet assists)	54	36
+7:05		Luka Doncic makes 3-foot driving floating jump shot	54	38
+7:05		Julian Champagnie shooting foul	54	38
+7:05		Marcus Smart enters the game for LeBron James	54	38
+7:05		Dylan Harper enters the game for Stephon Castle	54	38
+7:05		Luka Doncic makes free throw 1 of 1	54	39
+6:49		Harrison Barnes makes 23-foot three point jumper (Devin Vassell assists)	57	39
+6:33		Austin Reaves misses 4-foot jumper	57	39
+6:31		Luke Kornet defensive rebound	57	39
+6:16		Dylan Harper misses 12-foot pullup jump shot	57	39
+6:13		Austin Reaves defensive rebound	57	39
+6:09		Marcus Smart misses 26-foot three point shot	57	39
+6:06		Dylan Harper defensive rebound	57	39
+5:58		Devin Vassell misses 18-foot two point shot	57	39
+5:55		Marcus Smart defensive rebound	57	39
+5:53		Marcus Smart misses two point shot	57	39
+5:51		Julian Champagnie defensive rebound	57	39
+5:40		Harrison Barnes misses 27-foot three point step back jumpshot	57	39
+5:37		Deandre Ayton defensive rebound	57	39
+5:32		Luka Doncic makes 27-foot three point step back jumpshot	57	42
+5:31		Spurs Full timeout	57	42
+5:31		Keldon Johnson enters the game for Luke Kornet	57	42
+5:31		Kelly Olynyk enters the game for Julian Champagnie	57	42
+5:12		Luka Doncic personal foul	57	42
+5:12		Harrison Barnes makes free throw 1 of 2	58	42
+5:12		Harrison Barnes makes free throw 2 of 2	59	42
+4:55		Luka Doncic makes driving layup (Rui Hachimura assists)	59	44
+4:43		Kelly Olynyk misses 26-foot three point jumper	59	44
+4:40		Austin Reaves defensive rebound	59	44
+4:33		Luka Doncic misses 9-foot two point shot	59	44
+4:29		Devin Vassell defensive rebound	59	44
+4:24		Harrison Barnes makes 24-foot three point jumper (Dylan Harper assists)	62	44
+4:07		Marcus Smart makes 23-foot three point jumper (Austin Reaves assists)	62	47
+3:51		Dylan Harper makes driving layup (Kelly Olynyk assists)	64	47
+3:36		Austin Reaves makes driving layup	64	49
+3:25		Devin Vassell misses 27-foot three point jumper	64	49
+3:22		Deandre Ayton defensive rebound	64	49
+3:18		Kelly Olynyk shooting foul	64	49
+3:18		Luka Doncic makes free throw 1 of 2	64	50
+3:18		LeBron James enters the game for Deandre Ayton	64	50
+3:18		Jaxson Hayes enters the game for Austin Reaves	64	50
+3:18		Luke Kornet enters the game for Devin Vassell	64	50
+3:18		De'Aaron Fox enters the game for Harrison Barnes	64	50
+3:18		Luka Doncic misses free throw 2 of 2	64	50
+3:16		Keldon Johnson defensive rebound	64	50
+3:02		Marcus Smart blocks De'Aaron Fox 's 1-foot driving floating jump shot	64	50
+2:59		Marcus Smart defensive rebound	64	50
+2:50		Jaxson Hayes makes 2-foot alley oop dunk shot (Luka Doncic assists)	64	52
+2:29		Spurs Full timeout	64	52
+2:29		Julian Champagnie enters the game for Kelly Olynyk	64	52
+2:25		Jaxson Hayes blocks Dylan Harper 's 3-foot driving layup	64	52
+2:24		Spurs offensive team rebound	64	52
+2:24		shot clock turnover	64	52
+2:16		Luka Doncic misses 26-foot three point pullup jump shot	64	52
+2:11		De'Aaron Fox defensive rebound	64	52
+2:06		Devin Vassell enters the game for Dylan Harper	64	52
+2:06		Harrison Barnes enters the game for Keldon Johnson	64	52
+2:06		De'Aaron Fox vs. Rui Hachimura	64	52
+2:06		De'Aaron Fox lost ball turnover	64	52
+1:51		Luka Doncic makes driving layup	64	54
+1:35		Luka Doncic personal foul	64	54
+1:35		Luke Kornet makes free throw 1 of 2	65	54
+1:35		Austin Reaves enters the game for Rui Hachimura	65	54
+1:35		Luke Kornet makes free throw 2 of 2	66	54
+1:22		Julian Champagnie shooting foul	66	54
+1:22		Luka Doncic makes free throw 1 of 2	66	55
+1:22		Luka Doncic makes free throw 2 of 2	66	56
+1:05		Luke Kornet misses 15-foot two point shot	66	56
+1:03		Jaxson Hayes defensive rebound	66	56
+56.2		LeBron James makes 3-foot dunk	66	58
+48.9		LeBron James blocks De'Aaron Fox 's 7-foot driving floating jump shot	66	58
+46.0		Jaxson Hayes defensive rebound	66	58
+42.2		Luke Kornet blocks Austin Reaves 's 3-foot two point shot	66	58
+38.6		Julian Champagnie defensive rebound	66	58
+34.9		De'Aaron Fox makes 9-foot driving floating jump shot	68	58
+19.7		Luka Doncic bad pass (Harrison Barnes steals)	68	58
+13.8		Harrison Barnes makes 4-foot dunk (De'Aaron Fox assists)	70	58
+0.6		Austin Reaves bad pass (Devin Vassell steals)	70	58
+0.0		Luke Kornet misses heave jump shot	70	58
+0.0		Spurs offensive team rebound	70	58
+0.0		End of the 2nd Quarter	70	58
+12:00		Deandre Ayton enters the game for Jaxson Hayes	70	58
+12:00		Rui Hachimura enters the game for Marcus Smart	70	58
+12:00		Stephon Castle enters the game for Julian Champagnie	70	58
+11:48		Stephon Castle makes 27-foot three point jumper (Devin Vassell assists)	73	58
+11:22		Luka Doncic misses 16-foot pullup jump shot	73	58
+11:20		Stephon Castle defensive rebound	73	58
+11:17		Devin Vassell makes 26-foot three point shot (Stephon Castle assists)	76	58
+11:02		Deandre Ayton makes 5-foot driving floating jump shot (LeBron James assists)	76	60
+10:53		Stephon Castle makes driving layup	78	60
+10:41		Austin Reaves lost ball turnover (De'Aaron Fox steals)	78	60
+10:38		De'Aaron Fox misses 27-foot three point pullup jump shot	78	60
+10:35		Deandre Ayton defensive rebound	78	60
+10:29		Deandre Ayton misses two point shot	78	60
+10:27		Deandre Ayton offensive rebound	78	60
+10:24		LeBron James misses 28-foot three point jumper	78	60
+10:20		Stephon Castle defensive rebound	78	60
+10:14		Stephon Castle makes 6-foot driving floating jump shot	80	60
+10:14		Lakers Full timeout	80	60
+9:54		Rui Hachimura makes 25-foot three point jumper (LeBron James assists)	80	63
+9:37		Harrison Barnes makes 25-foot three point jumper (Devin Vassell assists)	83	63
+9:23		Austin Reaves misses 25-foot three point pullup jump shot	83	63
+9:18		Luke Kornet defensive rebound	83	63
+9:10		De'Aaron Fox makes 16-foot two point shot	85	63
+8:51		Luke Kornet shooting foul	85	63
+8:51		Deandre Ayton makes free throw 1 of 2	85	64
+8:51		Deandre Ayton misses free throw 2 of 2	85	64
+8:49		Luke Kornet defensive rebound	85	64
+8:27		De'Aaron Fox misses 26-foot three point step back jumpshot	85	64
+8:24		Austin Reaves defensive rebound	85	64
+8:15		Austin Reaves misses driving layup	85	64
+8:13		Luke Kornet defensive rebound	85	64
+8:05		Austin Reaves blocks Stephon Castle 's 24-foot three point jumper	85	64
+8:03		LeBron James defensive rebound	85	64
+7:59		LeBron James makes two point shot	85	66
+7:40		Austin Reaves shooting foul	85	66
+7:40		Stephon Castle makes free throw 1 of 2	86	66
+7:40		Keldon Johnson enters the game for De'Aaron Fox	86	66
+7:40		Dylan Harper enters the game for Harrison Barnes	86	66
+7:40		Stephon Castle makes free throw 2 of 2	87	66
+7:21		LeBron James misses driving layup	87	66
+7:20		Keldon Johnson defensive rebound	87	66
+7:20		LeBron James personal foul	87	66
+7:11		Austin Reaves personal foul	87	66
+6:58		Luka Doncic shooting foul	87	66
+6:58		Keldon Johnson misses free throw 1 of 3	87	66
+6:58		Spurs offensive team rebound	87	66
+6:58		Keldon Johnson misses free throw 2 of 3	87	66
+6:58		Spurs offensive team rebound	87	66
+6:58		Keldon Johnson misses free throw 3 of 3	87	66
+6:58		LeBron James defensive rebound	87	66
+6:50		Keldon Johnson personal foul	87	66
+6:50		Stephon Castle personal foul	87	66
+6:50		Julian Champagnie enters the game for Stephon Castle	87	66
+6:47		Dylan Harper shooting foul	87	66
+6:47		Luka Doncic makes free throw 1 of 2	87	67
+6:47		Luka Doncic makes free throw 2 of 2	87	68
+6:29		Dylan Harper offensive foul	87	68
+6:29		Dylan Harper turnover	87	68
+6:07		Deandre Ayton misses 9-foot two point shot	87	68
+6:04		Austin Reaves offensive rebound	87	68
+6:02		LeBron James misses 27-foot three point jumper	87	68
+6:02		Devin Vassell defensive rebound	87	68
+5:45		Devin Vassell misses 26-foot three point pullup jump shot	87	68
+5:42		LeBron James defensive rebound	87	68
+5:40		LeBron James out of bounds lost ball turnover	87	68
+5:28		Julian Champagnie makes 2-foot driving floating jump shot (Dylan Harper assists)	89	68
+5:15		Keldon Johnson personal foul	89	68
+5:15		LeBron James makes free throw 1 of 2	89	69
+5:15		LeBron James makes free throw 2 of 2	89	70
+5:03		Marcus Smart enters the game for LeBron James	89	70
+5:03		Gabe Vincent enters the game for Rui Hachimura	89	70
+4:57		Keldon Johnson misses driving floating jump shot	89	70
+4:56		Austin Reaves defensive rebound	89	70
+4:47		Luka Doncic misses 15-foot two point shot	89	70
+4:44		Deandre Ayton offensive rebound	89	70
+4:42		Austin Reaves misses driving floating jump shot	89	70
+4:42		Keldon Johnson defensive rebound	89	70
+4:34		Dylan Harper misses layup	89	70
+4:33		Luka Doncic defensive rebound	89	70
+4:30		Austin Reaves makes 28-foot three point shot (Luka Doncic assists)	89	73
+4:29		Spurs Full timeout	89	73
+4:10		Julian Champagnie misses 26-foot three point jumper	89	73
+4:07		Luka Doncic defensive rebound	89	73
+3:58		Luka Doncic makes 6-foot driving floating jump shot	89	75
+3:37		Dylan Harper makes driving layup	91	75
+3:37		Deandre Ayton personal foul	91	75
+3:37		Jaxson Hayes enters the game for Deandre Ayton	91	75
+3:37		De'Aaron Fox enters the game for Devin Vassell	91	75
+3:37		Luke Kornet makes free throw 1 of 1	92	75
+3:20		Dylan Harper shooting foul	92	75
+3:20		Luka Doncic makes free throw 1 of 2	92	76
+3:20		Kelly Olynyk enters the game for Dylan Harper	92	76
+3:20		Harrison Barnes enters the game for Luke Kornet	92	76
+3:20		Luka Doncic misses free throw 2 of 2	92	76
+3:17		Kelly Olynyk defensive rebound	92	76
+3:12		Marcus Smart personal foul	92	76
+3:12		Keldon Johnson makes free throw 1 of 2	93	76
+3:12		Keldon Johnson makes free throw 2 of 2	94	76
+3:00		Marcus Smart makes 26-foot three point jumper (Luka Doncic assists)	94	79
+2:39		Austin Reaves shooting foul	94	79
+2:39		Kelly Olynyk makes free throw 1 of 2	95	79
+2:39		LeBron James enters the game for Austin Reaves	95	79
+2:39		Kelly Olynyk makes free throw 2 of 2	96	79
+2:22		Marcus Smart makes 27-foot three point jumper (Luka Doncic assists)	96	82
+2:02		Keldon Johnson misses 27-foot three point jumper	96	82
+1:59		Harrison Barnes offensive rebound	96	82
+1:48		De'Aaron Fox misses 22-foot pullup jump shot	96	82
+1:43		LeBron James defensive rebound	96	82
+1:38		Marcus Smart misses 26-foot three point shot	96	82
+1:34		Julian Champagnie defensive rebound	96	82
+1:31		Julian Champagnie makes two point shot (Harrison Barnes assists)	98	82
+1:31		Marcus Smart shooting foul	98	82
+1:31		Julian Champagnie makes free throw 1 of 1	99	82
+1:13		Luka Doncic makes 12-foot two point shot	99	84
+1:00		Jaxson Hayes shooting foul	99	84
+1:00		Keldon Johnson makes free throw 1 of 2	100	84
+1:00		Keldon Johnson makes free throw 2 of 2	101	84
+44.2		Marcus Smart makes 26-foot three pointer (Luka Doncic assists)	101	87
+30.3		De'Aaron Fox makes 26-foot three point step back jumpshot	104	87
+21.0		Marcus Smart misses 26-foot three point jumper	104	87
+18.0		De'Aaron Fox defensive rebound	104	87
+2.2		De'Aaron Fox misses 27-foot three point pullup jump shot	104	87
+2.2		LeBron James defensive rebound	104	87
+0.0		End of the 3rd Quarter	104	87
+12:00		Jake LaRavia enters the game for Jaxson Hayes	104	87
+12:00		Deandre Ayton enters the game for Marcus Smart	104	87
+12:00		Austin Reaves enters the game for Luka Doncic	104	87
+12:00		Devin Vassell enters the game for Keldon Johnson	104	87
+12:00		Luke Kornet enters the game for Kelly Olynyk	104	87
+12:00		Stephon Castle enters the game for Harrison Barnes	104	87
+11:42		Austin Reaves makes 25-foot three point jumper (LeBron James assists)	104	90
+11:29		Stephon Castle makes driving layup	106	90
+11:12		Jake LaRavia bad pass (Devin Vassell steals)	106	90
+11:09		LeBron James blocks Devin Vassell 's 2-foot two point shot	106	90
+11:04		Julian Champagnie offensive rebound	106	90
+11:04		Julian Champagnie makes tip shot	108	90
+10:58		Austin Reaves misses 26-foot three point pullup jump shot	108	90
+10:55		Devin Vassell defensive rebound	108	90
+10:45		Luke Kornet makes 3-foot layup (Devin Vassell assists)	110	90
+10:45		Lakers Full timeout	110	90
+10:45		Rui Hachimura enters the game for Gabe Vincent	110	90
+10:45		Marcus Smart enters the game for Deandre Ayton	110	90
+10:25		Marcus Smart misses 27-foot three point jumper	110	90
+10:22		Devin Vassell defensive rebound	110	90
+10:06		Stephon Castle makes 26-foot three point step back jumpshot (Devin Vassell assists)	113	90
+9:56		Marcus Smart bad pass (Julian Champagnie steals)	113	90
+9:52		Marcus Smart shooting foul	113	90
+9:52		Luke Kornet misses free throw 1 of 2	113	90
+9:52		Spurs offensive team rebound	113	90
+9:52		Luke Kornet makes free throw 2 of 2	114	90
+9:52		Luka Doncic enters the game for Jake LaRavia	114	90
+9:36		Marcus Smart makes 26-foot three point jumper (Austin Reaves assists)	114	93
+9:14		Stephon Castle lost ball turnover (Luka Doncic steals)	114	93
+9:13		De'Aaron Fox shooting foul	114	93
+9:13		LeBron James makes free throw 1 of 2	114	94
+9:13		Keldon Johnson enters the game for Devin Vassell	114	94
+9:13		Harrison Barnes enters the game for Julian Champagnie	114	94
+9:13		LeBron James misses free throw 2 of 2	114	94
+9:11		Stephon Castle defensive rebound	114	94
+8:48		Harrison Barnes misses 22-foot pullup jump shot	114	94
+8:43		Marcus Smart defensive rebound	114	94
+8:42		Luka Doncic out of bounds lost ball turnover	114	94
+8:37		Harrison Barnes misses 26-foot three point pullup jump shot	114	94
+8:34		Luke Kornet offensive rebound	114	94
+8:33		Rui Hachimura blocks Luke Kornet 's 4-foot two point shot	114	94
+8:29		Stephon Castle offensive rebound	114	94
+8:28		Stephon Castle makes two point shot	116	94
+8:14		Austin Reaves makes two point shot (LeBron James assists)	116	96
+8:01		De'Aaron Fox makes driving layup	118	96
+7:44		Marcus Smart makes 26-foot three point jumper (LeBron James assists)	118	99
+7:42		Julian Champagnie enters the game for De'Aaron Fox	118	99
+7:42		Dylan Harper enters the game for Luke Kornet	118	99
+7:42		Spurs Full timeout	118	99
+7:22		Dylan Harper misses driving layup	118	99
+7:18		Rui Hachimura defensive rebound	118	99
+7:18		Julian Champagnie shooting foul	118	99
+7:18		Luka Doncic makes free throw 1 of 2	118	100
+7:18		Luka Doncic makes free throw 2 of 2	118	101
+7:01		Stephon Castle makes driving layup (Julian Champagnie assists)	120	101
+6:49		Luka Doncic makes driving layup	120	103
+6:40		Harrison Barnes misses 24-foot three point jumper	120	103
+6:36		Austin Reaves defensive rebound	120	103
+6:30		Austin Reaves misses two point shot	120	103
+6:28		Stephon Castle defensive rebound	120	103
+6:21		Stephon Castle misses 27-foot three point pullup jump shot	120	103
+6:16		Julian Champagnie offensive rebound	120	103
+6:09		Keldon Johnson misses 27-foot three point pullup jump shot	120	103
+6:06		LeBron James defensive rebound	120	103
+5:49		Luka Doncic misses driving floating jump shot	120	103
+5:46		Dylan Harper defensive rebound	120	103
+5:43		Dylan Harper makes driving layup	122	103
+5:43		Rui Hachimura defensive goaltending violation	122	103
+5:26		Marcus Smart makes 26-foot three point jumper (Luka Doncic assists)	122	106
+5:06		Stephon Castle out of bounds bad pass turnover	122	106
+5:06		Devin Vassell enters the game for Stephon Castle	122	106
+4:51		Julian Champagnie shooting foul	122	106
+4:51		(04:51) [Spurs] REF-INITIATED REVIEW (CALL STANDS)	122	106
+4:51		LeBron James makes free throw 1 of 2	122	107
+4:51		De'Aaron Fox enters the game for Dylan Harper	122	107
+4:51		LeBron James makes free throw 2 of 2	122	108
+4:31		Devin Vassell misses 13-foot pullup jump shot	122	108
+4:28		LeBron James defensive rebound	122	108
+4:22		Marcus Smart makes 26-foot three point jumper (LeBron James assists)	122	111
+4:06		Julian Champagnie traveling	122	111
+4:06		Stephon Castle enters the game for Keldon Johnson	122	111
+4:06		Luke Kornet enters the game for Julian Champagnie	122	111
+3:54		Austin Reaves makes driving layup (Luka Doncic assists)	122	113
+3:54		Harrison Barnes shooting foul	122	113
+3:54		Austin Reaves makes free throw 1 of 1	122	114
+3:35		De'Aaron Fox makes 26-foot three point jumper (Stephon Castle assists)	125	114
+3:12		Rui Hachimura makes driving layup (LeBron James assists)	125	116
+2:52		Luka Doncic shooting foul	125	116
+2:52		Luke Kornet makes free throw 1 of 2	126	116
+2:52		Luke Kornet makes free throw 2 of 2	127	116
+2:35		Austin Reaves misses 12-foot two point shot	127	116
+2:34		Spurs defensive team rebound	127	116
+2:14		Stephon Castle traveling	127	116
+2:00		Rui Hachimura misses 28-foot three point jumper	127	116
+1:56		Stephon Castle defensive rebound	127	116
+1:41		Stephon Castle makes 26-foot three point step back jumpshot	130	116
+1:41		(01:41) [Spurs] REF-INITIATED REVIEW (CALL STANDS)	130	116
+1:24		Luka Doncic misses 27-foot three point jumper	130	116
+1:22		Harrison Barnes defensive rebound	130	116
+1:09		Austin Reaves personal foul	130	116
+1:09		Jake LaRavia enters the game for Austin Reaves	130	116
+1:09		Bronny James enters the game for LeBron James	130	116
+1:09		Dalton Knecht enters the game for Rui Hachimura	130	116
+1:09		Adou Thiero enters the game for Luka Doncic	130	116
+1:09		Lindy Waters III enters the game for De'Aaron Fox	130	116
+1:09		Kelly Olynyk enters the game for Devin Vassell	130	116
+1:09		Dylan Harper enters the game for Harrison Barnes	130	116
+1:09		Jordan McLaughlin enters the game for Stephon Castle	130	116
+1:09		Julian Champagnie enters the game for Luke Kornet	130	116
+1:02		Julian Champagnie makes 4-foot layup (Kelly Olynyk assists)	132	116
+53.6		Marcus Smart misses 25-foot three point jumper	132	116
+51.1		Lindy Waters III defensive rebound	132	116
+30.5		Dylan Harper lost ball turnover (Adou Thiero steals)	132	116
+27.0		Dalton Knecht makes 26-foot running pullup jump shot (Jake LaRavia assists)	132	119
+2.2		shot clock turnover	132	119
+0.0		End of the 4th Quarter	132	119
+0.0		End of Game	132	119
+
+
+
+GAME 22.43 78.7 214 119.6 115.25 5      Lakers vs Hornets  11/8
+12:00		Deandre Ayton vs. Ryan Kalkbrenner (Ryan Kalkbrenner gains possession)	0	0
+11:40		Kon Knueppel bad pass (Austin Reaves steals)	0	0
+11:31		Deandre Ayton makes alley oop dunk shot (Austin Reaves assists)	2	0
+11:15		Kon Knueppel makes driving layup (Collin Sexton assists)	2	2
+10:55		Marcus Smart misses 25-foot three point jumper	2	2
+10:49		Deandre Ayton offensive rebound	2	2
+10:49		Deandre Ayton lost ball turnover (Collin Sexton steals)	2	2
+10:49		Austin Reaves shooting foul	2	2
+10:49		Collin Sexton makes free throw 1 of 2	2	3
+10:49		Collin Sexton makes free throw 2 of 2	2	4
+10:34		Luka Doncic misses 12-foot pullup jump shot	2	4
+10:31		Kon Knueppel defensive rebound	2	4
+10:20		Miles Bridges makes 8-foot driving floating jump shot (Collin Sexton assists)	2	6
+10:04		Austin Reaves makes 8-foot two point shot	4	6
+9:51		Kon Knueppel misses 25-foot three point jumper	4	6
+9:49		Luka Doncic defensive rebound	4	6
+9:35		Deandre Ayton makes alley oop dunk shot (Luka Doncic assists)	6	6
+9:24		Collin Sexton misses 27-foot three point jumper	6	6
+9:19		Ryan Kalkbrenner offensive rebound	6	6
+9:17		Miles Bridges makes 23-foot three point jumper (Kon Knueppel assists)	6	9
+9:01		Luka Doncic misses driving floating jump shot	6	9
+9:00		Luka Doncic offensive rebound	6	9
+9:00		Luka Doncic makes two point shot	8	9
+9:00		Sion James shooting foul	8	9
+9:00		Luka Doncic makes free throw 1 of 1	9	9
+8:37		Kon Knueppel makes 8-foot two point shot (Miles Bridges assists)	9	11
+8:24		Luka Doncic makes 10-foot driving floating jump shot	11	11
+8:24		Collin Sexton shooting foul	11	11
+8:24		Luka Doncic makes free throw 1 of 1	12	11
+8:03		Miles Bridges makes 23-foot three point jumper (Kon Knueppel assists)	12	14
+7:54		Luka Doncic makes 25-foot three point step back jumpshot	15	14
+7:39		Collin Sexton makes driving layup	15	16
+7:25		Austin Reaves makes 8-foot pullup jump shot	17	16
+7:17		Ryan Kalkbrenner offensive foul	17	16
+7:17		Ryan Kalkbrenner turnover	17	16
+7:09		Luka Doncic makes driving layup	19	16
+7:09		Hornets Full timeout	19	16
+7:09		KJ Simpson enters the game for Collin Sexton	19	16
+7:09		Jake LaRavia enters the game for Austin Reaves	19	16
+7:00		KJ Simpson lost ball turnover (Marcus Smart steals)	19	16
+6:59		Marcus Smart bad pass (Miles Bridges steals)	19	16
+6:39		Miles Bridges makes driving layup	19	18
+6:27		Luka Doncic makes 14-foot two point shot	21	18
+6:15		KJ Simpson bad pass (Jake LaRavia steals)	21	18
+6:11		KJ Simpson shooting foul	21	18
+6:11		Jake LaRavia makes free throw 1 of 2	22	18
+6:11		Tre Mann enters the game for Sion James	22	18
+6:11		Moussa Diabate enters the game for Ryan Kalkbrenner	22	18
+6:11		Jake LaRavia makes free throw 2 of 2	23	18
+5:59		Dalton Knecht enters the game for Marcus Smart	23	18
+5:49		KJ Simpson makes 23-foot three point jumper (Tre Mann assists)	23	21
+5:32		Jake LaRavia misses 7-foot two point shot	23	21
+5:29		KJ Simpson defensive rebound	23	21
+5:21		Moussa Diabate makes 3-foot two point shot (KJ Simpson assists)	23	23
+5:07		Luka Doncic misses 26-foot three point step back jumpshot	23	23
+5:04		Miles Bridges defensive rebound	23	23
+5:00		Kon Knueppel misses 28-foot three point shot	23	23
+4:57		Dalton Knecht defensive rebound	23	23
+4:49		Rui Hachimura makes layup (Luka Doncic assists)	25	23
+4:34		KJ Simpson misses 29-foot three point jumper	25	23
+4:30		Kon Knueppel offensive rebound	25	23
+4:20		Kon Knueppel makes 28-foot three point jumper (Tre Mann assists)	25	26
+4:02		Deandre Ayton makes driving layup (Jake LaRavia assists)	27	26
+3:47		Miles Bridges makes 26-foot three pointer (Kon Knueppel assists)	27	29
+3:33		Rui Hachimura makes 1-foot dunk (Luka Doncic assists)	29	29
+3:22		Tre Mann bad pass (Luka Doncic steals)	29	29
+3:15		Moussa Diabate blocks Rui Hachimura 's 1-foot dunk	29	29
+3:11		Miles Bridges defensive rebound	29	29
+3:07		Tre Mann makes 23-foot three point shot (Kon Knueppel assists)	29	32
+2:53		Jake LaRavia misses 26-foot three point jumper	29	32
+2:49		Dalton Knecht offensive rebound	29	32
+2:48		Dalton Knecht misses 6-foot jumper	29	32
+2:47		Dalton Knecht offensive rebound	29	32
+2:39		Moussa Diabate blocks Deandre Ayton 's 3-foot layup	29	32
+2:36		Kon Knueppel defensive rebound	29	32
+2:33		Kon Knueppel makes two point shot	29	34
+2:33		Lakers Full timeout	29	34
+2:33		Collin Sexton enters the game for Kon Knueppel	29	34
+2:33		Liam McNeeley enters the game for KJ Simpson	29	34
+2:33		Jaxson Hayes enters the game for Deandre Ayton	29	34
+2:33		Jarred Vanderbilt enters the game for Rui Hachimura	29	34
+2:09		Miles Bridges personal foul	29	34
+2:02		Jaxson Hayes makes 1-foot alley oop dunk shot (Luka Doncic assists)	31	34
+1:36		Jaxson Hayes blocks Collin Sexton 's 8-foot driving floating jump shot	31	34
+1:36		Hornets offensive team rebound	31	34
+1:36		shot clock turnover	31	34
+1:36		Austin Reaves enters the game for Luka Doncic	31	34
+1:19		Austin Reaves misses 31-foot three point pullup jump shot	31	34
+1:18		Lakers offensive team rebound	31	34
+1:12		Moussa Diabate personal foul	31	34
+1:12		Austin Reaves makes free throw 1 of 2	32	34
+1:12		Austin Reaves makes free throw 2 of 2	33	34
+58.1		Collin Sexton makes 26-foot three point jumper (Tre Mann assists)	33	37
+48.4		Jarred Vanderbilt offensive foul	33	37
+48.4		Jarred Vanderbilt turnover	33	37
+34.6		Dalton Knecht personal foul	33	37
+26.6		Miles Bridges makes 26-foot three point jumper (Tre Mann assists)	33	40
+8.1		Dalton Knecht makes 26-foot three point jumper (Austin Reaves assists)	36	40
+0.5		Tre Mann misses 15-foot pullup jump shot	36	40
+0.5		Jarred Vanderbilt defensive rebound	36	40
+0.0		End of the 1st Quarter	36	40
+12:00		Ryan Kalkbrenner enters the game for Miles Bridges	36	40
+12:00		Kon Knueppel enters the game for Moussa Diabate	36	40
+12:00		Pat Connaughton enters the game for Tre Mann	36	40
+12:00		Marcus Smart enters the game for Jake LaRavia	36	40
+11:48		Liam McNeeley personal foul	36	40
+11:43		Austin Reaves misses 25-foot three point pullup jump shot	36	40
+11:39		Kon Knueppel defensive rebound	36	40
+11:28		Liam McNeeley misses driving layup	36	40
+11:26		Jaxson Hayes defensive rebound	36	40
+11:20		Austin Reaves bad pass (Pat Connaughton steals)	36	40
+11:13		Liam McNeeley misses 23-foot three point shot	36	40
+11:10		Dalton Knecht defensive rebound	36	40
+10:59		Austin Reaves makes 25-foot three pointer	39	40
+10:48		Jarred Vanderbilt shooting foul	39	40
+10:48		Kon Knueppel makes free throw 1 of 2	39	41
+10:48		Kon Knueppel makes free throw 2 of 2	39	42
+10:31		Collin Sexton shooting foul	39	42
+10:31		Austin Reaves makes free throw 1 of 2	40	42
+10:31		Austin Reaves misses free throw 2 of 2	40	42
+10:30		Kon Knueppel defensive rebound	40	42
+10:15		Liam McNeeley misses driving layup	40	42
+10:13		Jaxson Hayes defensive rebound	40	42
+10:02		Marcus Smart makes 26-foot three point jumper	43	42
+9:48		Ryan Kalkbrenner makes 2-foot dunk (Collin Sexton assists)	43	44
+9:38		Austin Reaves makes driving layup	45	44
+9:38		Liam McNeeley shooting foul	45	44
+9:38		Sion James enters the game for Liam McNeeley	45	44
+9:38		Austin Reaves makes free throw 1 of 1	46	44
+9:24		Jaxson Hayes shooting foul	46	44
+9:24		Ryan Kalkbrenner makes free throw 1 of 2	46	45
+9:24		Ryan Kalkbrenner makes free throw 2 of 2	46	46
+9:06		Dalton Knecht misses 14-foot pullup jump shot	46	46
+9:04		Pat Connaughton defensive rebound	46	46
+8:59		Collin Sexton misses running pullup jump shot	46	46
+8:57		Marcus Smart defensive rebound	46	46
+8:43		Dalton Knecht misses 10-foot two point shot	46	46
+8:42		Pat Connaughton defensive rebound	46	46
+8:35		Dalton Knecht blocks Ryan Kalkbrenner 's 3-foot layup	46	46
+8:28		Ryan Kalkbrenner offensive rebound	46	46
+8:28		Ryan Kalkbrenner makes tip shot	46	48
+8:18		Marcus Smart misses 22-foot three point jumper	46	48
+8:14		Pat Connaughton defensive rebound	46	48
+7:57		Collin Sexton makes 20-foot pullup jump shot	46	50
+7:35		Austin Reaves misses 25-foot three point pullup jump shot	46	50
+7:33		Kon Knueppel defensive rebound	46	50
+7:16		Collin Sexton misses 5-foot two point shot	46	50
+7:14		Dalton Knecht defensive rebound	46	50
+6:59		Marcus Smart misses 24-foot three point jumper	46	50
+6:56		Pat Connaughton defensive rebound	46	50
+6:55		Hornets Full timeout	46	50
+6:55		KJ Simpson enters the game for Kon Knueppel	46	50
+6:55		Tre Mann enters the game for Collin Sexton	46	50
+6:55		Miles Bridges enters the game for Pat Connaughton	46	50
+6:55		Jake LaRavia enters the game for Jarred Vanderbilt	46	50
+6:55		Rui Hachimura enters the game for Dalton Knecht	46	50
+6:55		Luka Doncic enters the game for Jaxson Hayes	46	50
+6:55		Deandre Ayton enters the game for Austin Reaves	46	50
+6:40		Sion James makes 26-foot three point jumper (KJ Simpson assists)	46	53
+6:19		Jake LaRavia misses 24-foot three point jumper	46	53
+6:15		Sion James defensive rebound	46	53
+6:10		Sion James misses driving layup	46	53
+6:08		Deandre Ayton defensive rebound	46	53
+5:55		Rui Hachimura out of bounds bad pass turnover	46	53
+5:36		Miles Bridges misses 26-foot three point pullup jump shot	46	53
+5:32		Marcus Smart defensive rebound	46	53
+5:26		Jake LaRavia misses 23-foot three point jumper	46	53
+5:23		Deandre Ayton offensive rebound	46	53
+5:12		Marcus Smart makes 22-foot three point jumper (Rui Hachimura assists)	49	53
+5:00		KJ Simpson misses 26-foot three point jumper	49	53
+4:58		Tre Mann offensive rebound	49	53
+4:54		Jarred Vanderbilt enters the game for Marcus Smart	49	53
+4:54		Miles Bridges out of bounds bad pass turnover	49	53
+4:35		Luka Doncic makes 26-foot three pointer	52	53
+4:29		KJ Simpson offensive foul	52	53
+4:29		KJ Simpson turnover	52	53
+4:29		Moussa Diabate enters the game for Ryan Kalkbrenner	52	53
+4:29		Kon Knueppel enters the game for Sion James	52	53
+4:07		Miles Bridges blocks Luka Doncic 's 28-foot three point pullup jump shot	52	53
+4:03		KJ Simpson defensive rebound	52	53
+3:59		Jake LaRavia personal foul	52	53
+3:50		Moussa Diabate makes driving layup (Tre Mann assists)	52	55
+3:31		Deandre Ayton makes 5-foot hook shot (Jarred Vanderbilt assists)	54	55
+3:14		Tre Mann makes 26-foot three point step back jumpshot (Kon Knueppel assists)	54	58
+2:55		Luka Doncic makes 14-foot two point shot	56	58
+2:49		Rui Hachimura personal foul	56	58
+2:49		Lakers Full timeout	56	58
+2:49		Austin Reaves enters the game for Jake LaRavia	56	58
+2:43		Moussa Diabate makes 2-foot alley oop dunk shot (Miles Bridges assists)	56	60
+2:22		Moussa Diabate personal foul	56	60
+2:22		Hornets Full timeout	56	60
+2:22		(02:22) [Hornets] COACH'S CHALLENGE (REPLAY SUPPORTS CALL) [Hornets] charged with a timeout	56	60
+2:15		KJ Simpson shooting foul	56	60
+2:15		Austin Reaves makes free throw 1 of 2	57	60
+2:15		Collin Sexton enters the game for KJ Simpson	57	60
+2:15		Austin Reaves makes free throw 2 of 2	58	60
+2:06		Deandre Ayton shooting foul	58	60
+2:06		Miles Bridges makes free throw 1 of 2	58	61
+2:06		Marcus Smart enters the game for Jarred Vanderbilt	58	61
+2:06		Miles Bridges misses free throw 2 of 2	58	61
+2:01		Moussa Diabate offensive rebound	58	61
+1:56		Kon Knueppel makes 16-foot jumper (Moussa Diabate assists)	58	63
+1:33		Marcus Smart makes 2-foot two point shot	60	63
+1:13		Tre Mann misses 26-foot three point step back jumpshot	60	63
+1:11		Luka Doncic defensive rebound	60	63
+1:05		Luka Doncic misses 25-foot three point shot	60	63
+1:05		Lakers offensive team rebound	60	63
+1:00		Rui Hachimura misses layup	60	63
+58.3		Rui Hachimura offensive rebound	60	63
+58.3		Rui Hachimura misses tip shot	60	63
+57.3		Tre Mann defensive rebound	60	63
+45.0		Kon Knueppel misses 26-foot three point jumper	60	63
+42.0		Austin Reaves defensive rebound	60	63
+34.0		Tre Mann shooting foul	60	63
+34.0		Austin Reaves misses free throw 1 of 2	60	63
+34.0		Lakers offensive team rebound	60	63
+34.0		Austin Reaves misses free throw 2 of 2	60	63
+28.6		Rui Hachimura offensive rebound	60	63
+26.0		Luka Doncic makes 25-foot three pointer (Marcus Smart assists)	63	63
+4.3		Miles Bridges misses driving layup	63	63
+2.3		Rui Hachimura defensive rebound	63	63
+0.0		Austin Reaves makes driving layup (Marcus Smart assists)	65	63
+0.0		(00:00) [Lakers] REF-INITIATED REVIEW (REPLAY SUPPORTS CALL)	65	63
+0.0		End of the 2nd Quarter	65	63
+12:00		Sion James enters the game for Tre Mann	65	63
+11:45		Deandre Ayton makes 5-foot hook shot (Luka Doncic assists)	67	63
+11:28		Collin Sexton lost ball turnover (Marcus Smart steals)	67	63
+11:23		Rui Hachimura makes two point shot (Austin Reaves assists)	69	63
+11:17		Miles Bridges makes 24-foot three point jumper (Kon Knueppel assists)	69	66
+10:51		Luka Doncic misses 33-foot three point pullup jump shot	69	66
+10:51		Miles Bridges defensive rebound	69	66
+10:30		Miles Bridges misses 12-foot two point shot	69	66
+10:28		Austin Reaves defensive rebound	69	66
+10:19		Deandre Ayton makes layup (Austin Reaves assists)	71	66
+10:04		Luka Doncic shooting foul	71	66
+10:04		Sion James makes free throw 1 of 2	71	67
+10:04		Sion James misses free throw 2 of 2	71	67
+9:59		Deandre Ayton defensive rebound	71	67
+9:44		Austin Reaves misses 29-foot three point jumper	71	67
+9:42		Miles Bridges defensive rebound	71	67
+9:32		Collin Sexton offensive charge	71	67
+9:32		Collin Sexton turnover	71	67
+9:12		Luka Doncic makes 14-foot two point shot	73	67
+8:54		Collin Sexton misses 17-foot pullup jump shot	73	67
+8:52		Austin Reaves defensive rebound	73	67
+8:43		Austin Reaves misses 27-foot three point pullup jump shot	73	67
+8:41		Moussa Diabate defensive rebound	73	67
+8:37		Austin Reaves personal foul	73	67
+8:26		Rui Hachimura vs. Kon Knueppel (Marcus Smart gains possession)	73	67
+8:26		Kon Knueppel lost ball turnover (Rui Hachimura steals)	73	67
+8:17		Deandre Ayton misses driving floating jump shot	73	67
+8:16		Marcus Smart offensive rebound	73	67
+8:13		Rui Hachimura makes 27-foot three point jumper (Marcus Smart assists)	76	67
+8:13		Hornets Full timeout	76	67
+7:56		Miles Bridges misses 22-foot three point jumper	76	67
+7:53		Deandre Ayton defensive rebound	76	67
+7:34		Luka Doncic misses 7-foot two point shot	76	67
+7:33		Deandre Ayton offensive rebound	76	67
+7:27		Luka Doncic misses 28-foot three point jumper	76	67
+7:26		Miles Bridges defensive rebound	76	67
+7:12		Collin Sexton lost ball turnover (Marcus Smart steals)	76	67
+7:06		Rui Hachimura makes 23-foot three point shot (Austin Reaves assists)	79	67
+6:55		Luka Doncic personal foul	79	67
+6:55		KJ Simpson enters the game for Collin Sexton	79	67
+6:55		Jake LaRavia enters the game for Austin Reaves	79	67
+6:39		Kon Knueppel makes 23-foot three point jumper (Sion James assists)	79	70
+6:12		Luka Doncic makes 27-foot three point step back jumpshot	82	70
+5:59		Miles Bridges misses 25-foot three point jumper	82	70
+5:57		Luka Doncic defensive rebound	82	70
+5:50		Rui Hachimura makes 25-foot three point shot (Jake LaRavia assists)	85	70
+5:42		Sion James offensive foul	85	70
+5:42		Sion James turnover	85	70
+5:42		Tre Mann enters the game for Sion James	85	70
+5:29		Miles Bridges personal foul	85	70
+5:18		Rui Hachimura makes 17-foot pullup jump shot (Luka Doncic assists)	87	70
+4:54		Tre Mann misses 23-foot three point jumper	87	70
+4:54		Miles Bridges offensive rebound	87	70
+4:54		Deandre Ayton personal foul	87	70
+4:46		Tre Mann out of bounds bad pass turnover	87	70
+4:23		Marcus Smart misses 26-foot three point jumper	87	70
+4:17		Marcus Smart offensive rebound	87	70
+4:13		Marcus Smart bad pass (Kon Knueppel steals)	87	70
+3:59		KJ Simpson makes 8-foot two point shot	87	72
+3:41		Luka Doncic makes 2-foot driving dunk	89	72
+3:35		Kon Knueppel bad pass (Marcus Smart steals)	89	72
+3:30		Luka Doncic misses running pullup jump shot	89	72
+3:26		Kon Knueppel defensive rebound	89	72
+3:15		Miles Bridges misses driving layup	89	72
+3:12		Miles Bridges offensive rebound	89	72
+3:12		Miles Bridges makes tip shot	89	74
+2:48		Jake LaRavia misses 18-foot two point shot	89	74
+2:45		Moussa Diabate defensive rebound	89	74
+2:38		Hornets Full timeout	89	74
+2:38		Collin Sexton enters the game for Kon Knueppel	89	74
+2:38		Ryan Kalkbrenner enters the game for Moussa Diabate	89	74
+2:38		Sion James enters the game for KJ Simpson	89	74
+2:38		Jarred Vanderbilt enters the game for Deandre Ayton	89	74
+2:38		Jaxson Hayes enters the game for Marcus Smart	89	74
+2:26		Ryan Kalkbrenner offensive foul	89	74
+2:26		Ryan Kalkbrenner turnover	89	74
+2:00		Luka Doncic misses 26-foot three point pullup jump shot	89	74
+1:58		Jake LaRavia offensive rebound	89	74
+1:58		Jake LaRavia makes tip shot	91	74
+1:43		Tre Mann misses 25-foot three point pullup jump shot	91	74
+1:40		Ryan Kalkbrenner offensive rebound	91	74
+1:40		Ryan Kalkbrenner steps out of bounds turnover	91	74
+1:40		Austin Reaves enters the game for Rui Hachimura	91	74
+1:24		Luka Doncic traveling	91	74
+1:12		Miles Bridges makes 12-foot driving floating jump shot	91	76
+53.4		Austin Reaves makes 12-foot two point shot	93	76
+44.9		Jake LaRavia personal foul	93	76
+44.9		Collin Sexton makes free throw 1 of 2	93	77
+44.9		Liam McNeeley enters the game for Tre Mann	93	77
+44.9		Collin Sexton makes free throw 2 of 2	93	78
+28.8		Luka Doncic makes 26-foot three point jumper	96	78
+6.6		Miles Bridges misses 25-foot three point step back jumpshot	96	78
+2.3		Austin Reaves defensive rebound	96	78
+1.0		Austin Reaves misses heave jump shot	96	78
+1.0		Lakers offensive team rebound	96	78
+0.0		End of the 3rd Quarter	96	78
+12:00		Pat Connaughton enters the game for Miles Bridges	96	78
+12:00		Marcus Smart enters the game for Luka Doncic	96	78
+11:52		Jake LaRavia personal foul	96	78
+11:41		Ryan Kalkbrenner makes driving layup	96	80
+11:41		Jaxson Hayes shooting foul	96	80
+11:41		Ryan Kalkbrenner makes free throw 1 of 1	96	81
+11:25		Sion James blocks Jaxson Hayes 's 6-foot layup	96	81
+11:22		Pat Connaughton defensive rebound	96	81
+11:20		Marcus Smart personal foul	96	81
+11:09		Collin Sexton bad pass (Austin Reaves steals)	96	81
+11:04		Jake LaRavia makes two point shot (Austin Reaves assists)	98	81
+10:49		Sion James misses driving layup	98	81
+10:47		Jaxson Hayes defensive rebound	98	81
+10:34		Austin Reaves misses 31-foot three point jumper	98	81
+10:33		Hornets defensive team rebound	98	81
+10:33		Jarred Vanderbilt loose ball foul	98	81
+10:19		Ryan Kalkbrenner offensive foul	98	81
+10:19		Ryan Kalkbrenner turnover	98	81
+10:02		Austin Reaves misses 12-foot two point shot	98	81
+9:59		Ryan Kalkbrenner defensive rebound	98	81
+9:54		Pat Connaughton out of bounds bad pass turnover	98	81
+9:41		Austin Reaves misses 29-foot three point step back jumpshot	98	81
+9:41		Hornets defensive team rebound	98	81
+9:41		Kon Knueppel enters the game for Sion James	98	81
+9:26		Collin Sexton makes 12-foot pullup jump shot (Kon Knueppel assists)	98	83
+9:06		Marcus Smart misses driving floating jump shot	98	83
+9:06		Hornets defensive team rebound	98	83
+9:06		Jarred Vanderbilt loose ball foul	98	83
+9:06		Liam McNeeley makes free throw 1 of 2	98	84
+9:06		Miles Bridges enters the game for Pat Connaughton	98	84
+9:06		Luka Doncic enters the game for Jake LaRavia	98	84
+9:06		Liam McNeeley makes free throw 2 of 2	98	85
+8:54		Collin Sexton personal foul	98	85
+8:54		KJ Simpson enters the game for Collin Sexton	98	85
+8:54		Rui Hachimura enters the game for Jarred Vanderbilt	98	85
+8:49		Kon Knueppel shooting foul	98	85
+8:49		Austin Reaves makes free throw 1 of 2	99	85
+8:49		Moussa Diabate enters the game for Ryan Kalkbrenner	99	85
+8:49		Austin Reaves makes free throw 2 of 2	100	85
+8:30		Kon Knueppel misses driving layup	100	85
+8:28		Luka Doncic defensive rebound	100	85
+8:24		Luka Doncic misses running pullup jump shot	100	85
+8:21		Jaxson Hayes offensive rebound	100	85
+8:21		Liam McNeeley personal foul	100	85
+8:19		Miles Bridges personal foul	100	85
+8:09		Austin Reaves makes 28-foot three point jumper (Luka Doncic assists)	103	85
+7:43		Liam McNeeley misses driving floating jump shot	103	85
+7:40		Jaxson Hayes defensive rebound	103	85
+7:32		Austin Reaves misses 26-foot three point step back jumpshot	103	85
+7:29		KJ Simpson defensive rebound	103	85
+7:23		Austin Reaves kicked ball violation	103	85
+7:23		Jake LaRavia enters the game for Jaxson Hayes	103	85
+7:23		Deandre Ayton enters the game for Austin Reaves	103	85
+7:09		Liam McNeeley makes driving layup (Miles Bridges assists)	103	87
+6:50		Deandre Ayton offensive foul	103	87
+6:50		Deandre Ayton turnover	103	87
+6:50		Hornets Full timeout	103	87
+6:41		Jake LaRavia shooting foul	103	87
+6:41		Kon Knueppel makes free throw 1 of 3	103	88
+6:41		Kon Knueppel makes free throw 2 of 3	103	89
+6:41		Kon Knueppel makes free throw 3 of 3	103	90
+6:27		Deandre Ayton 3 second turnover	103	90
+6:15		Miles Bridges makes 25-foot three pointer (KJ Simpson assists)	103	93
+6:14		Lakers Full timeout	103	93
+5:54		Rui Hachimura makes 18-foot jumper (Marcus Smart assists)	105	93
+5:48		Miles Bridges bad pass (Marcus Smart steals)	105	93
+5:40		Luka Doncic makes two point shot (Marcus Smart assists)	107	93
+5:18		KJ Simpson makes 25-foot three point jumper (Kon Knueppel assists)	107	96
+4:50		Marcus Smart bad pass (Moussa Diabate steals)	107	96
+4:44		Liam McNeeley makes 24-foot three pointer (KJ Simpson assists)	107	99
+4:20		Moussa Diabate blocks Jake LaRavia 's 4-foot driving layup	107	99
+4:20		Lakers offensive team rebound	107	99
+4:17		Luka Doncic makes 13-foot pullup jump shot (Jake LaRavia assists)	109	99
+4:17		Miles Bridges shooting foul	109	99
+4:17		Luka Doncic makes free throw 1 of 1	110	99
+4:00		Liam McNeeley bad pass (Marcus Smart steals)	110	99
+3:56		Luka Doncic misses 30-foot three point shot	110	99
+3:53		Kon Knueppel defensive rebound	110	99
+3:45		Luka Doncic shooting foul	110	99
+3:45		Miles Bridges makes free throw 1 of 2	110	100
+3:45		Austin Reaves enters the game for Jake LaRavia	110	100
+3:45		Miles Bridges makes free throw 2 of 2	110	101
+3:28		Rui Hachimura makes 15-foot two point shot	112	101
+3:12		KJ Simpson misses driving floating jump shot	112	101
+3:10		Luka Doncic defensive rebound	112	101
+3:10		Lakers Full timeout	112	101
+3:04		Luka Doncic misses driving floating jump shot	112	101
+3:00		Kon Knueppel defensive rebound	112	101
+2:55		Kon Knueppel misses 23-foot three point shot	112	101
+2:52		Austin Reaves defensive rebound	112	101
+2:32		Marcus Smart makes 26-foot three point jumper (Austin Reaves assists)	115	101
+2:21		Luka Doncic shooting foul	115	101
+2:21		Miles Bridges makes free throw 1 of 2	115	102
+2:21		Sion James enters the game for KJ Simpson	115	102
+2:21		Miles Bridges makes free throw 2 of 2	115	103
+2:00		Luka Doncic bad pass (Moussa Diabate steals)	115	103
+1:54		Moussa Diabate makes 1-foot dunk (Miles Bridges assists)	115	105
+1:38		Deandre Ayton makes 2-foot alley oop dunk shot (Marcus Smart assists)	117	105
+1:24		Miles Bridges misses 25-foot three point step back jumpshot	117	105
+1:21		Kon Knueppel offensive rebound	117	105
+1:19		Sion James makes 23-foot three point jumper (Miles Bridges assists)	117	108
+56.6		Austin Reaves misses 12-foot two point shot	117	108
+54.2		Miles Bridges defensive rebound	117	108
+44.4		Miles Bridges makes 23-foot three point jumper (Kon Knueppel assists)	117	111
+22.8		Liam McNeeley blocks Deandre Ayton 's 6-foot layup	117	111
+22.8		Deandre Ayton vs. Liam McNeeley (Austin Reaves gains possession)	117	111
+22.8		Lakers offensive team rebound	117	111
+16.3		Luka Doncic misses 30-foot three point jumper	117	111
+14.3		Liam McNeeley defensive rebound	117	111
+10.9		Sion James misses running pullup jump shot	117	111
+10.9		Lakers defensive team rebound	117	111
+10.9		Lakers Full timeout	117	111
+10.9		Jake LaRavia enters the game for Deandre Ayton	117	111
+7.7		Liam McNeeley personal foul	117	111
+7.7		Luka Doncic makes free throw 1 of 2	118	111
+7.7		Ryan Kalkbrenner enters the game for Liam McNeeley	118	111
+7.7		Luka Doncic makes free throw 2 of 2	119	111
+7.7		Hornets Full timeout	119	111
+7.7		Liam McNeeley enters the game for Moussa Diabate	119	111
+3.2		Sion James bad pass (Marcus Smart steals)	119	111
+3.0		Ryan Kalkbrenner personal foul	119	111
+3.0		Marcus Smart makes free throw 1 of 2	120	111
+3.0		Dalton Knecht enters the game for Austin Reaves	120	111
+3.0		Marcus Smart makes free throw 2 of 2	121	111
+0.0		Liam McNeeley misses 29-foot three point jumper	121	111
+0.0		Hornets offensive team rebound	121	111
+0.0		End of the 4th Quarter	121	111
+0.0		End of Game	121	111
+
+GAME 27.25 79.3 218 118.8  115.25 4   Lakers vs Bucks      11/15
+12:00		Deandre Ayton vs. Myles Turner (Bronny James gains possession)	0	0
+11:42		Austin Reaves makes 10-foot pullup jump shot (Luka Doncic assists)	2	0
+11:22		Ryan Rollins misses 25-foot three point step back jumpshot	2	0
+11:18		Luka Doncic defensive rebound	2	0
+11:05		Bronny James misses 23-foot three point step back jumpshot	2	0
+11:01		AJ Green defensive rebound	2	0
+10:45		Giannis Antetokounmpo makes 1-foot dunk (Ryan Rollins assists)	2	2
+10:22		Austin Reaves misses 26-foot three point step back jumpshot	2	2
+10:18		Giannis Antetokounmpo defensive rebound	2	2
+10:11		Kyle Kuzma misses 24-foot three point jumper	2	2
+10:08		Deandre Ayton defensive rebound	2	2
+10:02		Luka Doncic misses 17-foot two point shot	2	2
+10:00		AJ Green defensive rebound	2	2
+9:52		Deandre Ayton shooting foul	2	2
+9:52		Giannis Antetokounmpo makes free throw 1 of 2	2	3
+9:52		Giannis Antetokounmpo misses free throw 2 of 2	2	3
+9:49		Luka Doncic defensive rebound	2	3
+9:29		Jake LaRavia misses 27-foot three point jumper	2	3
+9:25		Giannis Antetokounmpo defensive rebound	2	3
+9:20		Kyle Kuzma misses 25-foot three point jumper	2	3
+9:17		Giannis Antetokounmpo offensive rebound	2	3
+9:11		Luka Doncic vs. Giannis Antetokounmpo (Luka Doncic gains possession)	2	3
+9:11		Giannis Antetokounmpo lost ball turnover (Luka Doncic steals)	2	3
+9:04		Luka Doncic misses 29-foot three point step back jumpshot	2	3
+9:00		Myles Turner defensive rebound	2	3
+8:57		Giannis Antetokounmpo offensive foul	2	3
+8:57		Giannis Antetokounmpo turnover	2	3
+8:57		Bucks delay of game violation	2	3
+8:42		Deandre Ayton makes 1-foot alley oop dunk shot (Luka Doncic assists)	4	3
+8:21		Ryan Rollins makes 1-foot two point shot	4	5
+8:00		Austin Reaves makes driving layup	6	5
+8:00		Myles Turner shooting foul	6	5
+8:00		Dalton Knecht enters the game for Bronny James	6	5
+8:00		Austin Reaves makes free throw 1 of 1	7	5
+7:42		AJ Green makes 26-foot three point jumper	7	8
+7:35		Kyle Kuzma personal foul	7	8
+7:35		Lakers delay of game violation	7	8
+7:24		Luka Doncic makes 25-foot three point step back jumpshot	10	8
+7:10		Giannis Antetokounmpo misses 10-foot two point shot	10	8
+7:06		Austin Reaves defensive rebound	10	8
+7:04		Myles Turner blocks Austin Reaves 's 5-foot two point shot	10	8
+7:04		AJ Green defensive rebound	10	8
+6:57		Ryan Rollins misses 26-foot three point shot	10	8
+6:54		Deandre Ayton defensive rebound	10	8
+6:46		Luka Doncic makes 27-foot three point step back jumpshot	13	8
+6:28		Jake LaRavia personal foul	13	8
+6:28		Bucks Full timeout	13	8
+6:28		Jericho Sims enters the game for Giannis Antetokounmpo	13	8
+6:18		Kyle Kuzma traveling	13	8
+6:18		Gary Trent Jr. enters the game for AJ Green	13	8
+6:01		Ryan Rollins shooting foul	13	8
+6:01		Luka Doncic misses free throw 1 of 2	13	8
+6:01		Lakers offensive team rebound	13	8
+6:01		Jaxson Hayes enters the game for Deandre Ayton	13	8
+6:01		Luka Doncic makes free throw 2 of 2	14	8
+5:49		Kyle Kuzma misses 23-foot three point jumper	14	8
+5:45		Dalton Knecht defensive rebound	14	8
+5:38		Austin Reaves out of bounds lost ball turnover	14	8
+5:27		Kyle Kuzma misses 25-foot three point jumper	14	8
+5:22		Jericho Sims offensive rebound	14	8
+5:16		Myles Turner misses driving layup	14	8
+5:16		Dalton Knecht defensive rebound	14	8
+5:08		Luka Doncic makes 14-foot running pullup jump shot	16	8
+5:08		Kyle Kuzma shooting foul	16	8
+5:08		Luka Doncic makes free throw 1 of 1	17	8
+4:56		Ryan Rollins misses 17-foot pullup jump shot	17	8
+4:51		Jaxson Hayes defensive rebound	17	8
+4:44		Luka Doncic bad pass (Jericho Sims steals)	17	8
+4:38		Gary Trent Jr. misses 26-foot three point pullup jump shot	17	8
+4:34		Jaxson Hayes defensive rebound	17	8
+4:29		Jake LaRavia misses layup	17	8
+4:25		Myles Turner defensive rebound	17	8
+4:15		Ryan Rollins makes 13-foot driving floating jump shot (Jericho Sims assists)	17	10
+3:55		Luka Doncic misses two point shot	17	10
+3:52		Ryan Rollins defensive rebound	17	10
+3:47		Gary Trent Jr. misses 23-foot three point shot	17	10
+3:43		Jaxson Hayes defensive rebound	17	10
+3:41		Dalton Knecht makes two point shot (Luka Doncic assists)	19	10
+3:27		Austin Reaves personal foul	19	10
+3:27		Bobby Portis enters the game for Myles Turner	19	10
+3:27		Maxi Kleber enters the game for Austin Reaves	19	10
+3:27		Gary Harris enters the game for Kyle Kuzma	19	10
+3:17		Gary Trent Jr. misses driving floating jump shot	19	10
+3:14		Luka Doncic defensive rebound	19	10
+3:12		Bobby Portis shooting foul	19	10
+3:12		Jaxson Hayes makes free throw 1 of 2	20	10
+3:12		Cole Anthony enters the game for Ryan Rollins	20	10
+3:12		Jaxson Hayes makes free throw 2 of 2	21	10
+2:55		Bobby Portis misses 11-foot two point shot	21	10
+2:52		Jake LaRavia defensive rebound	21	10
+2:45		Jaxson Hayes makes alley oop dunk shot (Luka Doncic assists)	23	10
+2:36		Cole Anthony bad pass (Jaxson Hayes steals)	23	10
+2:32		Gary Harris blocks Jake LaRavia 's 24-foot running pullup jump shot	23	10
+2:30		Bobby Portis defensive rebound	23	10
+2:17		Cole Anthony misses 12-foot step back jumpshot	23	10
+2:14		Jericho Sims offensive rebound	23	10
+2:06		Gary Trent Jr. makes 22-foot three point jumper (Gary Harris assists)	23	13
+1:51		Luka Doncic misses driving floating jump shot	23	13
+1:51		Luka Doncic offensive rebound	23	13
+1:48		Lakers Full timeout	23	13
+1:48		Giannis Antetokounmpo enters the game for Jericho Sims	23	13
+1:48		Adou Thiero enters the game for Jake LaRavia	23	13
+1:48		Luka Doncic makes free throw 1 of 2	24	13
+1:48		Luka Doncic makes free throw 2 of 2	25	13
+1:48		Jericho Sims shooting foul	25	13
+1:22		Gary Trent Jr. makes 15-foot two point shot	25	15
+1:04		Luka Doncic misses 25-foot three point step back jumpshot	25	15
+1:01		Adou Thiero offensive rebound	25	15
+52.1		Maxi Kleber makes 25-foot three point jumper (Luka Doncic assists)	28	15
+35.7		Bobby Portis makes 27-foot three pointer (Cole Anthony assists)	28	18
+20.1		Cole Anthony shooting foul	28	18
+20.1		Jaxson Hayes makes free throw 1 of 2	29	18
+20.1		Jaxson Hayes makes free throw 2 of 2	30	18
+1.9		Gary Trent Jr. misses 27-foot three point step back jumpshot	30	18
+0.1		Bucks offensive team rebound	30	18
+0.0		End of the 1st Quarter	30	18
+12:00		Jarred Vanderbilt enters the game for Jaxson Hayes	30	18
+12:00		Austin Reaves enters the game for Luka Doncic	30	18
+12:00		Deandre Ayton enters the game for Adou Thiero	30	18
+11:46		Giannis Antetokounmpo bad pass (Austin Reaves steals)	30	18
+11:38		Dalton Knecht makes dunk (Austin Reaves assists)	32	18
+11:27		Maxi Kleber shooting foul	32	18
+11:27		Giannis Antetokounmpo makes free throw 1 of 2	32	19
+11:27		AJ Green enters the game for Gary Trent Jr.	32	19
+11:27		Giannis Antetokounmpo makes free throw 2 of 2	32	20
+11:15		Austin Reaves misses 27-foot three point jumper	32	20
+11:11		Dalton Knecht offensive rebound	32	20
+11:08		Deandre Ayton makes dunk (Austin Reaves assists)	34	20
+10:55		Maxi Kleber personal foul	34	20
+10:45		Giannis Antetokounmpo makes finger roll layup (Cole Anthony assists)	34	22
+10:28		Austin Reaves misses 14-foot pullup jump shot	34	22
+10:24		Cole Anthony defensive rebound	34	22
+10:20		Giannis Antetokounmpo makes two point shot (Cole Anthony assists)	34	24
+10:05		Deandre Ayton makes 15-foot jumper (Austin Reaves assists)	36	24
+9:51		Dalton Knecht blocks Bobby Portis 's 19-foot jumper	36	24
+9:49		Bobby Portis offensive rebound	36	24
+9:46		Bobby Portis misses 18-foot pullup jump shot	36	24
+9:44		Jarred Vanderbilt defensive rebound	36	24
+9:42		Jarred Vanderbilt lost ball turnover (Cole Anthony steals)	36	24
+9:39		Cole Anthony misses 23-foot three point jumper	36	24
+9:36		Dalton Knecht defensive rebound	36	24
+9:22		Jarred Vanderbilt steps out of bounds turnover	36	24
+9:22		Jake LaRavia enters the game for Maxi Kleber	36	24
+8:58		Gary Harris misses 23-foot three point jumper	36	24
+8:55		Cole Anthony offensive rebound	36	24
+8:54		Cole Anthony misses 15-foot tip shot	36	24
+8:54		Deandre Ayton defensive rebound	36	24
+8:43		Deandre Ayton makes 9-foot two point shot (Austin Reaves assists)	38	24
+8:23		Deandre Ayton shooting foul	38	24
+8:23		Giannis Antetokounmpo makes free throw 1 of 2	38	25
+8:23		Luka Doncic enters the game for Dalton Knecht	38	25
+8:23		Giannis Antetokounmpo makes free throw 2 of 2	38	26
+8:12		Austin Reaves offensive foul	38	26
+8:12		Austin Reaves turnover	38	26
+8:00		Gary Harris makes 23-foot three point jumper (Cole Anthony assists)	38	29
+7:46		Deandre Ayton misses 6-foot two point shot	38	29
+7:46		Giannis Antetokounmpo defensive rebound	38	29
+7:37		Giannis Antetokounmpo misses driving layup	38	29
+7:34		Bobby Portis offensive rebound	38	29
+7:33		Giannis Antetokounmpo misses layup	38	29
+7:31		Giannis Antetokounmpo offensive rebound	38	29
+7:23		Jake LaRavia shooting foul	38	29
+7:23		Giannis Antetokounmpo misses free throw 1 of 2	38	29
+7:23		Bucks offensive team rebound	38	29
+7:23		Maxi Kleber enters the game for Jarred Vanderbilt	38	29
+7:23		Giannis Antetokounmpo makes free throw 2 of 2	38	30
+7:10		Giannis Antetokounmpo blocks Deandre Ayton 's 3-foot layup	38	30
+7:05		Bobby Portis defensive rebound	38	30
+7:03		AJ Green misses 25-foot three point shot	38	30
+6:59		Luka Doncic defensive rebound	38	30
+6:47		Jake LaRavia misses two point shot	38	30
+6:46		Jake LaRavia offensive rebound	38	30
+6:46		Jake LaRavia makes tip shot	40	30
+6:34		Giannis Antetokounmpo bad pass (Jake LaRavia steals)	40	30
+6:25		Deandre Ayton makes 1-foot layup (Austin Reaves assists)	42	30
+6:07		Cole Anthony bad pass (Deandre Ayton steals)	42	30
+6:05		Bobby Portis shooting foul	42	30
+6:05		Bucks Full timeout	42	30
+6:05		Kyle Kuzma enters the game for Bobby Portis	42	30
+6:05		Myles Turner enters the game for Giannis Antetokounmpo	42	30
+6:05		Ryan Rollins enters the game for Cole Anthony	42	30
+6:05		Austin Reaves misses free throw 1 of 2	42	30
+6:05		Lakers offensive team rebound	42	30
+6:05		Austin Reaves makes free throw 2 of 2	43	30
+5:47		Ryan Rollins bad pass (Deandre Ayton steals)	43	30
+5:36		Luka Doncic makes 11-foot two point shot	45	30
+5:17		AJ Green misses 26-foot three point jumper	45	30
+5:13		Myles Turner offensive rebound	45	30
+5:10		Maxi Kleber shooting foul	45	30
+5:10		Ryan Rollins misses free throw 1 of 2	45	30
+5:10		Bucks offensive team rebound	45	30
+5:10		Gary Trent Jr. enters the game for Gary Harris	45	30
+5:10		Jaxson Hayes enters the game for Deandre Ayton	45	30
+5:10		Dalton Knecht enters the game for Austin Reaves	45	30
+5:10		Ryan Rollins makes free throw 2 of 2	45	31
+4:57		Jaxson Hayes out of bounds bad pass turnover	45	31
+4:45		Ryan Rollins misses driving layup	45	31
+4:42		Jake LaRavia defensive rebound	45	31
+4:37		Jaxson Hayes makes 1-foot dunk (Jake LaRavia assists)	47	31
+4:15		Ryan Rollins bad pass (Jaxson Hayes steals)	47	31
+4:06		Myles Turner shooting foul	47	31
+4:06		Luka Doncic makes free throw 1 of 2	48	31
+4:06		Luka Doncic makes free throw 2 of 2	49	31
+3:59		Kyle Kuzma misses 4-foot two point shot	49	31
+3:57		Jaxson Hayes defensive rebound	49	31
+3:49		Luka Doncic misses driving floating jump shot	49	31
+3:47		Kyle Kuzma defensive rebound	49	31
+3:40		AJ Green misses 27-foot three point jumper	49	31
+3:38		Jaxson Hayes defensive rebound	49	31
+3:19		Dalton Knecht makes 26-foot three point jumper (Jaxson Hayes assists)	52	31
+3:04		Jaxson Hayes shooting foul	52	31
+3:04		Kyle Kuzma makes free throw 1 of 2	52	32
+3:04		Giannis Antetokounmpo enters the game for AJ Green	52	32
+3:04		Austin Reaves enters the game for Maxi Kleber	52	32
+3:04		Deandre Ayton enters the game for Jaxson Hayes	52	32
+3:04		Kyle Kuzma misses free throw 2 of 2	52	32
+3:04		Deandre Ayton defensive rebound	52	32
+2:56		Lakers Full timeout	52	32
+2:42		Luka Doncic makes 28-foot three point step back jumpshot	55	32
+2:31		Myles Turner misses 27-foot three point jumper	55	32
+2:28		Dalton Knecht defensive rebound	55	32
+2:14		Deandre Ayton makes alley oop layup (Austin Reaves assists)	57	32
+2:01		Gary Trent Jr. misses 25-foot three point jumper	57	32
+1:59		Dalton Knecht defensive rebound	57	32
+1:52		Deandre Ayton makes alley oop layup (Austin Reaves assists)	59	32
+1:33		Deandre Ayton kicked ball violation	59	32
+1:27		Giannis Antetokounmpo misses 16-foot pullup jump shot	59	32
+1:25		Deandre Ayton defensive rebound	59	32
+1:14		Luka Doncic makes 21-foot two point shot	61	32
+46.5		Kyle Kuzma misses 23-foot three point jumper	61	32
+44.6		Giannis Antetokounmpo offensive rebound	61	32
+43.1		Giannis Antetokounmpo offensive charge	61	32
+43.1		Giannis Antetokounmpo turnover	61	32
+35.1		Giannis Antetokounmpo shooting foul	61	32
+35.1		Deandre Ayton makes free throw 1 of 2	62	32
+35.1		Deandre Ayton makes free throw 2 of 2	63	32
+20.8		Jake LaRavia personal foul	63	32
+20.8		Giannis Antetokounmpo makes free throw 1 of 2	63	33
+20.8		Giannis Antetokounmpo makes free throw 2 of 2	63	34
+3.3		Luka Doncic misses three point shot	63	34
+1.5		Deandre Ayton offensive rebound	63	34
+1.2		Deandre Ayton misses 3-foot tip shot	63	34
+0.3		Austin Reaves offensive rebound	63	34
+0.2		Austin Reaves makes tip shot	65	34
+0.0		(00:00) [Lakers] REF-INITIATED REVIEW (CALL OVERTURNED)	63	34
+0.0		End of the 2nd Quarter	63	34
+12:00		AJ Green enters the game for Gary Trent Jr.	65	34
+12:00		Bronny James enters the game for Dalton Knecht	65	34
+11:47		AJ Green misses 25-foot three point jumper	65	34
+11:43		Deandre Ayton defensive rebound	65	34
+11:27		Jake LaRavia misses 26-foot three point jumper	65	34
+11:24		Giannis Antetokounmpo defensive rebound	65	34
+11:18		Giannis Antetokounmpo makes two point shot	65	36
+11:07		Kyle Kuzma shooting foul	65	36
+11:07		Luka Doncic makes free throw 1 of 2	66	36
+11:07		Luka Doncic makes free throw 2 of 2	67	36
+10:53		AJ Green makes 26-foot three point jumper (Myles Turner assists)	67	39
+10:37		Austin Reaves makes 27-foot three pointer	70	39
+10:23		Myles Turner makes 24-foot three point jumper (Giannis Antetokounmpo assists)	70	42
+10:06		Jake LaRavia bad pass (Ryan Rollins steals)	70	42
+10:00		Giannis Antetokounmpo makes two point shot (Ryan Rollins assists)	70	44
+9:45		Bronny James misses 27-foot three point jumper	70	44
+9:41		Myles Turner defensive rebound	70	44
+9:34		Ryan Rollins makes driving layup	70	46
+9:12		Luka Doncic misses 27-foot three point step back jumpshot	70	46
+9:07		Myles Turner defensive rebound	70	46
+8:59		AJ Green makes 23-foot three point jumper (Giannis Antetokounmpo assists)	70	49
+8:59		Lakers Full timeout	70	49
+8:59		Dalton Knecht enters the game for Bronny James	70	49
+8:42		Dalton Knecht misses 23-foot three point jumper	70	49
+8:38		Giannis Antetokounmpo defensive rebound	70	49
+8:28		AJ Green makes 22-foot three point jumper (Giannis Antetokounmpo assists)	70	52
+8:20		Austin Reaves lost ball turnover (Ryan Rollins steals)	70	52
+8:16		Ryan Rollins makes 1-foot driving dunk	70	54
+8:01		Kyle Kuzma shooting foul	70	54
+8:01		Luka Doncic makes free throw 1 of 2	71	54
+8:01		Gary Harris enters the game for Kyle Kuzma	71	54
+8:01		Luka Doncic makes free throw 2 of 2	72	54
+7:45		AJ Green misses 26-foot three point pullup jump shot	72	54
+7:42		Giannis Antetokounmpo offensive rebound	72	54
+7:41		Luka Doncic blocks Giannis Antetokounmpo 's 9-foot two point shot	72	54
+7:40		Luka Doncic defensive rebound	72	54
+7:28		Ryan Rollins personal foul	72	54
+7:18		Deandre Ayton makes 1-foot dunk (Luka Doncic assists)	74	54
+7:07		Jake LaRavia personal foul	74	54
+7:03		AJ Green bad pass (Dalton Knecht steals)	74	54
+6:40		Deandre Ayton makes alley oop dunk shot (Austin Reaves assists)	76	54
+6:22		Luka Doncic blocks Gary Harris 's 27-foot three point jumper	76	54
+6:20		Bucks offensive team rebound	76	54
+6:20		Austin Reaves loose ball foul	76	54
+6:15		Ryan Rollins misses driving floating jump shot	76	54
+6:13		Luka Doncic defensive rebound	76	54
+6:07		Dalton Knecht misses 23-foot three point jumper	76	54
+6:04		Myles Turner defensive rebound	76	54
+5:54		Bucks Full timeout	76	54
+5:54		Maxi Kleber enters the game for Jake LaRavia	76	54
+5:52		Deandre Ayton shooting foul	76	54
+5:52		Giannis Antetokounmpo misses free throw 1 of 2	76	54
+5:52		Bucks offensive team rebound	76	54
+5:52		Giannis Antetokounmpo makes free throw 2 of 2	76	55
+5:38		Deandre Ayton offensive goaltending turnover	76	55
+5:20		Giannis Antetokounmpo makes layup	76	57
+4:56		Austin Reaves makes 14-foot two point shot	78	57
+4:30		AJ Green makes 23-foot three point jumper (Giannis Antetokounmpo assists)	78	60
+4:14		Myles Turner shooting foul	78	60
+4:14		Luka Doncic makes free throw 1 of 2	79	60
+4:14		Luka Doncic makes free throw 2 of 2	80	60
+4:04		Ryan Rollins misses 26-foot three point step back jumpshot	80	60
+4:01		Austin Reaves defensive rebound	80	60
+3:51		Luka Doncic misses 25-foot three point step back jumpshot	80	60
+3:48		Austin Reaves offensive rebound	80	60
+3:42		Deandre Ayton misses 13-foot jumper	80	60
+3:39		Myles Turner defensive rebound	80	60
+3:25		Deandre Ayton shooting foul	80	60
+3:25		Giannis Antetokounmpo makes free throw 1 of 2	80	61
+3:25		Cole Anthony enters the game for Myles Turner	80	61
+3:25		Bobby Portis enters the game for Ryan Rollins	80	61
+3:25		Jaxson Hayes enters the game for Deandre Ayton	80	61
+3:25		Giannis Antetokounmpo makes free throw 2 of 2	80	62
+3:02		Austin Reaves makes 29-foot three point jumper (Maxi Kleber assists)	83	62
+2:55		Maxi Kleber shooting foul	83	62
+2:55		Giannis Antetokounmpo makes free throw 1 of 2	83	63
+2:55		Gary Trent Jr. enters the game for AJ Green	83	63
+2:55		Giannis Antetokounmpo makes free throw 2 of 2	83	64
+2:38		Cole Anthony personal foul	83	64
+2:38		Luka Doncic misses free throw 1 of 2	83	64
+2:38		Lakers offensive team rebound	83	64
+2:38		Luka Doncic makes free throw 2 of 2	84	64
+2:24		Giannis Antetokounmpo misses 14-foot two point shot	84	64
+2:19		Maxi Kleber defensive rebound	84	64
+2:13		Austin Reaves misses 30-foot three point pullup jump shot	84	64
+2:08		Bobby Portis defensive rebound	84	64
+2:00		Giannis Antetokounmpo makes driving layup (Cole Anthony assists)	84	66
+1:45		Jaxson Hayes out of bounds bad pass turnover	84	66
+1:45		Jake LaRavia enters the game for Austin Reaves	84	66
+1:37		Cole Anthony misses two point shot	84	66
+1:36		Giannis Antetokounmpo offensive rebound	84	66
+1:36		Giannis Antetokounmpo makes tip shot	84	68
+1:21		Luka Doncic bad pass (Cole Anthony steals)	84	68
+1:16		Bobby Portis makes two point shot (Cole Anthony assists)	84	70
+56.5		Luka Doncic makes 29-foot three point step back jumpshot	87	70
+38.6		Gary Trent Jr. makes two point shot (Giannis Antetokounmpo assists)	87	72
+30.9		Luka Doncic makes 26-foot three point step back jumpshot	90	72
+10.8		Luka Doncic personal foul	90	72
+10.8		Giannis Antetokounmpo misses free throw 1 of 2	90	72
+10.8		Bucks offensive team rebound	90	72
+10.8		Austin Reaves enters the game for Maxi Kleber	90	72
+10.8		Giannis Antetokounmpo misses free throw 2 of 2	90	72
+10.8		Lakers defensive team rebound	90	72
+2.0		Luka Doncic makes 10-foot driving floating jump shot	92	72
+0.5		Cole Anthony misses heave jump shot	92	72
+0.1		Bucks offensive team rebound	92	72
+0.0		End of the 3rd Quarter	92	72
+12:00		Myles Turner enters the game for Giannis Antetokounmpo	92	72
+12:00		Jarred Vanderbilt enters the game for Austin Reaves	92	72
+11:46		Luka Doncic misses 26-foot three point jumper	92	72
+11:45		Jake LaRavia offensive rebound	92	72
+11:43		Jake LaRavia misses tip shot	92	72
+11:42		Cole Anthony defensive rebound	92	72
+11:33		Gary Harris makes 25-foot three point shot (Gary Trent Jr. assists)	92	75
+11:16		Jaxson Hayes misses 6-foot two point shot	92	75
+11:11		Myles Turner defensive rebound	92	75
+10:59		Bobby Portis misses 15-foot two point shot	92	75
+10:56		Luka Doncic defensive rebound	92	75
+10:45		Jaxson Hayes makes 1-foot dunk (Jarred Vanderbilt assists)	94	75
+10:23		Myles Turner misses 13-foot two point shot	94	75
+10:21		Luka Doncic defensive rebound	94	75
+10:08		Luka Doncic out of bounds lost ball turnover	94	75
+10:08		Austin Reaves enters the game for Luka Doncic	94	75
+9:55		Bobby Portis makes 26-foot three point jumper (Cole Anthony assists)	94	78
+9:37		Dalton Knecht misses 26-foot three point jumper	94	78
+9:33		Cole Anthony defensive rebound	94	78
+9:26		Bobby Portis misses 11-foot two point shot	94	78
+9:23		Jaxson Hayes defensive rebound	94	78
+9:08		Austin Reaves misses 9-foot pullup jump shot	94	78
+9:04		Bobby Portis defensive rebound	94	78
+8:54		Gary Trent Jr. makes 27-foot three point step back jumpshot	94	81
+8:54		Lakers Full timeout	94	81
+8:54		Maxi Kleber enters the game for Jarred Vanderbilt	94	81
+8:39		Austin Reaves misses 27-foot three point pullup jump shot	94	81
+8:33		Cole Anthony defensive rebound	94	81
+8:27		Cole Anthony misses two point shot	94	81
+8:25		Austin Reaves defensive rebound	94	81
+8:15		Gary Trent Jr. personal foul	94	81
+8:07		Austin Reaves makes 26-foot three pointer	97	81
+7:45		Gary Trent Jr. makes 26-foot three point step back jumpshot	97	84
+7:24		Jake LaRavia misses 23-foot three point jumper	97	84
+7:21		Gary Harris defensive rebound	97	84
+7:12		Gary Trent Jr. misses 25-foot three point step back jumpshot	97	84
+7:08		Jake LaRavia defensive rebound	97	84
+6:53		Austin Reaves makes 26-foot three point step back jumpshot (Maxi Kleber assists)	100	84
+6:51		Bucks Full timeout	100	84
+6:51		Ryan Rollins enters the game for Bobby Portis	100	84
+6:51		Giannis Antetokounmpo enters the game for Cole Anthony	100	84
+6:51		Deandre Ayton enters the game for Dalton Knecht	100	84
+6:51		Luka Doncic enters the game for Jaxson Hayes	100	84
+6:35		Myles Turner steps out of bounds turnover	100	84
+6:20		Deandre Ayton offensive foul	100	84
+6:20		Deandre Ayton turnover	100	84
+6:09		Gary Trent Jr. misses 27-foot three point jumper	100	84
+6:06		Jake LaRavia defensive rebound	100	84
+5:48		Austin Reaves makes 28-foot three point step back jumpshot (Maxi Kleber assists)	103	84
+5:31		Giannis Antetokounmpo makes 27-foot three point jumper (Ryan Rollins assists)	103	87
+5:14		Jake LaRavia misses 9-foot two point shot	103	87
+5:12		Deandre Ayton offensive rebound	103	87
+5:01		Gary Harris shooting foul	103	87
+5:01		Luka Doncic makes free throw 1 of 2	104	87
+5:01		AJ Green enters the game for Myles Turner	104	87
+5:01		Luka Doncic makes free throw 2 of 2	105	87
+5:01		(05:01) [Lakers] COACH'S CHALLENGE (CALL REPLAYCENTER)	105	87
+4:53		Maxi Kleber shooting foul	105	87
+4:53		Ryan Rollins misses free throw 1 of 2	105	87
+4:53		Bucks offensive team rebound	105	87
+4:53		Bucks Full timeout	105	87
+4:53		Ryan Rollins makes free throw 2 of 2	105	88
+4:44		Gary Trent Jr. personal foul	105	88
+4:35		Deandre Ayton 3 second turnover	105	88
+4:13		Gary Harris misses driving layup	105	88
+4:09		Deandre Ayton defensive rebound	105	88
+4:03		Gary Trent Jr. shooting foul	105	88
+4:03		Jake LaRavia makes free throw 1 of 2	106	88
+4:03		Kyle Kuzma enters the game for Gary Harris	106	88
+4:03		Jake LaRavia makes free throw 2 of 2	107	88
+3:49		Ryan Rollins bad pass (Jake LaRavia steals)	107	88
+3:47		Jake LaRavia misses dunk	107	88
+3:45		Austin Reaves offensive rebound	107	88
+3:35		Kyle Kuzma shooting foul	107	88
+3:35		Bucks Full timeout	107	88
+3:35		(03:35) [Bucks] COACH'S CHALLENGE (CALL STANDS) [Bucks] charged with a timeout	107	88
+3:35		Luka Doncic makes free throw 1 of 3	108	88
+3:35		Luka Doncic makes free throw 2 of 3	109	88
+3:35		Andre Jackson Jr. enters the game for Giannis Antetokounmpo	109	88
+3:35		Luka Doncic makes free throw 3 of 3	110	88
+3:21		Deandre Ayton blocks Ryan Rollins 's 4-foot two point shot	110	88
+3:16		Deandre Ayton defensive rebound	110	88
+3:05		Lakers Full timeout	110	88
+3:05		Jericho Sims enters the game for Gary Trent Jr.	110	88
+3:05		Thanasis Antetokounmpo enters the game for Ryan Rollins	110	88
+3:05		Amir Coffey enters the game for Kyle Kuzma	110	88
+3:05		Mark Sears enters the game for AJ Green	110	88
+2:57		Austin Reaves misses 14-foot two point shot	110	88
+2:56		Lakers offensive team rebound	110	88
+2:53		shot clock turnover	110	88
+2:53		Austin Reaves personal foul	110	88
+2:53		Nick Smith Jr. enters the game for Deandre Ayton	110	88
+2:53		Bronny James enters the game for Jake LaRavia	110	88
+2:53		Adou Thiero enters the game for Austin Reaves	110	88
+2:53		Dalton Knecht enters the game for Luka Doncic	110	88
+2:41		Mark Sears makes 13-foot step back jumpshot	110	90
+2:17		Jericho Sims blocks Dalton Knecht 's 13-foot driving floating jump shot	110	90
+2:15		Thanasis Antetokounmpo defensive rebound	110	90
+2:12		Andre Jackson Jr. bad pass (Dalton Knecht steals)	110	90
+2:10		Dalton Knecht bad pass (Thanasis Antetokounmpo steals)	110	90
+1:46		Amir Coffey makes 23-foot three point jumper (Andre Jackson Jr. assists)	110	93
+1:25		Nick Smith Jr. misses 27-foot three point step back jumpshot	110	93
+1:22		Bronny James offensive rebound	110	93
+1:21		Andre Jackson Jr. shooting foul	110	93
+1:21		Adou Thiero makes free throw 1 of 2	111	93
+1:21		Adou Thiero makes free throw 2 of 2	112	93
+1:05		Mark Sears bad pass (Bronny James steals)	112	93
+1:03		Adou Thiero makes 1-foot dunk (Bronny James assists)	114	93
+54.6		Andre Jackson Jr. bad pass (Nick Smith Jr. steals)	114	93
+52.4		Dalton Knecht makes 3-foot dunk (Nick Smith Jr. assists)	116	93
+41.4		Andre Jackson Jr. misses 26-foot three point jumper	116	93
+38.4		Mark Sears offensive rebound	116	93
+37.1		Mark Sears bad pass (Dalton Knecht steals)	116	93
+32.2		Nick Smith Jr. makes 26-foot three point shot (Dalton Knecht assists)	119	93
+25.4		Mark Sears makes driving layup	119	95
+1.3		shot clock turnover	119	95
+0.0		End of the 4th Quarter	119	95
+0.0		End of Game	119	95
+
+
+
